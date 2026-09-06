@@ -1,0 +1,1857 @@
+{
+  "board" : {
+    "footprints" : [
+      {
+        "at" : {
+          "x" : 25400000,
+          "y" : 101600000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1950000,
+            "y" : -2505000
+          },
+          "size" : {
+            "height" : 5010000,
+            "width" : 3900000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : -1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : -635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : 635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "3",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : 1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "4",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : 1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "5",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : 635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "6",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : -635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "7",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : -1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "8",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          }
+        ],
+        "reference" : "U1",
+        "rotation" : 0,
+        "value" : "AD823"
+      },
+      {
+        "at" : {
+          "x" : 50800000,
+          "y" : 101600000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1950000,
+            "y" : -2505000
+          },
+          "size" : {
+            "height" : 5010000,
+            "width" : 3900000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : -1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : -635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : 635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "3",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : 1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "4",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : 1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "5",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : 635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "6",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : -635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "7",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : -1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "8",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          }
+        ],
+        "reference" : "U2",
+        "rotation" : 0,
+        "value" : "AD823"
+      },
+      {
+        "at" : {
+          "x" : 76200000,
+          "y" : 101600000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1950000,
+            "y" : -2505000
+          },
+          "size" : {
+            "height" : 5010000,
+            "width" : 3900000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : -1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : -635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : 635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "3",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : -2600000,
+              "y" : 1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "4",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : 1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "5",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : 635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "6",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : -635000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "7",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          },
+          {
+            "at" : {
+              "x" : 2600000,
+              "y" : -1905000
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "8",
+            "shape" : 0,
+            "size" : {
+              "height" : 600000,
+              "width" : 1550000
+            }
+          }
+        ],
+        "reference" : "U3",
+        "rotation" : 0,
+        "value" : "AD823"
+      },
+      {
+        "at" : {
+          "x" : 38100000,
+          "y" : 12700000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J1",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 63500000,
+          "y" : 12700000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J2",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 12700000,
+          "y" : 38100000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J3",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 38100000,
+          "y" : 38100000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J4",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 63500000,
+          "y" : 38100000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J5",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 88900000,
+          "y" : 38100000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J6",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 12700000,
+          "y" : 63500000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J7",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 38100000,
+          "y" : 63500000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J8",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 63500000,
+          "y" : 63500000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J9",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 88900000,
+          "y" : 63500000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -5000000,
+            "y" : -6000000
+          },
+          "size" : {
+            "height" : 12000000,
+            "width" : 10000000
+          }
+        },
+        "flipped" : false,
+        "pads" : [
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 0
+            },
+            "drill" : 6350000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 10000000,
+              "width" : 10000000
+            }
+          },
+          {
+            "at" : {
+              "x" : 0,
+              "y" : 5000000
+            },
+            "drill" : 1000000,
+            "layer" : 0,
+            "name" : "1",
+            "shape" : 1,
+            "size" : {
+              "height" : 2000000,
+              "width" : 2000000
+            }
+          }
+        ],
+        "reference" : "J10",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      }
+    ],
+    "holes" : [
+
+    ],
+    "rules" : {
+      "clearance" : 300000,
+      "traceWidth" : 470000,
+      "viaDrill" : 500000,
+      "viaPad" : 900000
+    },
+    "size" : {
+      "height" : 152400000,
+      "width" : 101600000
+    },
+    "stack" : 6,
+    "traces" : [
+
+    ],
+    "vias" : [
+
+    ]
+  },
+  "modules" : [
+    {
+      "filename" : "Dual buffer.xcb",
+      "id" : "4FB70206-11B5-45FD-A818-AD7B07CBF22C",
+      "interface" : [
+        "IN1",
+        "IN2",
+        "OUT1",
+        "OUT2"
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 12700000,
+        "y" : 120650000
+      },
+      "layoutRotation" : 0,
+      "reference" : "M1",
+      "schematicAt" : {
+        "x" : 101600000,
+        "y" : 152400000
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 12700000,
+        "width" : 25400000
+      }
+    },
+    {
+      "filename" : "Dual buffer.xcb",
+      "id" : "D1385BCC-19A1-4DDD-9ED4-9B49F16BC242",
+      "interface" : [
+        "IN1",
+        "IN2",
+        "OUT1",
+        "OUT2"
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 63500000,
+        "y" : 120650000
+      },
+      "layoutRotation" : 0,
+      "reference" : "M2",
+      "schematicAt" : {
+        "x" : 203200000,
+        "y" : 152400000
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 12700000,
+        "width" : 25400000
+      }
+    }
+  ],
+  "nets" : [
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    }
+  ],
+  "schematic" : {
+    "labels" : [
+
+    ],
+    "size" : {
+      "height" : 210000000,
+      "width" : 297000000
+    },
+    "symbols" : [
+      {
+        "at" : {
+          "x" : 101600000,
+          "y" : 127000000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -6350000
+          },
+          "size" : {
+            "height" : 12700000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -6350000
+                },
+                "size" : {
+                  "height" : 12700000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : -3810000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "OUT1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : -1270000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "-IN1",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 1270000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "+IN1",
+            "number" : "3"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 3810000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "-VS",
+            "number" : "4"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : 3810000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "+IN2",
+            "number" : "5"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : 1270000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "-IN2",
+            "number" : "6"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : -1270000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "OUT2",
+            "number" : "7"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : -3810000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "+VS",
+            "number" : "8"
+          }
+        ],
+        "reference" : "U1",
+        "rotation" : 0,
+        "value" : "AD823"
+      },
+      {
+        "at" : {
+          "x" : 152400000,
+          "y" : 127000000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -6350000
+          },
+          "size" : {
+            "height" : 12700000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -6350000
+                },
+                "size" : {
+                  "height" : 12700000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : -3810000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "OUT1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : -1270000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "-IN1",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 1270000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "+IN1",
+            "number" : "3"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 3810000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "-VS",
+            "number" : "4"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : 3810000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "+IN2",
+            "number" : "5"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : 1270000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "-IN2",
+            "number" : "6"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : -1270000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "OUT2",
+            "number" : "7"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : -3810000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "+VS",
+            "number" : "8"
+          }
+        ],
+        "reference" : "U2",
+        "rotation" : 0,
+        "value" : "AD823"
+      },
+      {
+        "at" : {
+          "x" : 203200000,
+          "y" : 127000000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -6350000
+          },
+          "size" : {
+            "height" : 12700000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -6350000
+                },
+                "size" : {
+                  "height" : 12700000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : -3810000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "OUT1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : -1270000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "-IN1",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 1270000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "+IN1",
+            "number" : "3"
+          },
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 3810000
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "-VS",
+            "number" : "4"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : 3810000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "+IN2",
+            "number" : "5"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : 1270000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "-IN2",
+            "number" : "6"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : -1270000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "OUT2",
+            "number" : "7"
+          },
+          {
+            "at" : {
+              "x" : 8890000,
+              "y" : -3810000
+            },
+            "direction" : 0,
+            "length" : 2540000,
+            "name" : "+VS",
+            "number" : "8"
+          }
+        ],
+        "reference" : "U3",
+        "rotation" : 0,
+        "value" : "AD823"
+      },
+      {
+        "at" : {
+          "x" : 127000000,
+          "y" : 25400000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J1",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 177800000,
+          "y" : 25400000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J2",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 76200000,
+          "y" : 50800000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J3",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 127000000,
+          "y" : 50800000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J4",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 177800000,
+          "y" : 50800000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J5",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 228600000,
+          "y" : 50800000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J6",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 76200000,
+          "y" : 76200000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J7",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 127000000,
+          "y" : 76200000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J8",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 177800000,
+          "y" : 76200000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J9",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      },
+      {
+        "at" : {
+          "x" : 228600000,
+          "y" : 76200000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350000,
+            "y" : -2540000
+          },
+          "size" : {
+            "height" : 5080000,
+            "width" : 12700000
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350000,
+                  "y" : -2540000
+                },
+                "size" : {
+                  "height" : 5080000,
+                  "width" : 12700000
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890000,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540000,
+            "name" : "JACK",
+            "number" : "1"
+          }
+        ],
+        "reference" : "J10",
+        "rotation" : 0,
+        "value" : "Pomona 1581"
+      }
+    ],
+    "wires" : [
+
+    ]
+  }
+}

@@ -3,919 +3,318 @@
     "footprints" : [
       {
         "at" : {
-          "x" : 25400000,
-          "y" : 101600000
+          "x" : 63500,
+          "y" : 12700
         },
-        "body" : {
-          "origin" : {
-            "x" : -1950000,
-            "y" : -2505000
-          },
-          "size" : {
-            "height" : 5010000,
-            "width" : 3900000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : -1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : -635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "2",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : 635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "3",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : 1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "4",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : 1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "5",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : 635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "6",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : -635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "7",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : -1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "8",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          }
-        ],
-        "reference" : "U1",
-        "rotation" : 0,
-        "value" : "AD823"
-      },
-      {
-        "at" : {
-          "x" : 50800000,
-          "y" : 101600000
-        },
-        "body" : {
-          "origin" : {
-            "x" : -1950000,
-            "y" : -2505000
-          },
-          "size" : {
-            "height" : 5010000,
-            "width" : 3900000
-          }
-        },
-        "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : -1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : -635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "2",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : 635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "3",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : 1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "4",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : 1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "5",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : 635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "6",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : -635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "7",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : -1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "8",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          }
-        ],
-        "reference" : "U2",
-        "rotation" : 0,
-        "value" : "AD823"
-      },
-      {
-        "at" : {
-          "x" : 76200000,
-          "y" : 101600000
-        },
-        "body" : {
-          "origin" : {
-            "x" : -1950000,
-            "y" : -2505000
-          },
-          "size" : {
-            "height" : 5010000,
-            "width" : 3900000
-          }
-        },
-        "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : -1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : -635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "2",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : 635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "3",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : -2600000,
-              "y" : 1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "4",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : 1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "5",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : 635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "6",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : -635000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "7",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          },
-          {
-            "at" : {
-              "x" : 2600000,
-              "y" : -1905000
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "8",
-            "shape" : 0,
-            "size" : {
-              "height" : 600000,
-              "width" : 1550000
-            }
-          }
-        ],
-        "reference" : "U3",
-        "rotation" : 0,
-        "value" : "AD823"
-      },
-      {
-        "at" : {
-          "x" : 38100000,
-          "y" : 12700000
-        },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
-        "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J1",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 63500000,
-          "y" : 12700000
+          "x" : 38100,
+          "y" : 12700
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J2",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 12700000,
-          "y" : 38100000
+          "x" : 88900,
+          "y" : 38100
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J3",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 38100000,
-          "y" : 38100000
+          "x" : 63500,
+          "y" : 38100
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J4",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 63500000,
-          "y" : 38100000
+          "x" : 38100,
+          "y" : 38100
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J5",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 88900000,
-          "y" : 38100000
+          "x" : 12700,
+          "y" : 38100
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J6",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 12700000,
-          "y" : 63500000
+          "x" : 88900,
+          "y" : 63500
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J7",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 38100000,
-          "y" : 63500000
+          "x" : 63500,
+          "y" : 63500
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J8",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 63500000,
-          "y" : 63500000
+          "x" : 38100,
+          "y" : 63500
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "Pomona 1581",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
         "reference" : "J9",
         "rotation" : 0,
         "value" : "Pomona 1581"
       },
       {
         "at" : {
-          "x" : 88900000,
-          "y" : 63500000
+          "x" : 25400,
+          "y" : 25400
         },
-        "body" : {
-          "origin" : {
-            "x" : -5000000,
-            "y" : -6000000
-          },
-          "size" : {
-            "height" : 12000000,
-            "width" : 10000000
-          }
-        },
+        "component" : "MTA-156-3",
         "flipped" : false,
-        "pads" : [
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 0
-            },
-            "drill" : 6350000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 10000000,
-              "width" : 10000000
-            }
-          },
-          {
-            "at" : {
-              "x" : 0,
-              "y" : 5000000
-            },
-            "drill" : 1000000,
-            "layer" : 0,
-            "name" : "1",
-            "shape" : 1,
-            "size" : {
-              "height" : 2000000,
-              "width" : 2000000
-            }
-          }
-        ],
+        "inBOM" : true,
+        "reference" : "J11",
+        "rotation" : 3,
+        "value" : "MTA-156-3"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 25400
+        },
+        "component" : "MTA-156-3",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "J12",
+        "rotation" : 3,
+        "value" : "MTA-156-3"
+      },
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P1",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 63500,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P2",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P3",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P4",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 63500,
+          "y" : 88900
+        },
+        "component" : "HLMP-WL02",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "D1",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 88900
+        },
+        "component" : "HLMP-WL02",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "D2",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW1",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 63500,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW2",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW3",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW4",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 88900
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW5",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 88900
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW6",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 63500
+        },
+        "component" : "Pomona 1581",
+        "flipped" : false,
+        "inBOM" : true,
         "reference" : "J10",
         "rotation" : 0,
         "value" : "Pomona 1581"
       }
     ],
     "holes" : [
-
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 12700
+        },
+        "diameter" : 12500
+      },
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 12700
+        },
+        "diameter" : 12500
+      }
     ],
     "rules" : {
-      "clearance" : 300000,
-      "traceWidth" : 470000,
-      "viaDrill" : 500000,
-      "viaPad" : 900000
+      "clearance" : 300,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
     },
     "size" : {
-      "height" : 152400000,
-      "width" : 101600000
+      "height" : 152400,
+      "width" : 101600
     },
     "stack" : 6,
     "traces" : [
@@ -927,8 +326,8 @@
   },
   "modules" : [
     {
-      "filename" : "Dual buffer.xcb",
-      "id" : "4FB70206-11B5-45FD-A818-AD7B07CBF22C",
+      "filename" : "Buffer2.xcb",
+      "id" : "FA89A088-E893-4380-8D44-F513E4C72F1D",
       "interface" : [
         "IN1",
         "IN2",
@@ -937,24 +336,24 @@
       ],
       "layerCount" : 6,
       "layoutAt" : {
-        "x" : 12700000,
-        "y" : 120650000
+        "x" : 63500,
+        "y" : 120650
       },
       "layoutRotation" : 0,
       "reference" : "M1",
       "schematicAt" : {
-        "x" : 101600000,
-        "y" : 152400000
+        "x" : 152400,
+        "y" : 127000
       },
       "schematicRotation" : 0,
       "size" : {
-        "height" : 12700000,
-        "width" : 25400000
+        "height" : 12700,
+        "width" : 25400
       }
     },
     {
-      "filename" : "Dual buffer.xcb",
-      "id" : "D1385BCC-19A1-4DDD-9ED4-9B49F16BC242",
+      "filename" : "Buffer2.xcb",
+      "id" : "4BBAD57D-89A2-4CF9-8E9C-4B9A4F54F9C0",
       "interface" : [
         "IN1",
         "IN2",
@@ -963,23 +362,119 @@
       ],
       "layerCount" : 6,
       "layoutAt" : {
-        "x" : 63500000,
-        "y" : 120650000
+        "x" : 12700,
+        "y" : 120650
       },
       "layoutRotation" : 0,
       "reference" : "M2",
       "schematicAt" : {
-        "x" : 203200000,
-        "y" : 152400000
+        "x" : 203200,
+        "y" : 127000
       },
       "schematicRotation" : 0,
       "size" : {
-        "height" : 12700000,
-        "width" : 25400000
+        "height" : 12700,
+        "width" : 25400
       }
     }
   ],
   "nets" : [
+    {
+      "id" : -2959064290147169670,
+      "name" : "M1.N$4"
+    },
+    {
+      "id" : -2959063190635541459,
+      "name" : "M1.N$5"
+    },
+    {
+      "id" : -2959062091123913248,
+      "name" : "M1.N$6"
+    },
+    {
+      "id" : -2959060991612285037,
+      "name" : "M1.N$7"
+    },
+    {
+      "id" : -2959059892100656826,
+      "name" : "M1.N$8"
+    },
+    {
+      "id" : -1338068758708314942,
+      "name" : "M1.#OUT1"
+    },
+    {
+      "id" : -1338064360661802098,
+      "name" : "M1.N$2"
+    },
+    {
+      "id" : -1338063261150173887,
+      "name" : "M1.N$1"
+    },
+    {
+      "id" : -1338062161638545676,
+      "name" : "M1.#IN1"
+    },
+    {
+      "id" : -1338061062126917465,
+      "name" : "M1.#OUT2"
+    },
+    {
+      "id" : -1338057763592032832,
+      "name" : "M1.N$3"
+    },
+    {
+      "id" : -1338056664080404621,
+      "name" : "M1.#IN2"
+    },
+    {
+      "id" : -1197965149052285086,
+      "name" : "M2.#OUT2"
+    },
+    {
+      "id" : -1197964049540656875,
+      "name" : "M2.#IN1"
+    },
+    {
+      "id" : -1197962950029028664,
+      "name" : "M2.N$1"
+    },
+    {
+      "id" : -1197961850517400453,
+      "name" : "M2.N$2"
+    },
+    {
+      "id" : -1197957452470887609,
+      "name" : "M2.#OUT1"
+    },
+    {
+      "id" : -1197951954912746554,
+      "name" : "M2.#IN2"
+    },
+    {
+      "id" : -1197950855401118343,
+      "name" : "M2.N$3"
+    },
+    {
+      "id" : -1084102904341678046,
+      "name" : "M2.N$5"
+    },
+    {
+      "id" : -1084101804830049835,
+      "name" : "M2.N$4"
+    },
+    {
+      "id" : -1084100705318421624,
+      "name" : "M2.N$7"
+    },
+    {
+      "id" : -1084099605806793413,
+      "name" : "M2.N$6"
+    },
+    {
+      "id" : -1084097406783536991,
+      "name" : "M2.N$8"
+    },
     {
       "id" : 0,
       "name" : "GND"
@@ -998,36 +493,37 @@
 
     ],
     "size" : {
-      "height" : 210000000,
-      "width" : 297000000
+      "height" : 210000,
+      "width" : 297000
     },
     "symbols" : [
       {
         "at" : {
-          "x" : 101600000,
-          "y" : 127000000
+          "x" : 76200,
+          "y" : 25400
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -6350000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 12700000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -6350000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 12700000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1038,368 +534,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
-              "y" : -3810000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "OUT1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : -1270000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "-IN1",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : 1270000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "+IN1",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : 3810000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "-VS",
-            "number" : "4"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : 3810000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "+IN2",
-            "number" : "5"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : 1270000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "-IN2",
-            "number" : "6"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : -1270000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "OUT2",
-            "number" : "7"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : -3810000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "+VS",
-            "number" : "8"
-          }
-        ],
-        "reference" : "U1",
-        "rotation" : 0,
-        "value" : "AD823"
-      },
-      {
-        "at" : {
-          "x" : 152400000,
-          "y" : 127000000
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350000,
-            "y" : -6350000
-          },
-          "size" : {
-            "height" : 12700000,
-            "width" : 12700000
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350000,
-                  "y" : -6350000
-                },
-                "size" : {
-                  "height" : 12700000,
-                  "width" : 12700000
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : -3810000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "OUT1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : -1270000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "-IN1",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : 1270000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "+IN1",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : 3810000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "-VS",
-            "number" : "4"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : 3810000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "+IN2",
-            "number" : "5"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : 1270000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "-IN2",
-            "number" : "6"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : -1270000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "OUT2",
-            "number" : "7"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : -3810000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "+VS",
-            "number" : "8"
-          }
-        ],
-        "reference" : "U2",
-        "rotation" : 0,
-        "value" : "AD823"
-      },
-      {
-        "at" : {
-          "x" : 203200000,
-          "y" : 127000000
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350000,
-            "y" : -6350000
-          },
-          "size" : {
-            "height" : 12700000,
-            "width" : 12700000
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350000,
-                  "y" : -6350000
-                },
-                "size" : {
-                  "height" : 12700000,
-                  "width" : 12700000
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : -3810000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "OUT1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : -1270000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "-IN1",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : 1270000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "+IN1",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : -8890000,
-              "y" : 3810000
-            },
-            "direction" : 2,
-            "length" : 2540000,
-            "name" : "-VS",
-            "number" : "4"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : 3810000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "+IN2",
-            "number" : "5"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : 1270000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "-IN2",
-            "number" : "6"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : -1270000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "OUT2",
-            "number" : "7"
-          },
-          {
-            "at" : {
-              "x" : 8890000,
-              "y" : -3810000
-            },
-            "direction" : 0,
-            "length" : 2540000,
-            "name" : "+VS",
-            "number" : "8"
-          }
-        ],
-        "reference" : "U3",
-        "rotation" : 0,
-        "value" : "AD823"
-      },
-      {
-        "at" : {
-          "x" : 127000000,
-          "y" : 25400000
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
-          },
-          "size" : {
-            "height" : 5080000,
-            "width" : 12700000
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
-                },
-                "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1410,30 +549,31 @@
       },
       {
         "at" : {
-          "x" : 177800000,
-          "y" : 25400000
+          "x" : 50800,
+          "y" : 25400
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1444,11 +584,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1459,30 +599,31 @@
       },
       {
         "at" : {
-          "x" : 76200000,
-          "y" : 50800000
+          "x" : 25400,
+          "y" : 50800
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1493,11 +634,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1508,30 +649,31 @@
       },
       {
         "at" : {
-          "x" : 127000000,
-          "y" : 50800000
+          "x" : 50800,
+          "y" : 50800
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1542,11 +684,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1557,30 +699,31 @@
       },
       {
         "at" : {
-          "x" : 177800000,
-          "y" : 50800000
+          "x" : 76200,
+          "y" : 50800
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1591,11 +734,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1606,30 +749,31 @@
       },
       {
         "at" : {
-          "x" : 228600000,
-          "y" : 50800000
+          "x" : 101600,
+          "y" : 50800
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1640,11 +784,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1655,30 +799,31 @@
       },
       {
         "at" : {
-          "x" : 76200000,
-          "y" : 76200000
+          "x" : 25400,
+          "y" : 76200
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1689,11 +834,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1704,30 +849,31 @@
       },
       {
         "at" : {
-          "x" : 127000000,
-          "y" : 76200000
+          "x" : 50800,
+          "y" : 76200
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1738,11 +884,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1753,30 +899,31 @@
       },
       {
         "at" : {
-          "x" : 177800000,
-          "y" : 76200000
+          "x" : 76200,
+          "y" : 76200
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -2540
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 5080,
+            "width" : 12700
           }
         },
+        "component" : "Pomona 1581",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -2540
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 5080,
+                  "width" : 12700
                 }
               }
             }
@@ -1787,11 +934,11 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }
@@ -1802,30 +949,31 @@
       },
       {
         "at" : {
-          "x" : 228600000,
-          "y" : 76200000
+          "x" : 88900,
+          "y" : 38100
         },
         "body" : {
           "origin" : {
-            "x" : -6350000,
-            "y" : -2540000
+            "x" : -6350,
+            "y" : -3810
           },
           "size" : {
-            "height" : 5080000,
-            "width" : 12700000
+            "height" : 7620,
+            "width" : 12700
           }
         },
+        "component" : "MTA-156-3",
         "glyph" : [
           {
             "rect" : {
               "_0" : {
                 "origin" : {
-                  "x" : -6350000,
-                  "y" : -2540000
+                  "x" : -6350,
+                  "y" : -3810
                 },
                 "size" : {
-                  "height" : 5080000,
-                  "width" : 12700000
+                  "height" : 7620,
+                  "width" : 12700
                 }
               }
             }
@@ -1836,11 +984,1015 @@
         "pins" : [
           {
             "at" : {
-              "x" : -8890000,
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "3",
+            "number" : "3"
+          }
+        ],
+        "reference" : "J11",
+        "rotation" : 0,
+        "value" : "MTA-156-3"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 38100
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "MTA-156-3",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "3",
+            "number" : "3"
+          }
+        ],
+        "reference" : "J12",
+        "rotation" : 0,
+        "value" : "MTA-156-3"
+      },
+      {
+        "at" : {
+          "x" : 101600,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P1",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P2",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 50800,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P3",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P4",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1270,
+            "y" : -1270
+          },
+          "size" : {
+            "height" : 2540,
+            "width" : 2540
+          }
+        },
+        "component" : "HLMP-WL02",
+        "glyph" : [
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : -1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : -1270,
+                  "y" : 1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 0
+                }
+              ],
+              "closed" : true,
+              "filled" : true
+            }
+          },
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : 1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          }
+        ],
+        "kind" : "diode",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -3810,
               "y" : 0
             },
             "direction" : 2,
-            "length" : 2540000,
+            "length" : 2540,
+            "name" : "A",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 3810,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "K",
+            "number" : "1"
+          }
+        ],
+        "reference" : "D1",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 50800,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1270,
+            "y" : -1270
+          },
+          "size" : {
+            "height" : 2540,
+            "width" : 2540
+          }
+        },
+        "component" : "HLMP-WL02",
+        "glyph" : [
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : -1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : -1270,
+                  "y" : 1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 0
+                }
+              ],
+              "closed" : true,
+              "filled" : true
+            }
+          },
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : 1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          }
+        ],
+        "kind" : "diode",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -3810,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "A",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 3810,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "K",
+            "number" : "1"
+          }
+        ],
+        "reference" : "D2",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 101600,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW1",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW2",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 50800,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW3",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW4",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 101600,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW5",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW6",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 101600,
+          "y" : 76200
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -2540
+          },
+          "size" : {
+            "height" : 5080,
+            "width" : 12700
+          }
+        },
+        "component" : "Pomona 1581",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -2540
+                },
+                "size" : {
+                  "height" : 5080,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
             "name" : "JACK",
             "number" : "1"
           }

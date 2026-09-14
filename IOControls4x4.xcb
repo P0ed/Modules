@@ -1,0 +1,1798 @@
+{
+  "board" : {
+    "footprints" : [
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P1",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 63500,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P2",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P3",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 114300
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P4",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 63500,
+          "y" : 88900
+        },
+        "component" : "HLMP-WL02",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "D1",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 88900
+        },
+        "component" : "HLMP-WL02",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "D2",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW1",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 63500,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW2",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW3",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 139700
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW4",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 88900
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW5",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 88900
+        },
+        "component" : "NKK MN12",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "SW6",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      }
+    ],
+    "holes" : [
+
+    ],
+    "rules" : {
+      "clearance" : 300,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
+    },
+    "size" : {
+      "height" : 152400,
+      "width" : 101600
+    },
+    "solderMask" : false,
+    "stack" : 6,
+    "traces" : [
+
+    ],
+    "vias" : [
+
+    ]
+  },
+  "modules" : [
+
+  ],
+  "nets" : [
+    {
+      "id" : -4393922697421296670,
+      "name" : "N$SW5.3"
+    },
+    {
+      "id" : -4393921597909668459,
+      "name" : "N$SW5.2"
+    },
+    {
+      "id" : -4393920498398040248,
+      "name" : "N$SW5.1"
+    },
+    {
+      "id" : -4367332399145058643,
+      "name" : "N$J8.1"
+    },
+    {
+      "id" : -4211295733495583309,
+      "name" : "N$S33"
+    },
+    {
+      "id" : -4206519454983580850,
+      "name" : "N$S63"
+    },
+    {
+      "id" : -4206518355471952639,
+      "name" : "N$S62"
+    },
+    {
+      "id" : -4206517255960324428,
+      "name" : "N$S61"
+    },
+    {
+      "id" : -4174547329451728826,
+      "name" : "N$J1.1"
+    },
+    {
+      "id" : -4116881984546016170,
+      "name" : "N$P1.3"
+    },
+    {
+      "id" : -4116880885034387959,
+      "name" : "N$P1.2"
+    },
+    {
+      "id" : -4116879785522759748,
+      "name" : "N$P1.1"
+    },
+    {
+      "id" : -3863142547283947385,
+      "name" : "N$J6.1"
+    },
+    {
+      "id" : -3770728049461077970,
+      "name" : "J8"
+    },
+    {
+      "id" : -3770726949949449759,
+      "name" : "J9"
+    },
+    {
+      "id" : -3770723651414565126,
+      "name" : "J4"
+    },
+    {
+      "id" : -3770722551902936915,
+      "name" : "J5"
+    },
+    {
+      "id" : -3770721452391308704,
+      "name" : "J6"
+    },
+    {
+      "id" : -3770720352879680493,
+      "name" : "J7"
+    },
+    {
+      "id" : -3770717054344795860,
+      "name" : "J2"
+    },
+    {
+      "id" : -3770715954833167649,
+      "name" : "J3"
+    },
+    {
+      "id" : -3746925266509473266,
+      "name" : "N$J9.1"
+    },
+    {
+      "id" : -3561343623904206126,
+      "name" : "N$P42"
+    },
+    {
+      "id" : -3561342524392577915,
+      "name" : "N$P43"
+    },
+    {
+      "id" : -3561340325369321493,
+      "name" : "N$P41"
+    },
+    {
+      "id" : -3500294555306078907,
+      "name" : "N$P2.1"
+    },
+    {
+      "id" : -3500293455794450696,
+      "name" : "N$P2.2"
+    },
+    {
+      "id" : -3500292356282822485,
+      "name" : "N$P2.3"
+    },
+    {
+      "id" : -3242735414648362008,
+      "name" : "N$J7.1"
+    },
+    {
+      "id" : -2959064290147169670,
+      "name" : "M1.N$4"
+    },
+    {
+      "id" : -2959063190635541459,
+      "name" : "M1.N$5"
+    },
+    {
+      "id" : -2959062091123913248,
+      "name" : "M1.N$6"
+    },
+    {
+      "id" : -2959060991612285037,
+      "name" : "M1.N$7"
+    },
+    {
+      "id" : -2959059892100656826,
+      "name" : "M1.N$8"
+    },
+    {
+      "id" : -2941213783233479866,
+      "name" : "N$P3.1"
+    },
+    {
+      "id" : -2941211584210223444,
+      "name" : "N$P3.3"
+    },
+    {
+      "id" : -2941210484698595233,
+      "name" : "N$P3.2"
+    },
+    {
+      "id" : -2777830623972602210,
+      "name" : "M3.N$3"
+    },
+    {
+      "id" : -2777829524460973999,
+      "name" : "M3.#IN2"
+    },
+    {
+      "id" : -2777826225926089366,
+      "name" : "M3.#IN1"
+    },
+    {
+      "id" : -2777825126414461155,
+      "name" : "M3.#OUT2"
+    },
+    {
+      "id" : -2777824026902832944,
+      "name" : "M3.N$2"
+    },
+    {
+      "id" : -2777822927391204733,
+      "name" : "M3.N$1"
+    },
+    {
+      "id" : -2777819628856320100,
+      "name" : "M3.#OUT1"
+    },
+    {
+      "id" : -2724499129170492739,
+      "name" : "J10"
+    },
+    {
+      "id" : -2724496930147236317,
+      "name" : "J12"
+    },
+    {
+      "id" : -2687476544994667503,
+      "name" : "N$J4.1"
+    },
+    {
+      "id" : -2661973859475134052,
+      "name" : "N$J12.1"
+    },
+    {
+      "id" : -2523706570218499433,
+      "name" : "S"
+    },
+    {
+      "id" : -2204760681641331116,
+      "name" : "N$D1K"
+    },
+    {
+      "id" : -2067210149847493134,
+      "name" : "N$J5.1"
+    },
+    {
+      "id" : -2045529366746864219,
+      "name" : "N$J11.1"
+    },
+    {
+      "id" : -1889573858598144458,
+      "name" : "N$SW1.3"
+    },
+    {
+      "id" : -1889572759086516247,
+      "name" : "N$SW1.2"
+    },
+    {
+      "id" : -1889571659574888036,
+      "name" : "N$SW1.1"
+    },
+    {
+      "id" : -1878859105542636638,
+      "name" : "M4.NET"
+    },
+    {
+      "id" : -1878858006031008427,
+      "name" : "M4.G"
+    },
+    {
+      "id" : -1878856906519380216,
+      "name" : "M4.N$8"
+    },
+    {
+      "id" : -1878855807007752005,
+      "name" : "M4.N$R1.2\/U1.2"
+    },
+    {
+      "id" : -1878854707496123794,
+      "name" : "M4.N$6"
+    },
+    {
+      "id" : -1878853607984495583,
+      "name" : "M4.N$7"
+    },
+    {
+      "id" : -1878852508472867372,
+      "name" : "M4.N$4"
+    },
+    {
+      "id" : -1878851408961239161,
+      "name" : "M4.N$5"
+    },
+    {
+      "id" : -1878843712379841684,
+      "name" : "M4.GO"
+    },
+    {
+      "id" : -1878842612868213473,
+      "name" : "M4.GN"
+    },
+    {
+      "id" : -1876017967495907089,
+      "name" : "M4.N$C3.2\/R2.2"
+    },
+    {
+      "id" : -1722186165143513678,
+      "name" : "M3.NET"
+    },
+    {
+      "id" : -1722185065631885467,
+      "name" : "M3.G"
+    },
+    {
+      "id" : -1722183966120257256,
+      "name" : "M3.N$8"
+    },
+    {
+      "id" : -1722182866608629045,
+      "name" : "M3.N$R1.2\/U1.2"
+    },
+    {
+      "id" : -1722181767097000834,
+      "name" : "M3.N$6"
+    },
+    {
+      "id" : -1722180667585372623,
+      "name" : "M3.N$7"
+    },
+    {
+      "id" : -1722179568073744412,
+      "name" : "M3.N$4"
+    },
+    {
+      "id" : -1722178468562116201,
+      "name" : "M3.N$5"
+    },
+    {
+      "id" : -1722170771980718724,
+      "name" : "M3.GO"
+    },
+    {
+      "id" : -1722169672469090513,
+      "name" : "M3.GN"
+    },
+    {
+      "id" : -1719204289608373121,
+      "name" : "M3.N$C3.2\/R2.2"
+    },
+    {
+      "id" : -1593284872934770482,
+      "name" : "M4.N$3"
+    },
+    {
+      "id" : -1593283773423142271,
+      "name" : "M4.#IN2"
+    },
+    {
+      "id" : -1593280474888257638,
+      "name" : "M4.#IN1"
+    },
+    {
+      "id" : -1593279375376629427,
+      "name" : "M4.#OUT2"
+    },
+    {
+      "id" : -1593278275865001216,
+      "name" : "M4.N$2"
+    },
+    {
+      "id" : -1593277176353373005,
+      "name" : "M4.N$1"
+    },
+    {
+      "id" : -1593273877818488372,
+      "name" : "M4.#OUT1"
+    },
+    {
+      "id" : -1389368927812031461,
+      "name" : "N$J2.1"
+    },
+    {
+      "id" : -1363866242292498010,
+      "name" : "N$J10.1"
+    },
+    {
+      "id" : -1338068758708314942,
+      "name" : "M1.#OUT1"
+    },
+    {
+      "id" : -1338064360661802098,
+      "name" : "M1.N$2"
+    },
+    {
+      "id" : -1338063261150173887,
+      "name" : "M1.N$1"
+    },
+    {
+      "id" : -1338062161638545676,
+      "name" : "M1.#IN1"
+    },
+    {
+      "id" : -1338061062126917465,
+      "name" : "M1.#OUT2"
+    },
+    {
+      "id" : -1338057763592032832,
+      "name" : "M1.N$3"
+    },
+    {
+      "id" : -1338056664080404621,
+      "name" : "M1.#IN2"
+    },
+    {
+      "id" : -1273127166846618203,
+      "name" : "N$SW2.1"
+    },
+    {
+      "id" : -1273126067334989992,
+      "name" : "N$SW2.2"
+    },
+    {
+      "id" : -1273124967823361781,
+      "name" : "N$SW2.3"
+    },
+    {
+      "id" : -1197965149052285086,
+      "name" : "M2.#OUT2"
+    },
+    {
+      "id" : -1197964049540656875,
+      "name" : "M2.#IN1"
+    },
+    {
+      "id" : -1197962950029028664,
+      "name" : "M2.N$1"
+    },
+    {
+      "id" : -1197961850517400453,
+      "name" : "M2.N$2"
+    },
+    {
+      "id" : -1197957452470887609,
+      "name" : "M2.#OUT1"
+    },
+    {
+      "id" : -1197951954912746554,
+      "name" : "M2.#IN2"
+    },
+    {
+      "id" : -1197950855401118343,
+      "name" : "M2.N$3"
+    },
+    {
+      "id" : -1084102904341678046,
+      "name" : "M2.N$5"
+    },
+    {
+      "id" : -1084101804830049835,
+      "name" : "M2.N$4"
+    },
+    {
+      "id" : -1084100705318421624,
+      "name" : "M2.N$7"
+    },
+    {
+      "id" : -1084099605806793413,
+      "name" : "M2.N$6"
+    },
+    {
+      "id" : -1084097406783536991,
+      "name" : "M2.N$8"
+    },
+    {
+      "id" : -1057960135003669482,
+      "name" : "N$S61\/S62"
+    },
+    {
+      "id" : -738527313313620804,
+      "name" : "N$J3.1"
+    },
+    {
+      "id" : -651453518220089615,
+      "name" : "NET"
+    },
+    {
+      "id" : -591464042392251994,
+      "name" : "N$SW3.1"
+    },
+    {
+      "id" : -591461843368995572,
+      "name" : "N$SW3.3"
+    },
+    {
+      "id" : -591460743857367361,
+      "name" : "N$SW3.2"
+    },
+    {
+      "id" : -402504173652711346,
+      "name" : "N$SW4.2"
+    },
+    {
+      "id" : -402503074141083135,
+      "name" : "N$SW4.3"
+    },
+    {
+      "id" : -402500875117826713,
+      "name" : "N$SW4.1"
+    },
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    },
+    {
+      "id" : 3,
+      "name" : "J"
+    },
+    {
+      "id" : 4,
+      "name" : "#"
+    },
+    {
+      "id" : 5,
+      "name" : "#J"
+    },
+    {
+      "id" : 6,
+      "name" : "#J1"
+    },
+    {
+      "id" : 7,
+      "name" : "#K"
+    },
+    {
+      "id" : 8,
+      "name" : "#J2"
+    },
+    {
+      "id" : 9,
+      "name" : "#J3"
+    },
+    {
+      "id" : 10,
+      "name" : "#J4"
+    },
+    {
+      "id" : 11,
+      "name" : "#J12"
+    },
+    {
+      "id" : 12,
+      "name" : "J1"
+    },
+    {
+      "id" : 13,
+      "name" : "J11"
+    },
+    {
+      "id" : 14,
+      "name" : "J#11"
+    },
+    {
+      "id" : 15,
+      "name" : "#J11"
+    },
+    {
+      "id" : 16,
+      "name" : "#J10"
+    },
+    {
+      "id" : 17,
+      "name" : "#j"
+    },
+    {
+      "id" : 18,
+      "name" : "#J9"
+    },
+    {
+      "id" : 19,
+      "name" : "#J5"
+    },
+    {
+      "id" : 20,
+      "name" : "#J6"
+    },
+    {
+      "id" : 21,
+      "name" : "#-"
+    },
+    {
+      "id" : 22,
+      "name" : "#J7"
+    },
+    {
+      "id" : 23,
+      "name" : "#J8"
+    },
+    {
+      "id" : 24,
+      "name" : "P11"
+    },
+    {
+      "id" : 25,
+      "name" : "P12"
+    },
+    {
+      "id" : 26,
+      "name" : "P13"
+    },
+    {
+      "id" : 27,
+      "name" : "P21"
+    },
+    {
+      "id" : 28,
+      "name" : "P22"
+    },
+    {
+      "id" : 29,
+      "name" : "P23"
+    },
+    {
+      "id" : 30,
+      "name" : "P31"
+    },
+    {
+      "id" : 31,
+      "name" : "P32"
+    },
+    {
+      "id" : 32,
+      "name" : "P33"
+    },
+    {
+      "id" : 33,
+      "name" : "P41"
+    },
+    {
+      "id" : 34,
+      "name" : "P42"
+    },
+    {
+      "id" : 35,
+      "name" : "P43"
+    },
+    {
+      "id" : 36,
+      "name" : "S11"
+    },
+    {
+      "id" : 37,
+      "name" : "S12"
+    },
+    {
+      "id" : 38,
+      "name" : "S13"
+    },
+    {
+      "id" : 39,
+      "name" : "S21"
+    },
+    {
+      "id" : 40,
+      "name" : "S22"
+    },
+    {
+      "id" : 41,
+      "name" : "S23"
+    },
+    {
+      "id" : 42,
+      "name" : "S31"
+    },
+    {
+      "id" : 43,
+      "name" : "S32"
+    },
+    {
+      "id" : 44,
+      "name" : "S33"
+    },
+    {
+      "id" : 45,
+      "name" : "S41"
+    },
+    {
+      "id" : 46,
+      "name" : "S42"
+    },
+    {
+      "id" : 47,
+      "name" : "S43"
+    },
+    {
+      "id" : 48,
+      "name" : "S51"
+    },
+    {
+      "id" : 49,
+      "name" : "S52"
+    },
+    {
+      "id" : 50,
+      "name" : "S53"
+    },
+    {
+      "id" : 51,
+      "name" : "D12"
+    },
+    {
+      "id" : 52,
+      "name" : "D11"
+    },
+    {
+      "id" : 53,
+      "name" : "D22"
+    },
+    {
+      "id" : 54,
+      "name" : "D21"
+    },
+    {
+      "id" : 55,
+      "name" : "S61"
+    },
+    {
+      "id" : 56,
+      "name" : "3S61"
+    },
+    {
+      "id" : 57,
+      "name" : "S62"
+    },
+    {
+      "id" : 58,
+      "name" : "S63"
+    }
+  ],
+  "schematic" : {
+    "size" : {
+      "height" : 177800,
+      "width" : 127000
+    },
+    "symbols" : [
+      {
+        "at" : {
+          "x" : 101600,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "netLabel" : "#1 P11",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "netLabel" : "#2 P12",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "netLabel" : "#3 P13",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P1",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "netLabel" : "#4 P21",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "netLabel" : "#5 P22",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "netLabel" : "#6 P23",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P2",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 50800,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "netLabel" : "#7 P31",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "netLabel" : "#8 P32",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "netLabel" : "#9 P33",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P3",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 127000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "Bourns 51",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "CCW",
+            "netLabel" : "#10 P41",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "WIPER",
+            "netLabel" : "#11 P42",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "CW",
+            "netLabel" : "#12 P43",
+            "number" : "3"
+          }
+        ],
+        "reference" : "P4",
+        "rotation" : 0,
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1270,
+            "y" : -1270
+          },
+          "size" : {
+            "height" : 2540,
+            "width" : 2540
+          }
+        },
+        "component" : "HLMP-WL02",
+        "glyph" : [
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : -1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : -1270,
+                  "y" : 1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 0
+                }
+              ],
+              "closed" : true,
+              "filled" : true
+            }
+          },
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : 1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          }
+        ],
+        "kind" : "diode",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -3810,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "A",
+            "netLabel" : "#28 D12",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 3810,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "K",
+            "netLabel" : "#29 D11",
+            "number" : "1"
+          }
+        ],
+        "reference" : "D1",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 50800,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1270,
+            "y" : -1270
+          },
+          "size" : {
+            "height" : 2540,
+            "width" : 2540
+          }
+        },
+        "component" : "HLMP-WL02",
+        "glyph" : [
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : -1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : -1270,
+                  "y" : 1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 0
+                }
+              ],
+              "closed" : true,
+              "filled" : true
+            }
+          },
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : 1270,
+                  "y" : -1270
+                },
+                {
+                  "x" : 1270,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          }
+        ],
+        "kind" : "diode",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -3810,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "A",
+            "netLabel" : "#31 D22",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 3810,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "K",
+            "netLabel" : "#32 D21",
+            "number" : "1"
+          }
+        ],
+        "reference" : "D2",
+        "rotation" : 0,
+        "value" : "HLMP-WL02"
+      },
+      {
+        "at" : {
+          "x" : 101600,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "netLabel" : "#13 S11",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "netLabel" : "#14 S12",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "netLabel" : "#15 S13",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW1",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "netLabel" : "#16 S21",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "netLabel" : "#17 S22",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "netLabel" : "#18 S23",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW2",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 50800,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "netLabel" : "#19 S31",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "netLabel" : "#20 S32",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "netLabel" : "#21 S33",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW3",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 152400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "netLabel" : "#22 S41",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "netLabel" : "#23 S42",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "netLabel" : "#24 S43",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW4",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 101600,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "netLabel" : "#25 S51",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "netLabel" : "#26 S52",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "netLabel" : "#27 S53",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW5",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 101600
+        },
+        "body" : {
+          "origin" : {
+            "x" : -7620,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 15240
+          }
+        },
+        "component" : "NKK MN12",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -7620,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 15240
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "THROW 1",
+            "netLabel" : "#34 S61",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -10160,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "COM",
+            "netLabel" : "#35 S62",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 10160,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "THROW 2",
+            "netLabel" : "#36 S63",
+            "number" : "3"
+          }
+        ],
+        "reference" : "SW6",
+        "rotation" : 0,
+        "value" : "NKK MN12"
+      }
+    ],
+    "wires" : [
+      {
+        "end" : {
+          "x" : 58420,
+          "y" : 151130
+        },
+        "start" : {
+          "x" : 60960,
+          "y" : 151130
+        }
+      }
+    ]
+  }
+}

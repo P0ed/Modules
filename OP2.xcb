@@ -1,0 +1,743 @@
+{
+  "board" : {
+    "footprints" : [
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 6350
+        },
+        "component" : "AD823A",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "U1",
+        "rotation" : 0,
+        "value" : "AD823A"
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 8890
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "capacitor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : 2,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : 0,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "C1",
+        "rotation" : 2,
+        "value" : ""
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 3810
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "capacitor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : 0,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : 1,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "C2",
+        "rotation" : 2,
+        "value" : ""
+      }
+    ],
+    "holes" : [
+
+    ],
+    "rules" : {
+      "clearance" : 300,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
+    },
+    "size" : {
+      "height" : 12700,
+      "width" : 25400
+    },
+    "solderMask" : true,
+    "stack" : 6,
+    "traces" : [
+      {
+        "end" : {
+          "x" : 16510,
+          "y" : 3810
+        },
+        "layer" : 0,
+        "net" : 1,
+        "start" : {
+          "x" : 15875,
+          "y" : 4445
+        }
+      },
+      {
+        "end" : {
+          "x" : 17550,
+          "y" : 3810
+        },
+        "layer" : 0,
+        "net" : 1,
+        "start" : {
+          "x" : 16510,
+          "y" : 3810
+        }
+      },
+      {
+        "end" : {
+          "x" : 20550,
+          "y" : 3810
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 21590,
+          "y" : 3810
+        }
+      },
+      {
+        "end" : {
+          "x" : 4850,
+          "y" : 8890
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 3810,
+          "y" : 8890
+        }
+      },
+      {
+        "end" : {
+          "x" : 8890,
+          "y" : 8890
+        },
+        "layer" : 0,
+        "net" : 2,
+        "start" : {
+          "x" : 7850,
+          "y" : 8890
+        }
+      },
+      {
+        "end" : {
+          "x" : 9525,
+          "y" : 8255
+        },
+        "layer" : 0,
+        "net" : 2,
+        "start" : {
+          "x" : 8890,
+          "y" : 8890
+        }
+      }
+    ],
+    "vias" : [
+      {
+        "at" : {
+          "x" : 21590,
+          "y" : 3810
+        },
+        "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 8890,
+          "y" : 8890
+        },
+        "net" : 2
+      },
+      {
+        "at" : {
+          "x" : 3810,
+          "y" : 8890
+        },
+        "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 16510,
+          "y" : 3810
+        },
+        "net" : 1
+      }
+    ]
+  },
+  "modules" : [
+
+  ],
+  "nets" : [
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    },
+    {
+      "id" : 3,
+      "name" : "#OUT1"
+    },
+    {
+      "id" : 4,
+      "name" : "#OUT2"
+    },
+    {
+      "id" : 5,
+      "name" : "#IN1"
+    },
+    {
+      "id" : 6,
+      "name" : "N$1"
+    },
+    {
+      "id" : 7,
+      "name" : "N$2"
+    },
+    {
+      "id" : 8,
+      "name" : "#IN2"
+    },
+    {
+      "id" : 9,
+      "name" : "N$3"
+    },
+    {
+      "id" : 10,
+      "name" : "N$4"
+    },
+    {
+      "id" : 11,
+      "name" : "N$5"
+    },
+    {
+      "id" : 12,
+      "name" : "N$6"
+    },
+    {
+      "id" : 13,
+      "name" : "N$7"
+    },
+    {
+      "id" : 14,
+      "name" : "N$8"
+    },
+    {
+      "id" : 15,
+      "name" : "NET"
+    },
+    {
+      "id" : 16,
+      "name" : "#"
+    },
+    {
+      "id" : 17,
+      "name" : "#-"
+    },
+    {
+      "id" : 18,
+      "name" : "#-N"
+    },
+    {
+      "id" : 19,
+      "name" : "#-I"
+    },
+    {
+      "id" : 20,
+      "name" : "#-IN"
+    },
+    {
+      "id" : 21,
+      "name" : "#-IN1"
+    },
+    {
+      "id" : 22,
+      "name" : "#+IN1"
+    },
+    {
+      "id" : 23,
+      "name" : "_"
+    },
+    {
+      "id" : 24,
+      "name" : "#-IN2"
+    },
+    {
+      "id" : 25,
+      "name" : "#+IN2"
+    },
+    {
+      "id" : 26,
+      "name" : "OUT1"
+    },
+    {
+      "id" : 27,
+      "name" : "-IN1"
+    },
+    {
+      "id" : 28,
+      "name" : "+IN1"
+    },
+    {
+      "id" : 29,
+      "name" : "+IN2"
+    },
+    {
+      "id" : 30,
+      "name" : "-IN2"
+    },
+    {
+      "id" : 31,
+      "name" : "OUT2"
+    }
+  ],
+  "schematic" : {
+    "size" : {
+      "height" : 50800,
+      "width" : 76200
+    },
+    "symbols" : [
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 25400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -6350
+          },
+          "size" : {
+            "height" : 12700,
+            "width" : 12700
+          }
+        },
+        "component" : "AD823A",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -6350
+                },
+                "size" : {
+                  "height" : 12700,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -3810
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "OUT1",
+            "netLabel" : "#1 OUT1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "-IN1",
+            "netLabel" : "#2 -IN1",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "+IN1",
+            "netLabel" : "#3 +IN1",
+            "number" : "3"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 3810
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "-VS",
+            "netLabel" : "VEE",
+            "number" : "4"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : 3810
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "+IN2",
+            "netLabel" : "#4 +IN2",
+            "number" : "5"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : 1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "-IN2",
+            "netLabel" : "#5 -IN2",
+            "number" : "6"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "OUT2",
+            "netLabel" : "#6 OUT2",
+            "number" : "7"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -3810
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "+VS",
+            "netLabel" : "VCC",
+            "number" : "8"
+          }
+        ],
+        "reference" : "U1",
+        "rotation" : 0,
+        "value" : "AD823A"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 38100
+        },
+        "body" : {
+          "origin" : {
+            "x" : -635,
+            "y" : -1270
+          },
+          "size" : {
+            "height" : 2540,
+            "width" : 1270
+          }
+        },
+        "glyph" : [
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : -635,
+                  "y" : -1270
+                },
+                {
+                  "x" : -635,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          },
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : 635,
+                  "y" : -1270
+                },
+                {
+                  "x" : 635,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          }
+        ],
+        "kind" : "capacitor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -2540,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 1905,
+            "name" : "1",
+            "netLabel" : "VEE",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 2540,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 1905,
+            "name" : "2",
+            "netLabel" : "GND",
+            "number" : "2"
+          }
+        ],
+        "reference" : "C1",
+        "rotation" : 0,
+        "value" : "2u2"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 12700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -635,
+            "y" : -1270
+          },
+          "size" : {
+            "height" : 2540,
+            "width" : 1270
+          }
+        },
+        "glyph" : [
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : -635,
+                  "y" : -1270
+                },
+                {
+                  "x" : -635,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          },
+          {
+            "path" : {
+              "_0" : [
+                {
+                  "x" : 635,
+                  "y" : -1270
+                },
+                {
+                  "x" : 635,
+                  "y" : 1270
+                }
+              ],
+              "closed" : false,
+              "filled" : false
+            }
+          }
+        ],
+        "kind" : "capacitor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -2540,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 1905,
+            "name" : "1",
+            "netLabel" : "GND",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 2540,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 1905,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "C2",
+        "rotation" : 0,
+        "value" : "2u2"
+      }
+    ],
+    "wires" : [
+      {
+        "end" : {
+          "x" : 49530,
+          "y" : 12700
+        },
+        "start" : {
+          "x" : 40640,
+          "y" : 12700
+        }
+      },
+      {
+        "end" : {
+          "x" : 49530,
+          "y" : 21590
+        },
+        "start" : {
+          "x" : 49530,
+          "y" : 12700
+        }
+      },
+      {
+        "end" : {
+          "x" : 46990,
+          "y" : 21590
+        },
+        "start" : {
+          "x" : 49530,
+          "y" : 21590
+        }
+      },
+      {
+        "end" : {
+          "x" : 26670,
+          "y" : 29210
+        },
+        "start" : {
+          "x" : 29210,
+          "y" : 29210
+        }
+      },
+      {
+        "end" : {
+          "x" : 26670,
+          "y" : 38100
+        },
+        "start" : {
+          "x" : 26670,
+          "y" : 29210
+        }
+      },
+      {
+        "end" : {
+          "x" : 35560,
+          "y" : 38100
+        },
+        "start" : {
+          "x" : 26670,
+          "y" : 38100
+        }
+      }
+    ]
+  }
+}

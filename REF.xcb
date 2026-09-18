@@ -1,0 +1,351 @@
+{
+  "board" : {
+    "footprints" : [
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 12700
+        },
+        "component" : "ADR5045",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "U1",
+        "rotation" : 0,
+        "value" : "ADR5045",
+        "valueParameter" : false
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 8890
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : 8,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : 1,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R1",
+        "rotation" : 0,
+        "value" : "33K",
+        "valueParameter" : true
+      }
+    ],
+    "holes" : [
+
+    ],
+    "origin" : {
+      "x" : 12700,
+      "y" : 12700
+    },
+    "rules" : {
+      "clearance" : 300,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
+    },
+    "size" : {
+      "height" : 25400,
+      "width" : 25400
+    },
+    "solderMask" : true,
+    "stack" : 6,
+    "traces" : [
+      {
+        "end" : {
+          "x" : 15594,
+          "y" : 8890
+        },
+        "layer" : 0,
+        "net" : 1,
+        "start" : {
+          "x" : 14324,
+          "y" : 8890
+        }
+      },
+      {
+        "end" : {
+          "x" : 11400,
+          "y" : 13650
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 10130,
+          "y" : 13650
+        }
+      },
+      {
+        "end" : {
+          "x" : 11400,
+          "y" : 9210
+        },
+        "layer" : 0,
+        "net" : 8,
+        "start" : {
+          "x" : 11400,
+          "y" : 11750
+        }
+      }
+    ],
+    "vias" : [
+      {
+        "at" : {
+          "x" : 15594,
+          "y" : 8890
+        },
+        "net" : 1
+      },
+      {
+        "at" : {
+          "x" : 10130,
+          "y" : 13650
+        },
+        "net" : 0
+      }
+    ]
+  },
+  "modules" : [
+
+  ],
+  "nets" : [
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    },
+    {
+      "id" : 8,
+      "name" : "REF"
+    },
+    {
+      "id" : 12,
+      "name" : "NC"
+    }
+  ],
+  "schematic" : {
+    "size" : {
+      "height" : 50800,
+      "width" : 50800
+    },
+    "symbols" : [
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 25400
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -3810
+          },
+          "size" : {
+            "height" : 7620,
+            "width" : 12700
+          }
+        },
+        "component" : "ADR5045",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -3810
+                },
+                "size" : {
+                  "height" : 7620,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "V+",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 1270
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "V-",
+            "netLabel" : "GND",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -1270
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "T",
+            "netLabel" : "NC",
+            "number" : "3"
+          }
+        ],
+        "reference" : "U1",
+        "rotation" : 0,
+        "value" : "ADR5045"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 17780
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "#1 REF",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "VCC",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R1",
+        "rotation" : 0,
+        "value" : "33K",
+        "valueParameter" : true
+      }
+    ],
+    "wires" : [
+      {
+        "end" : {
+          "x" : 12700,
+          "y" : 17780
+        },
+        "start" : {
+          "x" : 20320,
+          "y" : 17780
+        }
+      },
+      {
+        "end" : {
+          "x" : 12700,
+          "y" : 24130
+        },
+        "start" : {
+          "x" : 12700,
+          "y" : 17780
+        }
+      },
+      {
+        "end" : {
+          "x" : 16510,
+          "y" : 24130
+        },
+        "start" : {
+          "x" : 12700,
+          "y" : 24130
+        }
+      }
+    ]
+  }
+}

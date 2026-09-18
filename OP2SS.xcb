@@ -76,6 +76,10 @@
     "holes" : [
 
     ],
+    "origin" : {
+      "x" : 12700,
+      "y" : 6350
+    },
     "rules" : {
       "clearance" : 300,
       "traceWidth" : 400,

@@ -58,7 +58,8 @@
         ],
         "reference" : "R2",
         "rotation" : 0,
-        "value" : "100K"
+        "value" : "100K",
+        "valueParameter" : false
       },
       {
         "at" : {
@@ -117,7 +118,8 @@
         ],
         "reference" : "R1",
         "rotation" : 0,
-        "value" : "100K"
+        "value" : "100K",
+        "valueParameter" : false
       },
       {
         "at" : {
@@ -176,7 +178,8 @@
         ],
         "reference" : "C3",
         "rotation" : 0,
-        "value" : "47p"
+        "value" : "47p",
+        "valueParameter" : false
       },
       {
         "at" : {
@@ -235,7 +238,8 @@
         ],
         "reference" : "C4",
         "rotation" : 0,
-        "value" : "47p"
+        "value" : "47p",
+        "valueParameter" : false
       },
       {
         "at" : {
@@ -294,7 +298,8 @@
         ],
         "reference" : "R3",
         "rotation" : 2,
-        "value" : "470"
+        "value" : "470",
+        "valueParameter" : false
       },
       {
         "at" : {
@@ -353,16 +358,13 @@
         ],
         "reference" : "R4",
         "rotation" : 2,
-        "value" : "470"
+        "value" : "470",
+        "valueParameter" : false
       }
     ],
     "holes" : [
 
     ],
-    "origin" : {
-      "x" : 12700,
-      "y" : 6350
-    },
     "rules" : {
       "clearance" : 300,
       "traceWidth" : 400,
@@ -970,7 +972,7 @@
   },
   "modules" : [
     {
-      "filename" : "OP2.xcb",
+      "filename" : "OP.xcb",
       "id" : "0678A096-56D9-4D5D-AE9D-38344044C172",
       "interface" : [
         {
@@ -1012,10 +1014,12 @@
         "5" : "#3 IN2",
         "6" : "O2"
       },
-      "origin" : {
-        "x" : 12700,
-        "y" : 6350
+      "parameterValues" : {
+
       },
+      "parameters" : [
+
+      ],
       "reference" : "M1",
       "schematicAt" : {
         "x" : 38100,

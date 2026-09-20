@@ -178,7 +178,8 @@
         ],
         "reference" : "C3",
         "rotation" : 0,
-        "value" : "47p"
+        "value" : "47p",
+        "valueParameter" : false
       },
       {
         "at" : {
@@ -237,16 +238,13 @@
         ],
         "reference" : "C4",
         "rotation" : 0,
-        "value" : "47p"
+        "value" : "47p",
+        "valueParameter" : false
       }
     ],
     "holes" : [
 
     ],
-    "origin" : {
-      "x" : 12700,
-      "y" : 6350
-    },
     "rules" : {
       "clearance" : 300,
       "traceWidth" : 400,
@@ -620,7 +618,7 @@
   },
   "modules" : [
     {
-      "filename" : "OP2.xcb",
+      "filename" : "OP.xcb",
       "id" : "06DF7641-017B-4957-8FE1-224EA848E991",
       "interface" : [
         {
@@ -661,10 +659,6 @@
         "4" : "GND",
         "5" : "#3 IN2",
         "6" : "#4 OUT2"
-      },
-      "origin" : {
-        "x" : 12700,
-        "y" : 6350
       },
       "parameterValues" : {
 

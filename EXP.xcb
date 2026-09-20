@@ -3,32 +3,6 @@
     "footprints" : [
       {
         "at" : {
-          "x" : 6350,
-          "y" : 12700
-        },
-        "component" : "BCM847DS",
-        "flipped" : false,
-        "inBOM" : true,
-        "reference" : "Q1",
-        "rotation" : 0,
-        "value" : "BCM847DS",
-        "valueParameter" : false
-      },
-      {
-        "at" : {
-          "x" : 19050,
-          "y" : 12700
-        },
-        "component" : "BCM857DS",
-        "flipped" : false,
-        "inBOM" : true,
-        "reference" : "Q2",
-        "rotation" : 0,
-        "value" : "BCM857DS",
-        "valueParameter" : false
-      },
-      {
-        "at" : {
           "x" : 12700,
           "y" : 12700
         },
@@ -86,6 +60,32 @@
         "rotation" : 0,
         "value" : "10K",
         "valueParameter" : false
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 12700
+        },
+        "component" : "BCM847DS",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "Q1",
+        "rotation" : 0,
+        "value" : "BCM847DS",
+        "valueParameter" : false
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 12700
+        },
+        "component" : "BCM857DS",
+        "flipped" : false,
+        "inBOM" : true,
+        "reference" : "Q2",
+        "rotation" : 0,
+        "value" : "BCM857DS",
+        "valueParameter" : false
       }
     ],
     "holes" : [
@@ -96,7 +96,7 @@
       "y" : 12700
     },
     "rules" : {
-      "clearance" : 300,
+      "clearance" : 400,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
@@ -242,107 +242,11 @@
       },
       {
         "end" : {
-          "x" : 8320,
-          "y" : 14285
-        },
-        "layer" : 0,
-        "net" : 4,
-        "start" : {
-          "x" : 7685,
-          "y" : 13650
-        }
-      },
-      {
-        "end" : {
-          "x" : 13765,
-          "y" : 14285
-        },
-        "layer" : 0,
-        "net" : 4,
-        "start" : {
-          "x" : 8320,
-          "y" : 14285
-        }
-      },
-      {
-        "end" : {
-          "x" : 14200,
-          "y" : 13850
-        },
-        "layer" : 0,
-        "net" : 4,
-        "start" : {
-          "x" : 13765,
-          "y" : 14285
-        }
-      },
-      {
-        "end" : {
-          "x" : 14200,
-          "y" : 13450
-        },
-        "layer" : 0,
-        "net" : 4,
-        "start" : {
-          "x" : 14200,
-          "y" : 13850
-        }
-      },
-      {
-        "end" : {
-          "x" : 14500,
-          "y" : 13150
-        },
-        "layer" : 0,
-        "net" : 4,
-        "start" : {
-          "x" : 14200,
-          "y" : 13450
-        }
-      },
-      {
-        "end" : {
-          "x" : 9512,
-          "y" : 12700
-        },
-        "layer" : 0,
-        "net" : 12,
-        "start" : {
-          "x" : 7650,
-          "y" : 12700
-        }
-      },
-      {
-        "end" : {
-          "x" : 12697,
-          "y" : 12568
-        },
-        "layer" : 0,
-        "net" : 18,
-        "start" : {
-          "x" : 12627,
-          "y" : 12638
-        }
-      },
-      {
-        "end" : {
-          "x" : 4050,
-          "y" : 12700
-        },
-        "layer" : 0,
-        "net" : 11,
-        "start" : {
-          "x" : 5050,
-          "y" : 12700
-        }
-      },
-      {
-        "end" : {
           "x" : 16750,
           "y" : 12700
         },
         "layer" : 0,
-        "net" : 10,
+        "net" : 0,
         "start" : {
           "x" : 17750,
           "y" : 12700
@@ -398,56 +302,68 @@
       },
       {
         "end" : {
-          "x" : 12727,
-          "y" : 12738
+          "x" : 20350,
+          "y" : 10861
         },
         "layer" : 0,
-        "net" : 18,
+        "net" : 0,
         "start" : {
-          "x" : 12627,
-          "y" : 12638
-        }
-      },
-      {
-        "end" : {
-          "x" : 12562,
-          "y" : 12573
-        },
-        "layer" : 0,
-        "net" : 18,
-        "start" : {
-          "x" : 12727,
-          "y" : 12738
-        }
-      },
-      {
-        "end" : {
-          "x" : 12435,
-          "y" : 12700
-        },
-        "layer" : 0,
-        "net" : 18,
-        "start" : {
-          "x" : 12562,
-          "y" : 12573
-        }
-      },
-      {
-        "end" : {
-          "x" : 12700,
-          "y" : 12700
-        },
-        "layer" : 0,
-        "net" : 18,
-        "start" : {
-          "x" : 11200,
-          "y" : 12700
-        }
-      },
-      {
-        "end" : {
-          "x" : 8285,
+          "x" : 20350,
           "y" : 11750
+        }
+      },
+      {
+        "end" : {
+          "x" : 8320,
+          "y" : 14285
+        },
+        "layer" : 0,
+        "net" : 4,
+        "start" : {
+          "x" : 7685,
+          "y" : 13650
+        }
+      },
+      {
+        "end" : {
+          "x" : 13527,
+          "y" : 14285
+        },
+        "layer" : 0,
+        "net" : 4,
+        "start" : {
+          "x" : 8320,
+          "y" : 14285
+        }
+      },
+      {
+        "end" : {
+          "x" : 14162,
+          "y" : 13650
+        },
+        "layer" : 0,
+        "net" : 4,
+        "start" : {
+          "x" : 13527,
+          "y" : 14285
+        }
+      },
+      {
+        "end" : {
+          "x" : 14162,
+          "y" : 13015
+        },
+        "layer" : 0,
+        "net" : 4,
+        "start" : {
+          "x" : 14162,
+          "y" : 13650
+        }
+      },
+      {
+        "end" : {
+          "x" : 7650,
+          "y" : 10861
         },
         "layer" : 0,
         "net" : 0,
@@ -458,69 +374,43 @@
       },
       {
         "end" : {
-          "x" : 8666,
-          "y" : 11750
+          "x" : 4034,
+          "y" : 12700
         },
         "layer" : 0,
         "net" : 0,
         "start" : {
-          "x" : 8285,
-          "y" : 11750
-        }
-      },
-      {
-        "end" : {
-          "x" : 21366,
-          "y" : 11750
-        },
-        "layer" : 0,
-        "net" : 0,
-        "start" : {
-          "x" : 20350,
-          "y" : 11750
+          "x" : 5050,
+          "y" : 12700
         }
       }
     ],
     "vias" : [
       {
         "at" : {
-          "x" : 9512,
-          "y" : 12700
-        },
-        "net" : 12
-      },
-      {
-        "at" : {
-          "x" : 12700,
-          "y" : 12700
-        },
-        "net" : 18
-      },
-      {
-        "at" : {
-          "x" : 4050,
-          "y" : 12700
-        },
-        "net" : 11
-      },
-      {
-        "at" : {
           "x" : 16750,
           "y" : 12700
-        },
-        "net" : 10
-      },
-      {
-        "at" : {
-          "x" : 8666,
-          "y" : 11750
         },
         "net" : 0
       },
       {
         "at" : {
-          "x" : 21366,
-          "y" : 11750
+          "x" : 20350,
+          "y" : 10861
+        },
+        "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 7650,
+          "y" : 10861
+        },
+        "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 4034,
+          "y" : 12700
         },
         "net" : 0
       }
@@ -547,28 +437,20 @@
       "name" : "E"
     },
     {
-      "id" : 9,
-      "name" : "B22"
-    },
-    {
-      "id" : 10,
-      "name" : "B21"
-    },
-    {
-      "id" : 11,
-      "name" : "B11"
-    },
-    {
-      "id" : 12,
-      "name" : "B12"
-    },
-    {
       "id" : 16,
       "name" : "OUT"
     },
     {
       "id" : 18,
       "name" : "IN"
+    },
+    {
+      "id" : 25,
+      "name" : "_RISE"
+    },
+    {
+      "id" : 29,
+      "name" : "FALL"
     }
   ],
   "schematic" : {
@@ -577,218 +459,6 @@
       "width" : 101600
     },
     "symbols" : [
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 12700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -5080
-          },
-          "size" : {
-            "height" : 10160,
-            "width" : 12700
-          }
-        },
-        "component" : "BCM847DS",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -5080
-                },
-                "size" : {
-                  "height" : 10160,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -2540
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "E1",
-            "netLabel" : "E",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "B1",
-            "netLabel" : "#2 B11",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 2540
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "C2",
-            "netLabel" : "#6 OUT",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : 2540
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "E2",
-            "netLabel" : "E",
-            "number" : "4"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "B2",
-            "netLabel" : "#3 B12",
-            "number" : "5"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -2540
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "C1",
-            "netLabel" : "GND",
-            "number" : "6"
-          }
-        ],
-        "reference" : "Q1",
-        "rotation" : 0,
-        "value" : "BCM847DS"
-      },
-      {
-        "at" : {
-          "x" : 76200,
-          "y" : 12700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -5080
-          },
-          "size" : {
-            "height" : 10160,
-            "width" : 12700
-          }
-        },
-        "component" : "BCM857DS",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -5080
-                },
-                "size" : {
-                  "height" : 10160,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -2540
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "E1",
-            "netLabel" : "E",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "B1",
-            "netLabel" : "#4 B21",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 2540
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "C2",
-            "netLabel" : "OUT ",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : 2540
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "E2",
-            "netLabel" : "E",
-            "number" : "4"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "B2",
-            "netLabel" : "#5 B22",
-            "number" : "5"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -2540
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "C1",
-            "netLabel" : "GND",
-            "number" : "6"
-          }
-        ],
-        "reference" : "Q2",
-        "rotation" : 0,
-        "value" : "BCM857DS"
-      },
       {
         "at" : {
           "x" : 50800,
@@ -849,6 +519,218 @@
         "reference" : "RE1",
         "rotation" : 0,
         "value" : "10K"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 12700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -5080
+          },
+          "size" : {
+            "height" : 10160,
+            "width" : 12700
+          }
+        },
+        "component" : "BCM847DS",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -5080
+                },
+                "size" : {
+                  "height" : 10160,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -2540
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "E1",
+            "netLabel" : "E",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "B1",
+            "netLabel" : "GND",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 2540
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "C2",
+            "netLabel" : "#4 OUT",
+            "number" : "3"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : 2540
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "E2",
+            "netLabel" : "E",
+            "number" : "4"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "B2",
+            "netLabel" : "#2 _RISE",
+            "number" : "5"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -2540
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "C1",
+            "netLabel" : "GND",
+            "number" : "6"
+          }
+        ],
+        "reference" : "Q1",
+        "rotation" : 0,
+        "value" : "BCM847DS"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 12700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -6350,
+            "y" : -5080
+          },
+          "size" : {
+            "height" : 10160,
+            "width" : 12700
+          }
+        },
+        "component" : "BCM857DS",
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -6350,
+                  "y" : -5080
+                },
+                "size" : {
+                  "height" : 10160,
+                  "width" : 12700
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "ic",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : -2540
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "E1",
+            "netLabel" : "E",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "B1",
+            "netLabel" : "GND",
+            "number" : "2"
+          },
+          {
+            "at" : {
+              "x" : -8890,
+              "y" : 2540
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "C2",
+            "netLabel" : "OUT",
+            "number" : "3"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : 2540
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "E2",
+            "netLabel" : "E",
+            "number" : "4"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "B2",
+            "netLabel" : "#3 FALL",
+            "number" : "5"
+          },
+          {
+            "at" : {
+              "x" : 8890,
+              "y" : -2540
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "C1",
+            "netLabel" : "GND",
+            "number" : "6"
+          }
+        ],
+        "reference" : "Q2",
+        "rotation" : 0,
+        "value" : "BCM857DS"
       }
     ],
     "wires" : [

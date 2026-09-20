@@ -1,0 +1,126 @@
+{
+  "board" : {
+    "footprints" : [
+
+    ],
+    "holes" : [
+
+    ],
+    "rules" : {
+      "clearance" : 400,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
+    },
+    "size" : {
+      "height" : 152400,
+      "width" : 101600
+    },
+    "solderMask" : false,
+    "stack" : 6,
+    "traces" : [],
+    "vias" : []
+  },
+  "modules" : [
+    {
+      "filename" : "PWR4.xcb",
+      "id" : "9606EEDB-10FD-4EF3-AB79-5829545A7274",
+      "interface" : [
+
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 12700,
+        "y" : 12700
+      },
+      "layoutRotation" : 0,
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M3",
+      "schematicAt" : {
+        "x" : 12700,
+        "y" : 5080
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 50800,
+        "width" : 50800
+      }
+    },
+    {
+      "filename" : "PWR4.xcb",
+      "id" : "D4192A98-8F7A-4719-BB05-4AF40B01541B",
+      "interface" : [
+
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 88900,
+        "y" : 12700
+      },
+      "layoutRotation" : 0,
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M2",
+      "schematicAt" : {
+        "x" : 12700,
+        "y" : 12700
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 50800,
+        "width" : 50800
+      }
+    },
+    {
+      "filename" : "Function.xcb",
+      "id" : "B4197AAC-3BDE-4262-98F2-2DDA4B482038",
+      "interface" : [
+
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 50800,
+        "y" : 76200
+      },
+      "layoutRotation" : 0,
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M1",
+      "schematicAt" : {
+        "x" : 12700,
+        "y" : 20320
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 152400,
+        "width" : 101600
+      }
+    }
+  ],
+  "nets" : [],
+  "schematic" : {
+    "size" : {
+      "height" : 25400,
+      "width" : 25400
+    },
+    "symbols" : [
+
+    ],
+    "wires" : [
+
+    ]
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "board" : {
+    "footprints" : [
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 10160
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : 0,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3769728593391223396,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R1",
+        "rotation" : 0,
+        "value" : "4K7",
+        "valueParameter" : true
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 12700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -3769729692902851607,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : 0,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R2",
+        "rotation" : 0,
+        "value" : "4K7",
+        "valueParameter" : true
+      }
+    ],
+    "holes" : [
+
+    ],
+    "rules" : {
+      "clearance" : 300,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
+    },
+    "size" : {
+      "height" : 25400,
+      "width" : 25400
+    },
+    "solderMask" : true,
+    "stack" : 6,
+    "traces" : [
+      {
+        "end" : {
+          "x" : 17840,
+          "y" : 13335
+        },
+        "layer" : 0,
+        "net" : -3769729692902851607,
+        "start" : {
+          "x" : 15300,
+          "y" : 13335
+        }
+      },
+      {
+        "end" : {
+          "x" : 21693,
+          "y" : 12700
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 20550,
+          "y" : 12700
+        }
+      },
+      {
+        "end" : {
+          "x" : 8576,
+          "y" : 12065
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 10100,
+          "y" : 12065
+        }
+      },
+      {
+        "end" : {
+          "x" : 7814,
+          "y" : 11303
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 8576,
+          "y" : 12065
+        }
+      },
+      {
+        "end" : {
+          "x" : 7814,
+          "y" : 10541
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 7814,
+          "y" : 11303
+        }
+      },
+      {
+        "end" : {
+          "x" : 4850,
+          "y" : 10160
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 3580,
+          "y" : 10160
+        }
+      }
+    ],
+    "vias" : [
+      {
+        "at" : {
+          "x" : 3580,
+          "y" : 10160
+        },
+        "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 21693,
+          "y" : 12700
+        },
+        "net" : 0
+      }
+    ]
+  },
+  "modules" : [
+    {
+      "filename" : "OPSS.xcb",
+      "id" : "94A7AD99-BE53-4061-860C-7B7DCACF706A",
+      "interface" : [
+        {
+          "name" : "OUT1",
+          "number" : 1
+        },
+        {
+          "name" : "-IN1",
+          "number" : 2
+        },
+        {
+          "name" : "+IN1",
+          "number" : 3
+        },
+        {
+          "name" : "+IN2",
+          "number" : 4
+        },
+        {
+          "name" : "-IN2",
+          "number" : 5
+        },
+        {
+          "name" : "OUT2",
+          "number" : 6
+        }
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 12700,
+        "y" : 12700
+      },
+      "layoutRotation" : 0,
+      "netLabels" : {
+        "1" : "#1 A1",
+        "2" : "#2 K1",
+        "3" : "#3 V1",
+        "4" : "#4 V2",
+        "5" : "#5 K2",
+        "6" : "#6 A2"
+      },
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M1",
+      "schematicAt" : {
+        "x" : 25400,
+        "y" : 12700
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 12700,
+        "width" : 25400
+      }
+    }
+  ],
+  "nets" : [
+    {
+      "id" : -3797467072742242979,
+      "name" : "V1"
+    },
+    {
+      "id" : -3797465973230614768,
+      "name" : "V2"
+    },
+    {
+      "id" : -3781300953275873471,
+      "name" : "GN"
+    },
+    {
+      "id" : -3779329528926869598,
+      "name" : "A1"
+    },
+    {
+      "id" : -3779326230391984965,
+      "name" : "A2"
+    },
+    {
+      "id" : -3769729692902851607,
+      "name" : "K2"
+    },
+    {
+      "id" : -3769728593391223396,
+      "name" : "K1"
+    },
+    {
+      "id" : -2523712067776640488,
+      "name" : "V"
+    },
+    {
+      "id" : -2523709868753384066,
+      "name" : "P"
+    },
+    {
+      "id" : -2523693376078960901,
+      "name" : "G"
+    },
+    {
+      "id" : -2523691177055704479,
+      "name" : "A"
+    },
+    {
+      "id" : -2523680181939422369,
+      "name" : "K"
+    },
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    }
+  ],
+  "schematic" : {
+    "size" : {
+      "height" : 25400,
+      "width" : 50800
+    },
+    "symbols" : [
+      {
+        "at" : {
+          "x" : 11430,
+          "y" : 12700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "GND",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R1",
+        "rotation" : 0,
+        "value" : "4K7",
+        "valueParameter" : true
+      },
+      {
+        "at" : {
+          "x" : 39370,
+          "y" : 12700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "GND",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R2",
+        "rotation" : 0,
+        "value" : "4K7",
+        "valueParameter" : true
+      }
+    ],
+    "wires" : [
+
+    ]
+  }
+}

@@ -4,155 +4,163 @@
       {
         "at" : {
           "x" : 88900,
-          "y" : 139700
+          "y" : 63500
         },
         "component" : "Bourns 51",
         "flipped" : true,
         "inBOM" : true,
         "reference" : "P1",
         "rotation" : 0,
-        "value" : "Bourns 51"
+        "value" : "Bourns 51",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 63500,
-          "y" : 139700
+          "y" : 63500
         },
         "component" : "Bourns 51",
         "flipped" : true,
         "inBOM" : true,
         "reference" : "P2",
         "rotation" : 0,
-        "value" : "Bourns 51"
+        "value" : "Bourns 51",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 38100,
-          "y" : 139700
+          "y" : 63500
         },
         "component" : "Bourns 51",
         "flipped" : true,
         "inBOM" : true,
         "reference" : "P3",
         "rotation" : 0,
-        "value" : "Bourns 51"
+        "value" : "Bourns 51",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 12700,
-          "y" : 139700
+          "y" : 63500
         },
         "component" : "Bourns 51",
         "flipped" : true,
         "inBOM" : true,
         "reference" : "P4",
         "rotation" : 0,
-        "value" : "Bourns 51"
+        "value" : "Bourns 51",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 63500,
-          "y" : 88900
+          "y" : 12700
         },
         "component" : "HLMP-WL02",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "D1",
         "rotation" : 0,
-        "value" : "HLMP-WL02"
+        "value" : "HLMP-WL02",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 38100,
-          "y" : 88900
+          "y" : 12700
         },
         "component" : "HLMP-WL02",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "D2",
         "rotation" : 0,
-        "value" : "HLMP-WL02"
+        "value" : "HLMP-WL02",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 88900,
-          "y" : 114300
+          "y" : 38100
         },
         "component" : "NKK MN12",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "SW1",
         "rotation" : 0,
-        "value" : "NKK MN12"
+        "value" : "NKK MN12",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 63500,
-          "y" : 114300
+          "y" : 38100
         },
         "component" : "NKK MN12",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "SW2",
         "rotation" : 0,
-        "value" : "NKK MN12"
+        "value" : "NKK MN12",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 38100,
-          "y" : 114300
+          "y" : 38100
         },
         "component" : "NKK MN12",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "SW3",
         "rotation" : 0,
-        "value" : "NKK MN12"
+        "value" : "NKK MN12",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 12700,
-          "y" : 114300
+          "y" : 38100
         },
         "component" : "NKK MN12",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "SW4",
         "rotation" : 0,
-        "value" : "NKK MN12"
+        "value" : "NKK MN12",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 88900,
-          "y" : 88900
+          "y" : 12700
         },
         "component" : "NKK MN12",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "SW5",
         "rotation" : 0,
-        "value" : "NKK MN12"
+        "value" : "NKK MN12",
+        "valueParameter" : false
       },
       {
         "at" : {
           "x" : 12700,
-          "y" : 88900
+          "y" : 12700
         },
         "component" : "NKK MN12",
-        "flipped" : false,
+        "flipped" : true,
         "inBOM" : true,
         "reference" : "SW6",
         "rotation" : 0,
-        "value" : "NKK MN12"
+        "value" : "NKK MN12",
+        "valueParameter" : false
       }
     ],
     "holes" : [
 
     ],
-    "origin" : {
-      "x" : 50800,
-      "y" : 76200
-    },
     "rules" : {
       "clearance" : 300,
       "traceWidth" : 400,
@@ -160,7 +168,7 @@
       "viaPad" : 900
     },
     "size" : {
-      "height" : 152400,
+      "height" : 76200,
       "width" : 101600
     },
     "solderMask" : false,
@@ -327,14 +335,14 @@
   ],
   "schematic" : {
     "size" : {
-      "height" : 177800,
-      "width" : 127000
+      "height" : 101600,
+      "width" : 152400
     },
     "symbols" : [
       {
         "at" : {
-          "x" : 101600,
-          "y" : 152400
+          "x" : 127000,
+          "y" : 73660
         },
         "body" : {
           "origin" : {
@@ -406,8 +414,8 @@
       },
       {
         "at" : {
-          "x" : 76200,
-          "y" : 152400
+          "x" : 91440,
+          "y" : 73660
         },
         "body" : {
           "origin" : {
@@ -479,8 +487,8 @@
       },
       {
         "at" : {
-          "x" : 50800,
-          "y" : 152400
+          "x" : 60960,
+          "y" : 73660
         },
         "body" : {
           "origin" : {
@@ -553,7 +561,7 @@
       {
         "at" : {
           "x" : 25400,
-          "y" : 152400
+          "y" : 73660
         },
         "body" : {
           "origin" : {
@@ -625,8 +633,8 @@
       },
       {
         "at" : {
-          "x" : 76200,
-          "y" : 101600
+          "x" : 91440,
+          "y" : 21590
         },
         "body" : {
           "origin" : {
@@ -709,8 +717,8 @@
       },
       {
         "at" : {
-          "x" : 50800,
-          "y" : 101600
+          "x" : 60960,
+          "y" : 21590
         },
         "body" : {
           "origin" : {
@@ -793,8 +801,8 @@
       },
       {
         "at" : {
-          "x" : 101600,
-          "y" : 127000
+          "x" : 127000,
+          "y" : 48260
         },
         "body" : {
           "origin" : {
@@ -866,8 +874,8 @@
       },
       {
         "at" : {
-          "x" : 76200,
-          "y" : 127000
+          "x" : 91440,
+          "y" : 48260
         },
         "body" : {
           "origin" : {
@@ -939,8 +947,8 @@
       },
       {
         "at" : {
-          "x" : 50800,
-          "y" : 127000
+          "x" : 60960,
+          "y" : 48260
         },
         "body" : {
           "origin" : {
@@ -1013,7 +1021,7 @@
       {
         "at" : {
           "x" : 25400,
-          "y" : 127000
+          "y" : 48260
         },
         "body" : {
           "origin" : {
@@ -1085,8 +1093,8 @@
       },
       {
         "at" : {
-          "x" : 101600,
-          "y" : 101600
+          "x" : 127000,
+          "y" : 22860
         },
         "body" : {
           "origin" : {
@@ -1159,7 +1167,7 @@
       {
         "at" : {
           "x" : 25400,
-          "y" : 101600
+          "y" : 22860
         },
         "body" : {
           "origin" : {
@@ -1231,16 +1239,7 @@
       }
     ],
     "wires" : [
-      {
-        "end" : {
-          "x" : 58420,
-          "y" : 125730
-        },
-        "start" : {
-          "x" : 60960,
-          "y" : 125730
-        }
-      }
+
     ]
   }
 }

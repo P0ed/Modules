@@ -91,12 +91,9 @@
     "holes" : [
 
     ],
-    "origin" : {
-      "x" : 12700,
-      "y" : 12700
-    },
     "rules" : {
       "clearance" : 400,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
@@ -225,18 +222,6 @@
         "net" : 4,
         "start" : {
           "x" : 19650,
-          "y" : 13650
-        }
-      },
-      {
-        "end" : {
-          "x" : 7685,
-          "y" : 13650
-        },
-        "layer" : 0,
-        "net" : 4,
-        "start" : {
-          "x" : 7650,
           "y" : 13650
         }
       },

@@ -4,7 +4,7 @@
       {
         "at" : {
           "x" : 6350,
-          "y" : 10160
+          "y" : 12700
         },
         "body" : {
           "origin" : {
@@ -58,8 +58,7 @@
         ],
         "reference" : "R1",
         "rotation" : 0,
-        "value" : "4K7",
-        "valueParameter" : true
+        "value" : "#R1"
       },
       {
         "at" : {
@@ -118,8 +117,7 @@
         ],
         "reference" : "R2",
         "rotation" : 0,
-        "value" : "4K7",
-        "valueParameter" : true
+        "value" : "#R2"
       }
     ],
     "holes" : [
@@ -127,6 +125,7 @@
     ],
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
@@ -164,7 +163,19 @@
       },
       {
         "end" : {
-          "x" : 8576,
+          "x" : 4850,
+          "y" : 12700
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 3580,
+          "y" : 12700
+        }
+      },
+      {
+        "end" : {
+          "x" : 7560,
           "y" : 12065
         },
         "layer" : 0,
@@ -173,49 +184,13 @@
           "x" : 10100,
           "y" : 12065
         }
-      },
-      {
-        "end" : {
-          "x" : 7814,
-          "y" : 11303
-        },
-        "layer" : 0,
-        "net" : -3769728593391223396,
-        "start" : {
-          "x" : 8576,
-          "y" : 12065
-        }
-      },
-      {
-        "end" : {
-          "x" : 7814,
-          "y" : 10541
-        },
-        "layer" : 0,
-        "net" : -3769728593391223396,
-        "start" : {
-          "x" : 7814,
-          "y" : 11303
-        }
-      },
-      {
-        "end" : {
-          "x" : 4850,
-          "y" : 10160
-        },
-        "layer" : 0,
-        "net" : 0,
-        "start" : {
-          "x" : 3580,
-          "y" : 10160
-        }
       }
     ],
     "vias" : [
       {
         "at" : {
           "x" : 3580,
-          "y" : 10160
+          "y" : 12700
         },
         "net" : 0
       },
@@ -300,10 +275,6 @@
       "name" : "V2"
     },
     {
-      "id" : -3781300953275873471,
-      "name" : "GN"
-    },
-    {
       "id" : -3779329528926869598,
       "name" : "A1"
     },
@@ -320,26 +291,6 @@
       "name" : "K1"
     },
     {
-      "id" : -2523712067776640488,
-      "name" : "V"
-    },
-    {
-      "id" : -2523709868753384066,
-      "name" : "P"
-    },
-    {
-      "id" : -2523693376078960901,
-      "name" : "G"
-    },
-    {
-      "id" : -2523691177055704479,
-      "name" : "A"
-    },
-    {
-      "id" : -2523680181939422369,
-      "name" : "K"
-    },
-    {
       "id" : 0,
       "name" : "GND"
     },
@@ -350,6 +301,16 @@
     {
       "id" : 2,
       "name" : "VEE"
+    }
+  ],
+  "parameters" : [
+    {
+      "defaultValue" : "4K7",
+      "name" : "R1"
+    },
+    {
+      "defaultValue" : "4K7",
+      "name" : "R2"
     }
   ],
   "schematic" : {
@@ -416,8 +377,7 @@
         ],
         "reference" : "R1",
         "rotation" : 0,
-        "value" : "4K7",
-        "valueParameter" : true
+        "value" : "#R1"
       },
       {
         "at" : {
@@ -477,8 +437,7 @@
         ],
         "reference" : "R2",
         "rotation" : 0,
-        "value" : "4K7",
-        "valueParameter" : true
+        "value" : "#R2"
       }
     ],
     "wires" : [

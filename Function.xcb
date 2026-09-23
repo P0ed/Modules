@@ -3,66 +3,6 @@
     "footprints" : [
       {
         "at" : {
-          "x" : 44450,
-          "y" : 106680
-        },
-        "body" : {
-          "origin" : {
-            "x" : -1600,
-            "y" : -800
-          },
-          "size" : {
-            "height" : 1600,
-            "width" : 3200
-          }
-        },
-        "device" : "capacitor",
-        "flipped" : false,
-        "inBOM" : true,
-        "package" : {
-          "chip" : {
-            "_0" : "c1206"
-          }
-        },
-        "pads" : [
-          {
-            "at" : {
-              "x" : -1500,
-              "y" : 0
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "1",
-            "net" : -3776529072810383856,
-            "shape" : 0,
-            "size" : {
-              "height" : 1750,
-              "width" : 1150
-            }
-          },
-          {
-            "at" : {
-              "x" : 1500,
-              "y" : 0
-            },
-            "drill" : 0,
-            "layer" : 0,
-            "name" : "2",
-            "net" : -3397313384042719845,
-            "shape" : 0,
-            "size" : {
-              "height" : 1750,
-              "width" : 1150
-            }
-          }
-        ],
-        "reference" : "C1",
-        "rotation" : 2,
-        "value" : "4n7",
-        "valueParameter" : false
-      },
-      {
-        "at" : {
           "x" : 31750,
           "y" : 139700
         },
@@ -118,8 +58,7 @@
         ],
         "reference" : "R2",
         "rotation" : 0,
-        "value" : "1K5",
-        "valueParameter" : false
+        "value" : "1K5"
       },
       {
         "at" : {
@@ -178,8 +117,7 @@
         ],
         "reference" : "R3",
         "rotation" : 0,
-        "value" : "1K5",
-        "valueParameter" : false
+        "value" : "1K5"
       },
       {
         "at" : {
@@ -238,8 +176,7 @@
         ],
         "reference" : "R5",
         "rotation" : 0,
-        "value" : "150K",
-        "valueParameter" : false
+        "value" : "150K"
       },
       {
         "at" : {
@@ -298,8 +235,7 @@
         ],
         "reference" : "R6",
         "rotation" : 2,
-        "value" : "4K7",
-        "valueParameter" : false
+        "value" : "4K7"
       },
       {
         "at" : {
@@ -358,8 +294,7 @@
         ],
         "reference" : "R7",
         "rotation" : 0,
-        "value" : "150K",
-        "valueParameter" : false
+        "value" : "150K"
       },
       {
         "at" : {
@@ -418,8 +353,7 @@
         ],
         "reference" : "R8",
         "rotation" : 0,
-        "value" : "4K7",
-        "valueParameter" : false
+        "value" : "4K7"
       },
       {
         "at" : {
@@ -478,8 +412,7 @@
         ],
         "reference" : "R9",
         "rotation" : 0,
-        "value" : "100K",
-        "valueParameter" : false
+        "value" : "100K"
       },
       {
         "at" : {
@@ -538,8 +471,7 @@
         ],
         "reference" : "R10",
         "rotation" : 2,
-        "value" : "100K",
-        "valueParameter" : false
+        "value" : "100K"
       },
       {
         "at" : {
@@ -598,8 +530,7 @@
         ],
         "reference" : "R11",
         "rotation" : 0,
-        "value" : "68K",
-        "valueParameter" : false
+        "value" : "68K"
       },
       {
         "at" : {
@@ -658,13 +589,12 @@
         ],
         "reference" : "R12",
         "rotation" : 2,
-        "value" : "6M8",
-        "valueParameter" : false
+        "value" : "6M8"
       },
       {
         "at" : {
-          "x" : 25400,
-          "y" : 114300
+          "x" : 76200,
+          "y" : 88900
         },
         "body" : {
           "origin" : {
@@ -718,13 +648,12 @@
         ],
         "reference" : "R1",
         "rotation" : 2,
-        "value" : "150K",
-        "valueParameter" : false
+        "value" : "150K"
       },
       {
         "at" : {
-          "x" : 25400,
-          "y" : 111760
+          "x" : 76200,
+          "y" : 86360
         },
         "body" : {
           "origin" : {
@@ -778,13 +707,12 @@
         ],
         "reference" : "R4",
         "rotation" : 0,
-        "value" : "150K",
-        "valueParameter" : false
+        "value" : "150K"
       },
       {
         "at" : {
-          "x" : 5080,
-          "y" : 101600
+          "x" : 82550,
+          "y" : 81280
         },
         "body" : {
           "origin" : {
@@ -838,13 +766,12 @@
         ],
         "reference" : "R13",
         "rotation" : 0,
-        "value" : "680K",
-        "valueParameter" : false
+        "value" : "680K"
       },
       {
         "at" : {
-          "x" : 5080,
-          "y" : 104140
+          "x" : 82550,
+          "y" : 83820
         },
         "body" : {
           "origin" : {
@@ -898,13 +825,12 @@
         ],
         "reference" : "R14",
         "rotation" : 0,
-        "value" : "10K",
-        "valueParameter" : false
+        "value" : "10K"
       },
       {
         "at" : {
-          "x" : 5080,
-          "y" : 106680
+          "x" : 82550,
+          "y" : 86360
         },
         "body" : {
           "origin" : {
@@ -958,13 +884,12 @@
         ],
         "reference" : "R15",
         "rotation" : 0,
-        "value" : "100K",
-        "valueParameter" : false
+        "value" : "100K"
       },
       {
         "at" : {
-          "x" : 5080,
-          "y" : 109220
+          "x" : 69850,
+          "y" : 81280
         },
         "body" : {
           "origin" : {
@@ -1017,14 +942,13 @@
           }
         ],
         "reference" : "R16",
-        "rotation" : 0,
-        "value" : "680K",
-        "valueParameter" : false
+        "rotation" : 2,
+        "value" : "680K"
       },
       {
         "at" : {
-          "x" : 19050,
-          "y" : 104140
+          "x" : 69850,
+          "y" : 78740
         },
         "body" : {
           "origin" : {
@@ -1078,13 +1002,12 @@
         ],
         "reference" : "R17",
         "rotation" : 0,
-        "value" : "10K",
-        "valueParameter" : false
+        "value" : "10K"
       },
       {
         "at" : {
-          "x" : 19050,
-          "y" : 101600
+          "x" : 63500,
+          "y" : 78740
         },
         "body" : {
           "origin" : {
@@ -1137,9 +1060,952 @@
           }
         ],
         "reference" : "R18",
+        "rotation" : 2,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 81280
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -552058446951592272,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1749273050867967550,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R19",
         "rotation" : 0,
-        "value" : "100K",
-        "valueParameter" : false
+        "value" : ""
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 78740
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -552058446951592272,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : 0,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R20",
+        "rotation" : 0,
+        "value" : ""
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 55880
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2436189173225689335,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3776529072810383856,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R21",
+        "rotation" : 2,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 45720
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -3404588399972760798,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2436190272737317546,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R22",
+        "rotation" : 2,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 73660,
+          "y" : 147320
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2962764125279380111,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1719210886678142387,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R23",
+        "rotation" : 0,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 78740,
+          "y" : 147320
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -3217429984999453832,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1719210886678142387,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R24",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 119380
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -3919169092269350965,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1719210886678142387,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R25",
+        "rotation" : 2,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 132080
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -1719211986189770598,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3392336587056349709,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R26",
+        "rotation" : 2,
+        "value" : "150K"
+      },
+      {
+        "at" : {
+          "x" : 50800,
+          "y" : 146050
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -1719211986189770598,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3217432184022710254,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R27",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 76200,
+          "y" : 129540
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -1719211986189770598,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3034515123043303227,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R28",
+        "rotation" : 2,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 31750,
+          "y" : 132080
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2007992051158381687,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3392336587056349709,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R29",
+        "rotation" : 0,
+        "value" : "150K"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 132080
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2007992051158381687,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3218386560115808177,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R30",
+        "rotation" : 2,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 129540
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2007992051158381687,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2550641254907739591,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R31",
+        "rotation" : 2,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 129540
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2007992051158381687,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2765034058348094686,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R32",
+        "rotation" : 2,
+        "value" : ""
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 119380
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -3218388759139064599,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1876024564565676355,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R33",
+        "rotation" : 2,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 25400,
+          "y" : 116840
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -3919169092269350965,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1876024564565676355,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R34",
+        "rotation" : 2,
+        "value" : "68K"
       }
     ],
     "holes" : [
@@ -1147,6 +2013,7 @@
     ],
     "rules" : {
       "clearance" : 400,
+      "minTraceLength" : 300,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
@@ -1158,66 +2025,6 @@
     "solderMask" : false,
     "stack" : 6,
     "traces" : [
-      {
-        "end" : {
-          "x" : 44390,
-          "y" : 108585
-        },
-        "layer" : 0,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 48200,
-          "y" : 108585
-        }
-      },
-      {
-        "end" : {
-          "x" : 43120,
-          "y" : 107315
-        },
-        "layer" : 0,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 44390,
-          "y" : 108585
-        }
-      },
-      {
-        "end" : {
-          "x" : 47057,
-          "y" : 107315
-        },
-        "layer" : 0,
-        "net" : -3776529072810383856,
-        "start" : {
-          "x" : 48200,
-          "y" : 107315
-        }
-      },
-      {
-        "end" : {
-          "x" : 46041,
-          "y" : 106299
-        },
-        "layer" : 0,
-        "net" : -3776529072810383856,
-        "start" : {
-          "x" : 47057,
-          "y" : 107315
-        }
-      },
-      {
-        "end" : {
-          "x" : 46930,
-          "y" : 109855
-        },
-        "layer" : 0,
-        "net" : 0,
-        "start" : {
-          "x" : 48200,
-          "y" : 109855
-        }
-      },
       {
         "end" : {
           "x" : 72620,
@@ -1252,66 +2059,6 @@
         "start" : {
           "x" : 71985,
           "y" : 139700
-        }
-      },
-      {
-        "end" : {
-          "x" : 41807,
-          "y" : 106680
-        },
-        "layer" : 0,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 42950,
-          "y" : 106680
-        }
-      },
-      {
-        "end" : {
-          "x" : 41807,
-          "y" : 106661
-        },
-        "layer" : 5,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 41807,
-          "y" : 106680
-        }
-      },
-      {
-        "end" : {
-          "x" : 44474,
-          "y" : 102743
-        },
-        "layer" : 5,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 44474,
-          "y" : 104994
-        }
-      },
-      {
-        "end" : {
-          "x" : 46252,
-          "y" : 100965
-        },
-        "layer" : 5,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 44474,
-          "y" : 102743
-        }
-      },
-      {
-        "end" : {
-          "x" : 48200,
-          "y" : 100965
-        },
-        "layer" : 0,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 46252,
-          "y" : 100965
         }
       },
       {
@@ -1424,90 +2171,6 @@
       },
       {
         "end" : {
-          "x" : 49149,
-          "y" : 126104
-        },
-        "layer" : 0,
-        "net" : -3919169092269350965,
-        "start" : {
-          "x" : 48260,
-          "y" : 126111
-        }
-      },
-      {
-        "end" : {
-          "x" : 21336,
-          "y" : 126104
-        },
-        "layer" : 5,
-        "net" : -3919169092269350965,
-        "start" : {
-          "x" : 15240,
-          "y" : 132200
-        }
-      },
-      {
-        "end" : {
-          "x" : 47371,
-          "y" : 126104
-        },
-        "layer" : 5,
-        "net" : -3919169092269350965,
-        "start" : {
-          "x" : 21336,
-          "y" : 126104
-        }
-      },
-      {
-        "end" : {
-          "x" : 48260,
-          "y" : 126111
-        },
-        "layer" : 5,
-        "net" : -3919169092269350965,
-        "start" : {
-          "x" : 47371,
-          "y" : 126104
-        }
-      },
-      {
-        "end" : {
-          "x" : 86487,
-          "y" : 126111
-        },
-        "layer" : 5,
-        "net" : -3919169092269350965,
-        "start" : {
-          "x" : 48260,
-          "y" : 126111
-        }
-      },
-      {
-        "end" : {
-          "x" : 91440,
-          "y" : 131064
-        },
-        "layer" : 5,
-        "net" : -3919169092269350965,
-        "start" : {
-          "x" : 86487,
-          "y" : 126111
-        }
-      },
-      {
-        "end" : {
-          "x" : 91440,
-          "y" : 132200
-        },
-        "layer" : 5,
-        "net" : -3919169092269350965,
-        "start" : {
-          "x" : 91440,
-          "y" : 131064
-        }
-      },
-      {
-        "end" : {
           "x" : 71350,
           "y" : 99060
         },
@@ -1516,18 +2179,6 @@
         "start" : {
           "x" : 72390,
           "y" : 99060
-        }
-      },
-      {
-        "end" : {
-          "x" : 68175,
-          "y" : 99441
-        },
-        "layer" : 0,
-        "net" : -904846785336116574,
-        "start" : {
-          "x" : 71350,
-          "y" : 96266
         }
       },
       {
@@ -1576,54 +2227,6 @@
         "start" : {
           "x" : 68350,
           "y" : 93980
-        }
-      },
-      {
-        "end" : {
-          "x" : 72620,
-          "y" : 91440
-        },
-        "layer" : 0,
-        "net" : -1533979825505833913,
-        "start" : {
-          "x" : 71350,
-          "y" : 91440
-        }
-      },
-      {
-        "end" : {
-          "x" : 73509,
-          "y" : 92329
-        },
-        "layer" : 0,
-        "net" : -1533979825505833913,
-        "start" : {
-          "x" : 72620,
-          "y" : 91440
-        }
-      },
-      {
-        "end" : {
-          "x" : 73509,
-          "y" : 94615
-        },
-        "layer" : 0,
-        "net" : -1533979825505833913,
-        "start" : {
-          "x" : 73509,
-          "y" : 92329
-        }
-      },
-      {
-        "end" : {
-          "x" : 68429,
-          "y" : 91313
-        },
-        "layer" : 0,
-        "net" : -904846785336116574,
-        "start" : {
-          "x" : 71350,
-          "y" : 94234
         }
       },
       {
@@ -1684,102 +2287,6 @@
         "start" : {
           "x" : 73600,
           "y" : 114300
-        }
-      },
-      {
-        "end" : {
-          "x" : 55820,
-          "y" : 96266
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 55693,
-          "y" : 96266
-        }
-      },
-      {
-        "end" : {
-          "x" : 50900,
-          "y" : 99695
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 48200,
-          "y" : 99695
-        }
-      },
-      {
-        "end" : {
-          "x" : 53500,
-          "y" : 97095
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 50900,
-          "y" : 99695
-        }
-      },
-      {
-        "end" : {
-          "x" : 55400,
-          "y" : 97095
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 53500,
-          "y" : 97095
-        }
-      },
-      {
-        "end" : {
-          "x" : 55800,
-          "y" : 96695
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 55400,
-          "y" : 97095
-        }
-      },
-      {
-        "end" : {
-          "x" : 55820,
-          "y" : 96266
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 55800,
-          "y" : 96695
-        }
-      },
-      {
-        "end" : {
-          "x" : 42774,
-          "y" : 106694
-        },
-        "layer" : 5,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 44474,
-          "y" : 104994
-        }
-      },
-      {
-        "end" : {
-          "x" : 41807,
-          "y" : 106680
-        },
-        "layer" : 5,
-        "net" : -3397313384042719845,
-        "start" : {
-          "x" : 42774,
-          "y" : 106694
         }
       },
       {
@@ -2024,18 +2531,6 @@
       },
       {
         "end" : {
-          "x" : 81100,
-          "y" : 96355
-        },
-        "layer" : 0,
-        "net" : -904844586312860152,
-        "start" : {
-          "x" : 84050,
-          "y" : 99360
-        }
-      },
-      {
-        "end" : {
           "x" : 67080,
           "y" : 96520
         },
@@ -2108,18 +2603,6 @@
       },
       {
         "end" : {
-          "x" : 67080,
-          "y" : 96520
-        },
-        "layer" : 5,
-        "net" : -3758048856119261392,
-        "start" : {
-          "x" : 67080,
-          "y" : 96350
-        }
-      },
-      {
-        "end" : {
           "x" : 72347,
           "y" : 101787
         },
@@ -2140,174 +2623,6 @@
         "start" : {
           "x" : 72347,
           "y" : 101787
-        }
-      },
-      {
-        "end" : {
-          "x" : 49597,
-          "y" : 107315
-        },
-        "layer" : 0,
-        "net" : -3776529072810383856,
-        "start" : {
-          "x" : 48200,
-          "y" : 107315
-        }
-      },
-      {
-        "end" : {
-          "x" : 52010,
-          "y" : 104902
-        },
-        "layer" : 0,
-        "net" : -3776529072810383856,
-        "start" : {
-          "x" : 49597,
-          "y" : 107315
-        }
-      },
-      {
-        "end" : {
-          "x" : 72838,
-          "y" : 104902
-        },
-        "layer" : 0,
-        "net" : -3776529072810383856,
-        "start" : {
-          "x" : 52010,
-          "y" : 104902
-        }
-      },
-      {
-        "end" : {
-          "x" : 73527,
-          "y" : 104213
-        },
-        "layer" : 0,
-        "net" : -3776529072810383856,
-        "start" : {
-          "x" : 72838,
-          "y" : 104902
-        }
-      },
-      {
-        "end" : {
-          "x" : 74870,
-          "y" : 104213
-        },
-        "layer" : 0,
-        "net" : -3776529072810383856,
-        "start" : {
-          "x" : 73527,
-          "y" : 104213
-        }
-      },
-      {
-        "end" : {
-          "x" : 43150,
-          "y" : 96708
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 43150,
-          "y" : 96200
-        }
-      },
-      {
-        "end" : {
-          "x" : 46150,
-          "y" : 99708
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 43150,
-          "y" : 96708
-        }
-      },
-      {
-        "end" : {
-          "x" : 47850,
-          "y" : 99708
-        },
-        "layer" : 0,
-        "net" : -2523688978032448057,
-        "start" : {
-          "x" : 46150,
-          "y" : 99708
-        }
-      },
-      {
-        "end" : {
-          "x" : 51495,
-          "y" : 108585
-        },
-        "layer" : 0,
-        "net" : -3919151500083299589,
-        "start" : {
-          "x" : 53400,
-          "y" : 108585
-        }
-      },
-      {
-        "end" : {
-          "x" : 50570,
-          "y" : 95250
-        },
-        "layer" : 0,
-        "net" : -3919151500083299589,
-        "start" : {
-          "x" : 49300,
-          "y" : 95250
-        }
-      },
-      {
-        "end" : {
-          "x" : 50860,
-          "y" : 108204
-        },
-        "layer" : 5,
-        "net" : -3919151500083299589,
-        "start" : {
-          "x" : 51241,
-          "y" : 108585
-        }
-      },
-      {
-        "end" : {
-          "x" : 50860,
-          "y" : 95758
-        },
-        "layer" : 5,
-        "net" : -3919151500083299589,
-        "start" : {
-          "x" : 50860,
-          "y" : 108204
-        }
-      },
-      {
-        "end" : {
-          "x" : 50570,
-          "y" : 95250
-        },
-        "layer" : 5,
-        "net" : -3919151500083299589,
-        "start" : {
-          "x" : 50860,
-          "y" : 95758
-        }
-      },
-      {
-        "end" : {
-          "x" : 51495,
-          "y" : 108585
-        },
-        "layer" : 5,
-        "net" : -3919151500083299589,
-        "start" : {
-          "x" : 51241,
-          "y" : 108585
         }
       },
       {
@@ -2384,95 +2699,11 @@
       },
       {
         "end" : {
-          "x" : 43307,
-          "y" : 90170
-        },
-        "layer" : 0,
-        "net" : -2242274221101800453,
-        "start" : {
-          "x" : 38100,
-          "y" : 90170
-        }
-      },
-      {
-        "end" : {
-          "x" : 45974,
-          "y" : 87503
-        },
-        "layer" : 0,
-        "net" : -2242274221101800453,
-        "start" : {
-          "x" : 43307,
-          "y" : 90170
-        }
-      },
-      {
-        "end" : {
-          "x" : 45974,
-          "y" : 86995
-        },
-        "layer" : 0,
-        "net" : -2242274221101800453,
-        "start" : {
-          "x" : 45974,
-          "y" : 87503
-        }
-      },
-      {
-        "end" : {
-          "x" : 61595,
-          "y" : 90170
-        },
-        "layer" : 0,
-        "net" : -2239441879148096592,
-        "start" : {
-          "x" : 63500,
-          "y" : 90170
-        }
-      },
-      {
-        "end" : {
-          "x" : 60960,
-          "y" : 90805
-        },
-        "layer" : 0,
-        "net" : -2239441879148096592,
-        "start" : {
-          "x" : 61595,
-          "y" : 90170
-        }
-      },
-      {
-        "end" : {
-          "x" : 57658,
-          "y" : 90805
-        },
-        "layer" : 0,
-        "net" : -2239441879148096592,
-        "start" : {
-          "x" : 60960,
-          "y" : 90805
-        }
-      },
-      {
-        "end" : {
-          "x" : 55753,
-          "y" : 88900
-        },
-        "layer" : 0,
-        "net" : -2239441879148096592,
-        "start" : {
-          "x" : 57658,
-          "y" : 90805
-        }
-      },
-      {
-        "end" : {
           "x" : 52130,
           "y" : 88265
         },
         "layer" : 0,
-        "net" : -2239442978659724803,
+        "net" : -3779329528926869598,
         "start" : {
           "x" : 53400,
           "y" : 88265
@@ -2484,7 +2715,7 @@
           "y" : 87757
         },
         "layer" : 0,
-        "net" : -2239442978659724803,
+        "net" : -3779329528926869598,
         "start" : {
           "x" : 52130,
           "y" : 88265
@@ -2496,7 +2727,7 @@
           "y" : 85725
         },
         "layer" : 0,
-        "net" : -2239442978659724803,
+        "net" : -3779329528926869598,
         "start" : {
           "x" : 51622,
           "y" : 87757
@@ -2508,7 +2739,7 @@
           "y" : 84709
         },
         "layer" : 0,
-        "net" : -2239442978659724803,
+        "net" : -3779329528926869598,
         "start" : {
           "x" : 51622,
           "y" : 85725
@@ -2520,7 +2751,7 @@
           "y" : 84709
         },
         "layer" : 0,
-        "net" : -2239442978659724803,
+        "net" : -3779329528926869598,
         "start" : {
           "x" : 52638,
           "y" : 84709
@@ -2532,7 +2763,7 @@
           "y" : 87249
         },
         "layer" : 0,
-        "net" : -2239442978659724803,
+        "net" : -3779329528926869598,
         "start" : {
           "x" : 61020,
           "y" : 84709
@@ -2540,11 +2771,983 @@
       },
       {
         "end" : {
-          "x" : 48200,
-          "y" : 85852
+          "x" : 79351,
+          "y" : 86360
         },
         "layer" : 0,
-        "net" : -2242277519636685086,
+        "net" : 0,
+        "start" : {
+          "x" : 77700,
+          "y" : 86360
+        }
+      },
+      {
+        "end" : {
+          "x" : 74700,
+          "y" : 86360
+        },
+        "layer" : 0,
+        "net" : -586392939358031319,
+        "start" : {
+          "x" : 74700,
+          "y" : 88900
+        }
+      },
+      {
+        "end" : {
+          "x" : 74870,
+          "y" : 80645
+        },
+        "layer" : 0,
+        "net" : -586392939358031319,
+        "start" : {
+          "x" : 73600,
+          "y" : 80645
+        }
+      },
+      {
+        "end" : {
+          "x" : 76140,
+          "y" : 81915
+        },
+        "layer" : 0,
+        "net" : -586392939358031319,
+        "start" : {
+          "x" : 74870,
+          "y" : 80645
+        }
+      },
+      {
+        "end" : {
+          "x" : 78800,
+          "y" : 81915
+        },
+        "layer" : 0,
+        "net" : -586392939358031319,
+        "start" : {
+          "x" : 76140,
+          "y" : 81915
+        }
+      },
+      {
+        "end" : {
+          "x" : 74700,
+          "y" : 85090
+        },
+        "layer" : 0,
+        "net" : -586392939358031319,
+        "start" : {
+          "x" : 74700,
+          "y" : 86360
+        }
+      },
+      {
+        "end" : {
+          "x" : 76097,
+          "y" : 83693
+        },
+        "layer" : 0,
+        "net" : -586392939358031319,
+        "start" : {
+          "x" : 74700,
+          "y" : 85090
+        }
+      },
+      {
+        "end" : {
+          "x" : 76097,
+          "y" : 81915
+        },
+        "layer" : 0,
+        "net" : -586392939358031319,
+        "start" : {
+          "x" : 76097,
+          "y" : 83693
+        }
+      },
+      {
+        "end" : {
+          "x" : 72620,
+          "y" : 91440
+        },
+        "layer" : 0,
+        "net" : -1533979825505833913,
+        "start" : {
+          "x" : 71350,
+          "y" : 91440
+        }
+      },
+      {
+        "end" : {
+          "x" : 73636,
+          "y" : 92456
+        },
+        "layer" : 0,
+        "net" : -1533979825505833913,
+        "start" : {
+          "x" : 72620,
+          "y" : 91440
+        }
+      },
+      {
+        "end" : {
+          "x" : 73636,
+          "y" : 94615
+        },
+        "layer" : 0,
+        "net" : -1533979825505833913,
+        "start" : {
+          "x" : 73636,
+          "y" : 92456
+        }
+      },
+      {
+        "end" : {
+          "x" : 69366,
+          "y" : 91440
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 68350,
+          "y" : 91440
+        }
+      },
+      {
+        "end" : {
+          "x" : 69874,
+          "y" : 91948
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 69366,
+          "y" : 91440
+        }
+      },
+      {
+        "end" : {
+          "x" : 69874,
+          "y" : 93472
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 69874,
+          "y" : 91948
+        }
+      },
+      {
+        "end" : {
+          "x" : 70382,
+          "y" : 93980
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 69874,
+          "y" : 93472
+        }
+      },
+      {
+        "end" : {
+          "x" : 71350,
+          "y" : 93980
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 70382,
+          "y" : 93980
+        }
+      },
+      {
+        "end" : {
+          "x" : 82066,
+          "y" : 96520
+        },
+        "layer" : 0,
+        "net" : -904844586312860152,
+        "start" : {
+          "x" : 81050,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 82574,
+          "y" : 97028
+        },
+        "layer" : 0,
+        "net" : -904844586312860152,
+        "start" : {
+          "x" : 82066,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 82574,
+          "y" : 98552
+        },
+        "layer" : 0,
+        "net" : -904844586312860152,
+        "start" : {
+          "x" : 82574,
+          "y" : 97028
+        }
+      },
+      {
+        "end" : {
+          "x" : 83082,
+          "y" : 99060
+        },
+        "layer" : 0,
+        "net" : -904844586312860152,
+        "start" : {
+          "x" : 82574,
+          "y" : 98552
+        }
+      },
+      {
+        "end" : {
+          "x" : 84050,
+          "y" : 99060
+        },
+        "layer" : 0,
+        "net" : -904844586312860152,
+        "start" : {
+          "x" : 83082,
+          "y" : 99060
+        }
+      },
+      {
+        "end" : {
+          "x" : 70334,
+          "y" : 96520
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 71350,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 69826,
+          "y" : 97028
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 70334,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 69826,
+          "y" : 98552
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 69826,
+          "y" : 97028
+        }
+      },
+      {
+        "end" : {
+          "x" : 69318,
+          "y" : 99060
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 69826,
+          "y" : 98552
+        }
+      },
+      {
+        "end" : {
+          "x" : 68350,
+          "y" : 99060
+        },
+        "layer" : 0,
+        "net" : -904846785336116574,
+        "start" : {
+          "x" : 69318,
+          "y" : 99060
+        }
+      },
+      {
+        "end" : {
+          "x" : 33250,
+          "y" : 43815
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 33250,
+          "y" : 45720
+        }
+      },
+      {
+        "end" : {
+          "x" : 35790,
+          "y" : 41275
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 33250,
+          "y" : 43815
+        }
+      },
+      {
+        "end" : {
+          "x" : 25400,
+          "y" : 25400
+        },
+        "layer" : 0,
+        "net" : -1919842435609676513,
+        "start" : {
+          "x" : 38100,
+          "y" : 12700
+        }
+      },
+      {
+        "end" : {
+          "x" : 25400,
+          "y" : 38100
+        },
+        "layer" : 0,
+        "net" : -1919842435609676513,
+        "start" : {
+          "x" : 25400,
+          "y" : 25400
+        }
+      },
+      {
+        "end" : {
+          "x" : 17780,
+          "y" : 45720
+        },
+        "layer" : 0,
+        "net" : -1919842435609676513,
+        "start" : {
+          "x" : 25400,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 76200,
+          "y" : 25400
+        },
+        "layer" : 0,
+        "net" : -1186444412361501878,
+        "start" : {
+          "x" : 63500,
+          "y" : 12700
+        }
+      },
+      {
+        "end" : {
+          "x" : 76200,
+          "y" : 38100
+        },
+        "layer" : 0,
+        "net" : -1186444412361501878,
+        "start" : {
+          "x" : 76200,
+          "y" : 25400
+        }
+      },
+      {
+        "end" : {
+          "x" : 83820,
+          "y" : 45720
+        },
+        "layer" : 0,
+        "net" : -1186444412361501878,
+        "start" : {
+          "x" : 76200,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 68350,
+          "y" : 44450
+        },
+        "layer" : 0,
+        "net" : -3896514935910703533,
+        "start" : {
+          "x" : 68350,
+          "y" : 45720
+        }
+      },
+      {
+        "end" : {
+          "x" : 65175,
+          "y" : 41275
+        },
+        "layer" : 0,
+        "net" : -3896514935910703533,
+        "start" : {
+          "x" : 68350,
+          "y" : 44450
+        }
+      },
+      {
+        "end" : {
+          "x" : 88900,
+          "y" : 53625
+        },
+        "layer" : 0,
+        "net" : -3631904767929737353,
+        "start" : {
+          "x" : 88900,
+          "y" : 44100
+        }
+      },
+      {
+        "end" : {
+          "x" : 68350,
+          "y" : 74175
+        },
+        "layer" : 0,
+        "net" : -3631904767929737353,
+        "start" : {
+          "x" : 88900,
+          "y" : 53625
+        }
+      },
+      {
+        "end" : {
+          "x" : 68350,
+          "y" : 78740
+        },
+        "layer" : 0,
+        "net" : -3631904767929737353,
+        "start" : {
+          "x" : 68350,
+          "y" : 74175
+        }
+      },
+      {
+        "end" : {
+          "x" : 65000,
+          "y" : 78740
+        },
+        "layer" : 0,
+        "net" : -3631904767929737353,
+        "start" : {
+          "x" : 68350,
+          "y" : 78740
+        }
+      },
+      {
+        "end" : {
+          "x" : 60730,
+          "y" : 78740
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 62000,
+          "y" : 78740
+        }
+      },
+      {
+        "end" : {
+          "x" : 71350,
+          "y" : 78740
+        },
+        "layer" : 0,
+        "net" : -1805038634213246895,
+        "start" : {
+          "x" : 71350,
+          "y" : 81280
+        }
+      },
+      {
+        "end" : {
+          "x" : 71985,
+          "y" : 81280
+        },
+        "layer" : 0,
+        "net" : -1805038634213246895,
+        "start" : {
+          "x" : 71350,
+          "y" : 81280
+        }
+      },
+      {
+        "end" : {
+          "x" : 72620,
+          "y" : 81915
+        },
+        "layer" : 0,
+        "net" : -1805038634213246895,
+        "start" : {
+          "x" : 71985,
+          "y" : 81280
+        }
+      },
+      {
+        "end" : {
+          "x" : 73600,
+          "y" : 81915
+        },
+        "layer" : 0,
+        "net" : -1805038634213246895,
+        "start" : {
+          "x" : 72620,
+          "y" : 81915
+        }
+      },
+      {
+        "end" : {
+          "x" : 67080,
+          "y" : 81280
+        },
+        "layer" : 0,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 68350,
+          "y" : 81280
+        }
+      },
+      {
+        "end" : {
+          "x" : 73600,
+          "y" : 78105
+        },
+        "layer" : 0,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 73600,
+          "y" : 79375
+        }
+      },
+      {
+        "end" : {
+          "x" : 71695,
+          "y" : 78105
+        },
+        "layer" : 5,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 73600,
+          "y" : 78105
+        }
+      },
+      {
+        "end" : {
+          "x" : 68520,
+          "y" : 81280
+        },
+        "layer" : 5,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 71695,
+          "y" : 78105
+        }
+      },
+      {
+        "end" : {
+          "x" : 67080,
+          "y" : 81280
+        },
+        "layer" : 5,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 68520,
+          "y" : 81280
+        }
+      },
+      {
+        "end" : {
+          "x" : 72330,
+          "y" : 110490
+        },
+        "layer" : 0,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 73600,
+          "y" : 110490
+        }
+      },
+      {
+        "end" : {
+          "x" : 74235,
+          "y" : 108585
+        },
+        "layer" : 5,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 72330,
+          "y" : 110490
+        }
+      },
+      {
+        "end" : {
+          "x" : 74235,
+          "y" : 78740
+        },
+        "layer" : 5,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 74235,
+          "y" : 108585
+        }
+      },
+      {
+        "end" : {
+          "x" : 73600,
+          "y" : 78105
+        },
+        "layer" : 5,
+        "net" : -4606777207422978322,
+        "start" : {
+          "x" : 74235,
+          "y" : 78740
+        }
+      },
+      {
+        "end" : {
+          "x" : 84050,
+          "y" : 86360
+        },
+        "layer" : 0,
+        "net" : -2645640461562011354,
+        "start" : {
+          "x" : 84050,
+          "y" : 83820
+        }
+      },
+      {
+        "end" : {
+          "x" : 82780,
+          "y" : 83820
+        },
+        "layer" : 0,
+        "net" : -2645640461562011354,
+        "start" : {
+          "x" : 84050,
+          "y" : 83820
+        }
+      },
+      {
+        "end" : {
+          "x" : 75160,
+          "y" : 76200
+        },
+        "layer" : 5,
+        "net" : -2645640461562011354,
+        "start" : {
+          "x" : 82780,
+          "y" : 83820
+        }
+      },
+      {
+        "end" : {
+          "x" : 25400,
+          "y" : 76200
+        },
+        "layer" : 5,
+        "net" : -2645640461562011354,
+        "start" : {
+          "x" : 75160,
+          "y" : 76200
+        }
+      },
+      {
+        "end" : {
+          "x" : 12700,
+          "y" : 63500
+        },
+        "layer" : 5,
+        "net" : -2645640461562011354,
+        "start" : {
+          "x" : 25400,
+          "y" : 76200
+        }
+      },
+      {
+        "end" : {
+          "x" : 79351,
+          "y" : 86360
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 81050,
+          "y" : 86360
+        }
+      },
+      {
+        "end" : {
+          "x" : 49149,
+          "y" : 134994
+        },
+        "layer" : 0,
+        "net" : -3919169092269350965,
+        "start" : {
+          "x" : 48267,
+          "y" : 134994
+        }
+      },
+      {
+        "end" : {
+          "x" : 21185,
+          "y" : 81280
+        },
+        "layer" : 0,
+        "net" : -1749273050867967550,
+        "start" : {
+          "x" : 20550,
+          "y" : 81280
+        }
+      },
+      {
+        "end" : {
+          "x" : 21820,
+          "y" : 81915
+        },
+        "layer" : 0,
+        "net" : -1749273050867967550,
+        "start" : {
+          "x" : 21185,
+          "y" : 81280
+        }
+      },
+      {
+        "end" : {
+          "x" : 22800,
+          "y" : 81915
+        },
+        "layer" : 0,
+        "net" : -1749273050867967550,
+        "start" : {
+          "x" : 21820,
+          "y" : 81915
+        }
+      },
+      {
+        "end" : {
+          "x" : 20550,
+          "y" : 77089
+        },
+        "layer" : 0,
+        "net" : 0,
+        "start" : {
+          "x" : 20550,
+          "y" : 78740
+        }
+      },
+      {
+        "end" : {
+          "x" : 17550,
+          "y" : 81280
+        },
+        "layer" : 0,
+        "net" : -552058446951592272,
+        "start" : {
+          "x" : 17550,
+          "y" : 78740
+        }
+      },
+      {
+        "end" : {
+          "x" : 12700,
+          "y" : 52705
+        },
+        "layer" : 0,
+        "net" : -552058446951592272,
+        "start" : {
+          "x" : 12700,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 20320,
+          "y" : 60325
+        },
+        "layer" : 0,
+        "net" : -552058446951592272,
+        "start" : {
+          "x" : 12700,
+          "y" : 52705
+        }
+      },
+      {
+        "end" : {
+          "x" : 20320,
+          "y" : 67945
+        },
+        "layer" : 0,
+        "net" : -552058446951592272,
+        "start" : {
+          "x" : 20320,
+          "y" : 60325
+        }
+      },
+      {
+        "end" : {
+          "x" : 17550,
+          "y" : 70715
+        },
+        "layer" : 0,
+        "net" : -552058446951592272,
+        "start" : {
+          "x" : 20320,
+          "y" : 67945
+        }
+      },
+      {
+        "end" : {
+          "x" : 17550,
+          "y" : 78740
+        },
+        "layer" : 0,
+        "net" : -552058446951592272,
+        "start" : {
+          "x" : 17550,
+          "y" : 70715
+        }
+      },
+      {
+        "end" : {
+          "x" : 45950,
+          "y" : 90170
+        },
+        "layer" : 0,
+        "net" : -3769729692902851607,
+        "start" : {
+          "x" : 45950,
+          "y" : 88900
+        }
+      },
+      {
+        "end" : {
+          "x" : 45315,
+          "y" : 90805
+        },
+        "layer" : 0,
+        "net" : -3769729692902851607,
+        "start" : {
+          "x" : 45950,
+          "y" : 90170
+        }
+      },
+      {
+        "end" : {
+          "x" : 40870,
+          "y" : 90805
+        },
+        "layer" : 0,
+        "net" : -3769729692902851607,
+        "start" : {
+          "x" : 45315,
+          "y" : 90805
+        }
+      },
+      {
+        "end" : {
+          "x" : 40235,
+          "y" : 90170
+        },
+        "layer" : 0,
+        "net" : -3769729692902851607,
+        "start" : {
+          "x" : 40870,
+          "y" : 90805
+        }
+      },
+      {
+        "end" : {
+          "x" : 38100,
+          "y" : 90170
+        },
+        "layer" : 0,
+        "net" : -3769729692902851607,
+        "start" : {
+          "x" : 40235,
+          "y" : 90170
+        }
+      },
+      {
+        "end" : {
+          "x" : 55650,
+          "y" : 90170
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 55650,
+          "y" : 88900
+        }
+      },
+      {
+        "end" : {
+          "x" : 56285,
+          "y" : 90805
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 55650,
+          "y" : 90170
+        }
+      },
+      {
+        "end" : {
+          "x" : 60730,
+          "y" : 90805
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 56285,
+          "y" : 90805
+        }
+      },
+      {
+        "end" : {
+          "x" : 61365,
+          "y" : 90170
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 60730,
+          "y" : 90805
+        }
+      },
+      {
+        "end" : {
+          "x" : 63500,
+          "y" : 90170
+        },
+        "layer" : 0,
+        "net" : -3769728593391223396,
+        "start" : {
+          "x" : 61365,
+          "y" : 90170
+        }
+      },
+      {
+        "end" : {
+          "x" : 40961,
+          "y" : 86995
+        },
+        "layer" : 0,
+        "net" : -3779326230391984965,
         "start" : {
           "x" : 48200,
           "y" : 86995
@@ -2552,163 +3755,334 @@
       },
       {
         "end" : {
-          "x" : 47057,
-          "y" : 84709
+          "x" : 40326,
+          "y" : 87630
         },
         "layer" : 0,
-        "net" : -2242277519636685086,
+        "net" : -3779326230391984965,
         "start" : {
-          "x" : 48200,
-          "y" : 85852
+          "x" : 40961,
+          "y" : 86995
         }
       },
       {
         "end" : {
-          "x" : 41215,
-          "y" : 84709
+          "x" : 38100,
+          "y" : 87630
         },
         "layer" : 0,
-        "net" : -2242277519636685086,
+        "net" : -3779326230391984965,
         "start" : {
-          "x" : 47057,
-          "y" : 84709
-        }
-      },
-      {
-        "end" : {
-          "x" : 38167,
-          "y" : 87757
-        },
-        "layer" : 0,
-        "net" : -2242277519636685086,
-        "start" : {
-          "x" : 41215,
-          "y" : 84709
-        }
-      },
-      {
-        "end" : {
-          "x" : 28170,
-          "y" : 111760
-        },
-        "layer" : 0,
-        "net" : 0,
-        "start" : {
-          "x" : 26900,
-          "y" : 111760
-        }
-      },
-      {
-        "end" : {
-          "x" : 23900,
-          "y" : 111760
-        },
-        "layer" : 0,
-        "net" : -586392939358031319,
-        "start" : {
-          "x" : 23900,
-          "y" : 114300
+          "x" : 40326,
+          "y" : 87630
         }
       },
       {
         "end" : {
           "x" : 24070,
-          "y" : 106045
+          "y" : 50165
         },
         "layer" : 0,
-        "net" : -586392939358031319,
+        "net" : -2436190272737317546,
         "start" : {
           "x" : 22800,
-          "y" : 106045
+          "y" : 50165
         }
       },
       {
         "end" : {
-          "x" : 25340,
-          "y" : 107315
+          "x" : 24705,
+          "y" : 49530
         },
         "layer" : 0,
-        "net" : -586392939358031319,
+        "net" : -2436190272737317546,
         "start" : {
           "x" : 24070,
-          "y" : 106045
+          "y" : 50165
         }
       },
       {
         "end" : {
-          "x" : 28000,
-          "y" : 107315
+          "x" : 24705,
+          "y" : 47625
         },
         "layer" : 0,
-        "net" : -586392939358031319,
+        "net" : -2436190272737317546,
         "start" : {
-          "x" : 25340,
-          "y" : 107315
+          "x" : 24705,
+          "y" : 49530
         }
       },
       {
         "end" : {
-          "x" : 23900,
-          "y" : 110490
+          "x" : 24070,
+          "y" : 46990
         },
         "layer" : 0,
-        "net" : -586392939358031319,
+        "net" : -2436190272737317546,
         "start" : {
-          "x" : 23900,
-          "y" : 111760
+          "x" : 24705,
+          "y" : 47625
         }
       },
       {
         "end" : {
-          "x" : 25297,
-          "y" : 109093
+          "x" : 24070,
+          "y" : 46355
         },
         "layer" : 0,
-        "net" : -586392939358031319,
+        "net" : -2436190272737317546,
         "start" : {
-          "x" : 23900,
-          "y" : 110490
+          "x" : 24070,
+          "y" : 46990
         }
       },
       {
         "end" : {
-          "x" : 25297,
-          "y" : 107315
+          "x" : 32234,
+          "y" : 45720
         },
         "layer" : 0,
-        "net" : -586392939358031319,
+        "net" : -3404588399972760798,
         "start" : {
-          "x" : 25297,
-          "y" : 109093
+          "x" : 33250,
+          "y" : 45720
+        }
+      },
+      {
+        "end" : {
+          "x" : 31726,
+          "y" : 45212
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 32234,
+          "y" : 45720
+        }
+      },
+      {
+        "end" : {
+          "x" : 31726,
+          "y" : 44450
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 31726,
+          "y" : 45212
+        }
+      },
+      {
+        "end" : {
+          "x" : 31218,
+          "y" : 43942
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 31726,
+          "y" : 44450
+        }
+      },
+      {
+        "end" : {
+          "x" : 27408,
+          "y" : 43942
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 31218,
+          "y" : 43942
+        }
+      },
+      {
+        "end" : {
+          "x" : 26900,
+          "y" : 44450
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 27408,
+          "y" : 43942
+        }
+      },
+      {
+        "end" : {
+          "x" : 26900,
+          "y" : 45720
+        },
+        "layer" : 0,
+        "net" : -3404588399972760798,
+        "start" : {
+          "x" : 26900,
+          "y" : 44450
+        }
+      },
+      {
+        "end" : {
+          "x" : 26900,
+          "y" : 54610
+        },
+        "layer" : 0,
+        "net" : -2436189173225689335,
+        "start" : {
+          "x" : 26900,
+          "y" : 55880
+        }
+      },
+      {
+        "end" : {
+          "x" : 27662,
+          "y" : 53848
+        },
+        "layer" : 0,
+        "net" : -2436189173225689335,
+        "start" : {
+          "x" : 26900,
+          "y" : 54610
+        }
+      },
+      {
+        "end" : {
+          "x" : 30202,
+          "y" : 53848
+        },
+        "layer" : 0,
+        "net" : -2436189173225689335,
+        "start" : {
+          "x" : 27662,
+          "y" : 53848
+        }
+      },
+      {
+        "end" : {
+          "x" : 95250,
+          "y" : 69850
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 88900,
+          "y" : 63500
+        }
+      },
+      {
+        "end" : {
+          "x" : 95250,
+          "y" : 118745
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 95250,
+          "y" : 69850
+        }
+      },
+      {
+        "end" : {
+          "x" : 81915,
+          "y" : 132080
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 95250,
+          "y" : 118745
+        }
+      },
+      {
+        "end" : {
+          "x" : 73533,
+          "y" : 132080
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 81915,
+          "y" : 132080
+        }
+      },
+      {
+        "end" : {
+          "x" : 74700,
+          "y" : 132080
+        },
+        "layer" : 0,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 73533,
+          "y" : 132080
+        }
+      },
+      {
+        "end" : {
+          "x" : 33250,
+          "y" : 133604
+        },
+        "layer" : 0,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 33250,
+          "y" : 132080
+        }
+      },
+      {
+        "end" : {
+          "x" : 38330,
+          "y" : 138684
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 33250,
+          "y" : 133604
+        }
+      },
+      {
+        "end" : {
+          "x" : 64746,
+          "y" : 138684
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 38330,
+          "y" : 138684
+        }
+      },
+      {
+        "end" : {
+          "x" : 71350,
+          "y" : 132080
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 64746,
+          "y" : 138684
+        }
+      },
+      {
+        "end" : {
+          "x" : 73533,
+          "y" : 132080
+        },
+        "layer" : 5,
+        "net" : -3392336587056349709,
+        "start" : {
+          "x" : 71350,
+          "y" : 132080
         }
       }
     ],
     "vias" : [
       {
         "at" : {
-          "x" : 46930,
-          "y" : 109855
-        },
-        "net" : 0
-      },
-      {
-        "at" : {
-          "x" : 41807,
-          "y" : 106680
-        },
-        "net" : -3397313384042719845
-      },
-      {
-        "at" : {
-          "x" : 46252,
-          "y" : 100965
-        },
-        "net" : -3397313384042719845
-      },
-      {
-        "at" : {
           "x" : 48260,
-          "y" : 126111
+          "y" : 135001
         },
         "net" : -3919169092269350965
       },
@@ -2777,24 +4151,66 @@
       },
       {
         "at" : {
-          "x" : 51495,
-          "y" : 108585
-        },
-        "net" : -3919151500083299589
-      },
-      {
-        "at" : {
-          "x" : 50570,
-          "y" : 95250
-        },
-        "net" : -3919151500083299589
-      },
-      {
-        "at" : {
-          "x" : 28170,
-          "y" : 111760
+          "x" : 79351,
+          "y" : 86360
         },
         "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 60730,
+          "y" : 78740
+        },
+        "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 67080,
+          "y" : 81280
+        },
+        "net" : -4606777207422978322
+      },
+      {
+        "at" : {
+          "x" : 73600,
+          "y" : 78105
+        },
+        "net" : -4606777207422978322
+      },
+      {
+        "at" : {
+          "x" : 72330,
+          "y" : 110490
+        },
+        "net" : -4606777207422978322
+      },
+      {
+        "at" : {
+          "x" : 82780,
+          "y" : 83820
+        },
+        "net" : -2645640461562011354
+      },
+      {
+        "at" : {
+          "x" : 20550,
+          "y" : 77089
+        },
+        "net" : 0
+      },
+      {
+        "at" : {
+          "x" : 73533,
+          "y" : 132080
+        },
+        "net" : -3392336587056349709
+      },
+      {
+        "at" : {
+          "x" : 33250,
+          "y" : 133604
+        },
+        "net" : -3392336587056349709
       }
     ]
   },
@@ -2839,8 +4255,8 @@
       ],
       "reference" : "M2",
       "schematicAt" : {
-        "x" : 127000,
-        "y" : 138430
+        "x" : 177800,
+        "y" : 153670
       },
       "schematicRotation" : 0,
       "size" : {
@@ -2889,7 +4305,7 @@
       "reference" : "M3",
       "schematicAt" : {
         "x" : 76200,
-        "y" : 138430
+        "y" : 153670
       },
       "schematicRotation" : 0,
       "size" : {
@@ -2921,7 +4337,7 @@
       "layerCount" : 6,
       "layoutAt" : {
         "x" : 76200,
-        "y" : 121920
+        "y" : 124460
       },
       "layoutRotation" : 0,
       "netLabels" : {
@@ -2944,8 +4360,8 @@
       ],
       "reference" : "M5",
       "schematicAt" : {
-        "x" : 127000,
-        "y" : 113030
+        "x" : 177800,
+        "y" : 128270
       },
       "schematicRotation" : 0,
       "size" : {
@@ -2977,7 +4393,7 @@
       "layerCount" : 6,
       "layoutAt" : {
         "x" : 25400,
-        "y" : 121920
+        "y" : 124460
       },
       "layoutRotation" : 0,
       "netLabels" : {
@@ -3001,7 +4417,7 @@
       "reference" : "M4",
       "schematicAt" : {
         "x" : 76200,
-        "y" : 113030
+        "y" : 128270
       },
       "schematicRotation" : 0,
       "size" : {
@@ -3057,8 +4473,8 @@
       ],
       "reference" : "M6",
       "schematicAt" : {
-        "x" : 76200,
-        "y" : 73660
+        "x" : 177800,
+        "y" : 96520
       },
       "schematicRotation" : 0,
       "size" : {
@@ -3094,18 +4510,25 @@
       },
       "layoutRotation" : 0,
       "netLabels" : {
-        "1" : "ENDO",
-        "4" : "_ENDO"
+        "1" : "LIMO",
+        "4" : "ENDO"
       },
       "parameterValues" : {
 
       },
       "parameters" : [
-
+        {
+          "defaultValue" : "100K",
+          "name" : "R1"
+        },
+        {
+          "defaultValue" : "100K",
+          "name" : "R2"
+        }
       ],
       "reference" : "M7",
       "schematicAt" : {
-        "x" : 76200,
+        "x" : 177800,
         "y" : 22860
       },
       "schematicRotation" : 0,
@@ -3149,11 +4572,18 @@
 
       },
       "parameters" : [
-
+        {
+          "defaultValue" : "100K",
+          "name" : "R1"
+        },
+        {
+          "defaultValue" : "100K",
+          "name" : "R2"
+        }
       ],
       "reference" : "M8",
       "schematicAt" : {
-        "x" : 158750,
+        "x" : 76200,
         "y" : 22860
       },
       "schematicRotation" : 0,
@@ -3241,8 +4671,8 @@
       ],
       "reference" : "M9",
       "schematicAt" : {
-        "x" : 158750,
-        "y" : 82550
+        "x" : 177800,
+        "y" : 73660
       },
       "schematicRotation" : 0,
       "size" : {
@@ -3418,11 +4848,11 @@
         "25" : "S51",
         "26" : "S52",
         "27" : "S53",
-        "28" : "D12",
-        "29" : "D11",
+        "28" : "A1",
+        "29" : "K1",
         "3" : "REF",
-        "31" : "D22",
-        "32" : "D21",
+        "31" : "A2",
+        "32" : "K2",
         "34" : "S61",
         "35" : "S62",
         "36" : "S63",
@@ -3531,114 +4961,6 @@
       }
     },
     {
-      "filename" : "OP.xcb",
-      "id" : "BA0B8917-3B55-4F43-908E-E06B6AC57703",
-      "interface" : [
-        {
-          "name" : "OUT1",
-          "number" : 1
-        },
-        {
-          "name" : "-IN1",
-          "number" : 2
-        },
-        {
-          "name" : "+IN1",
-          "number" : 3
-        },
-        {
-          "name" : "+IN2",
-          "number" : 4
-        },
-        {
-          "name" : "-IN2",
-          "number" : 5
-        },
-        {
-          "name" : "OUT2",
-          "number" : 6
-        }
-      ],
-      "layerCount" : 6,
-      "layoutAt" : {
-        "x" : 50800,
-        "y" : 109220
-      },
-      "layoutRotation" : 0,
-      "netLabels" : {
-        "1" : "LP",
-        "2" : "INT",
-        "3" : "GND",
-        "6" : "REV"
-      },
-      "parameterValues" : {
-
-      },
-      "parameters" : [
-
-      ],
-      "reference" : "M13",
-      "schematicAt" : {
-        "x" : 158750,
-        "y" : 62230
-      },
-      "schematicRotation" : 0,
-      "size" : {
-        "height" : 12700,
-        "width" : 25400
-      }
-    },
-    {
-      "filename" : "DG.xcb",
-      "id" : "F4FF901B-203E-409F-8796-1F21D07DD607",
-      "interface" : [
-        {
-          "name" : "D",
-          "number" : 1
-        },
-        {
-          "name" : "S1",
-          "number" : 2
-        },
-        {
-          "name" : "IN",
-          "number" : 3
-        },
-        {
-          "name" : "S2",
-          "number" : 4
-        }
-      ],
-      "layerCount" : 6,
-      "layoutAt" : {
-        "x" : 50800,
-        "y" : 101600
-      },
-      "layoutRotation" : 0,
-      "netLabels" : {
-        "1" : "C",
-        "2" : "INT",
-        "3" : "HOLD",
-        "4" : "NC"
-      },
-      "parameterValues" : {
-
-      },
-      "parameters" : [
-
-      ],
-      "reference" : "M14",
-      "schematicAt" : {
-        "x" : 158750,
-        "y" : 49530
-      },
-      "schematicRotation" : 0,
-      "size" : {
-        "height" : 25400,
-        "width" : 25400
-      }
-    },
-    {
       "filename" : "REF.xcb",
       "id" : "F4ACBBFF-221C-46EA-ACE8-DD8775573156",
       "interface" : [
@@ -3650,14 +4972,14 @@
       "layerCount" : 6,
       "layoutAt" : {
         "x" : 50800,
-        "y" : 127000
+        "y" : 135890
       },
       "layoutRotation" : 0,
       "netLabels" : {
         "1" : "REF"
       },
       "parameterValues" : {
-
+        "R1" : "22K"
       },
       "parameters" : [
         {
@@ -3667,60 +4989,8 @@
       ],
       "reference" : "M16",
       "schematicAt" : {
-        "x" : 25400,
-        "y" : 96520
-      },
-      "schematicRotation" : 0,
-      "size" : {
-        "height" : 25400,
-        "width" : 25400
-      }
-    },
-    {
-      "filename" : "EXP.xcb",
-      "id" : "24F68A1C-A5BE-4566-9D01-7B1B89600DE2",
-      "interface" : [
-        {
-          "name" : "IN",
-          "number" : 1
-        },
-        {
-          "name" : "_RISE",
-          "number" : 2
-        },
-        {
-          "name" : "FALL",
-          "number" : 3
-        },
-        {
-          "name" : "OUT",
-          "number" : 4
-        }
-      ],
-      "layerCount" : 6,
-      "layoutAt" : {
-        "x" : 50800,
-        "y" : 95250
-      },
-      "layoutRotation" : 0,
-      "netLabels" : {
-        "1" : "REV",
-        "2" : "_RISE",
-        "3" : "FALL",
-        "4" : "C",
-        "5" : "GND",
-        "6" : "C"
-      },
-      "parameterValues" : {
-
-      },
-      "parameters" : [
-
-      ],
-      "reference" : "M15",
-      "schematicAt" : {
-        "x" : 121920,
-        "y" : 49530
+        "x" : 127000,
+        "y" : 152400
       },
       "schematicRotation" : 0,
       "size" : {
@@ -3764,15 +5034,15 @@
       },
       "layoutRotation" : 0,
       "netLabels" : {
-        "1" : "D22",
-        "2" : "D21",
+        "1" : "A2",
+        "2" : "K2",
         "3" : "LP",
-        "4" : "END",
-        "5" : "D11",
-        "6" : "D12"
+        "4" : "ENDH",
+        "5" : "K1",
+        "6" : "A1"
       },
       "parameterValues" : {
-        "R2" : "10K"
+
       },
       "parameters" : [
         {
@@ -3786,7 +5056,7 @@
       ],
       "reference" : "M17",
       "schematicAt" : {
-        "x" : 114300,
+        "x" : 127000,
         "y" : 24130
       },
       "schematicRotation" : 0,
@@ -3826,8 +5096,8 @@
       ],
       "layerCount" : 6,
       "layoutAt" : {
-        "x" : 25400,
-        "y" : 106680
+        "x" : 76200,
+        "y" : 81280
       },
       "layoutRotation" : 0,
       "netLabels" : {
@@ -3844,8 +5114,121 @@
       ],
       "reference" : "M11",
       "schematicAt" : {
+        "x" : 177800,
+        "y" : 40640
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 12700,
+        "width" : 25400
+      }
+    },
+    {
+      "filename" : "FNCORE.xcb",
+      "id" : "0D773630-6838-4F21-B364-4E5D748EDAF7",
+      "interface" : [
+        {
+          "name" : "SIGI",
+          "number" : 1
+        },
+        {
+          "name" : "ATK",
+          "number" : 2
+        },
+        {
+          "name" : "DEK",
+          "number" : 3
+        },
+        {
+          "name" : "_RISE",
+          "number" : 4
+        },
+        {
+          "name" : "FALL",
+          "number" : 5
+        },
+        {
+          "name" : "HOLD",
+          "number" : 6
+        },
+        {
+          "name" : "LP",
+          "number" : 7
+        }
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 50800,
+        "y" : 104140
+      },
+      "layoutRotation" : 0,
+      "netLabels" : {
+        "1" : "SIG",
+        "2" : "ATK",
+        "3" : "DEK",
+        "4" : "_RISE",
+        "5" : "FALL",
+        "6" : "HOLD",
+        "7" : "LP"
+      },
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M12",
+      "schematicAt" : {
+        "x" : 127000,
+        "y" : 55880
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 50800,
+        "width" : 50800
+      }
+    },
+    {
+      "filename" : "BUF.xcb",
+      "id" : "65107040-8B84-4707-9562-D3F69FA64C44",
+      "interface" : [
+        {
+          "name" : "OUT1",
+          "number" : 1
+        },
+        {
+          "name" : "IN1",
+          "number" : 2
+        },
+        {
+          "name" : "IN2",
+          "number" : 3
+        },
+        {
+          "name" : "OUT2",
+          "number" : 4
+        }
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 25400,
+        "y" : 81280
+      },
+      "layoutRotation" : 0,
+      "netLabels" : {
+        "1" : "SIG",
+        "3" : "GND"
+      },
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M13",
+      "schematicAt" : {
         "x" : 76200,
-        "y" : 43180
+        "y" : 90170
       },
       "schematicRotation" : 0,
       "size" : {
@@ -3860,24 +5243,12 @@
       "name" : "TRIG"
     },
     {
-      "id" : -4542376227301819570,
-      "name" : "_END"
-    },
-    {
-      "id" : -4016862897608489867,
-      "name" : "HOL"
-    },
-    {
       "id" : -3923484605252847057,
       "name" : "RTRGSW"
     },
     {
       "id" : -3919169092269350965,
       "name" : "REF"
-    },
-    {
-      "id" : -3919151500083299589,
-      "name" : "REV"
     },
     {
       "id" : -3896514935910703533,
@@ -3888,48 +5259,28 @@
       "name" : "_RISE"
     },
     {
-      "id" : -3799348337137733550,
-      "name" : "TR"
+      "id" : -3782233339136407174,
+      "name" : "FP"
     },
     {
-      "id" : -3788943658602054332,
-      "name" : "_E"
+      "id" : -3779329528926869598,
+      "name" : "A1"
     },
     {
-      "id" : -3788933762997400433,
-      "name" : "_L"
-    },
-    {
-      "id" : -3783060171880632621,
-      "name" : "EN"
-    },
-    {
-      "id" : -3781300953275873471,
-      "name" : "GN"
-    },
-    {
-      "id" : -3781296555229360627,
-      "name" : "GB"
+      "id" : -3779326230391984965,
+      "name" : "A2"
     },
     {
       "id" : -3776529072810383856,
       "name" : "LP"
     },
     {
-      "id" : -3776519177205729957,
-      "name" : "LI"
+      "id" : -3769729692902851607,
+      "name" : "K2"
     },
     {
-      "id" : -3774595031856739157,
-      "name" : "NC"
-    },
-    {
-      "id" : -3772681881624030467,
-      "name" : "HO"
-    },
-    {
-      "id" : -3772675284554261201,
-      "name" : "HI"
+      "id" : -3769728593391223396,
+      "name" : "K1"
     },
     {
       "id" : -3758048856119261392,
@@ -3940,16 +5291,20 @@
       "name" : "TRIGI"
     },
     {
+      "id" : -3512742711042887279,
+      "name" : "FALP"
+    },
+    {
       "id" : -3512720720810323059,
       "name" : "FALL"
     },
     {
-      "id" : -3404588399972760798,
-      "name" : "_LPO"
+      "id" : -3502044462902475724,
+      "name" : "FAAP"
     },
     {
-      "id" : -3397313384042719845,
-      "name" : "INT"
+      "id" : -3404588399972760798,
+      "name" : "_LPO"
     },
     {
       "id" : -3392336587056349709,
@@ -4028,6 +5383,10 @@
       "name" : "S13"
     },
     {
+      "id" : -3162995363320769469,
+      "name" : "SIG"
+    },
+    {
       "id" : -3034515123043303227,
       "name" : "RISEP"
     },
@@ -4040,24 +5399,12 @@
       "name" : "RISE"
     },
     {
-      "id" : -2944376168416103071,
-      "name" : "TRG"
-    },
-    {
-      "id" : -2944369571346333805,
-      "name" : "TRI"
-    },
-    {
       "id" : -2866408713342504533,
       "name" : "N$R13.2\/R14.1"
     },
     {
       "id" : -2765034058348094686,
       "name" : "_FALL"
-    },
-    {
-      "id" : -2673228923479478606,
-      "name" : "TRIGIw"
     },
     {
       "id" : -2645640461562011354,
@@ -4072,46 +5419,6 @@
       "name" : "FALLP"
     },
     {
-      "id" : -2523714266799896910,
-      "name" : "T"
-    },
-    {
-      "id" : -2523707669730127644,
-      "name" : "R"
-    },
-    {
-      "id" : -2523702172171986589,
-      "name" : "_"
-    },
-    {
-      "id" : -2523695575102217323,
-      "name" : "E"
-    },
-    {
-      "id" : -2523693376078960901,
-      "name" : "G"
-    },
-    {
-      "id" : -2523688978032448057,
-      "name" : "C"
-    },
-    {
-      "id" : -2523687878520819846,
-      "name" : "L"
-    },
-    {
-      "id" : -2523683480474307002,
-      "name" : "H"
-    },
-    {
-      "id" : -2523680181939422369,
-      "name" : "K"
-    },
-    {
-      "id" : -2287478327442500564,
-      "name" : "N$R14.2\/R15.2"
-    },
-    {
       "id" : -2281542179383969882,
       "name" : "DEK"
     },
@@ -4120,28 +5427,12 @@
       "name" : "HOLD"
     },
     {
-      "id" : -2242277519636685086,
-      "name" : "D22"
+      "id" : -2007992051158381687,
+      "name" : "N$R29.1\/R30.1\/R31.1"
     },
     {
-      "id" : -2242274221101800453,
-      "name" : "D21"
-    },
-    {
-      "id" : -2239442978659724803,
-      "name" : "D12"
-    },
-    {
-      "id" : -2239441879148096592,
-      "name" : "D11"
-    },
-    {
-      "id" : -2205505759267748763,
-      "name" : "_ENDO"
-    },
-    {
-      "id" : -1919857828772471467,
-      "name" : "LPA"
+      "id" : -1955587952867382255,
+      "name" : "FalP"
     },
     {
       "id" : -1919842435609676513,
@@ -4156,20 +5447,36 @@
       "name" : "END"
     },
     {
-      "id" : -1440113140486349503,
-      "name" : "SIGI TRIGI"
-    },
-    {
       "id" : -1186444412361501878,
       "name" : "ENDO"
     },
     {
-      "id" : -792594528577930832,
-      "name" : "_EN"
+      "id" : -1186436715780104401,
+      "name" : "ENDH"
     },
     {
-      "id" : -783833619926048609,
-      "name" : "_LP"
+      "id" : -1037061042833472343,
+      "name" : "FAP"
+    },
+    {
+      "id" : -1006450639110133303,
+      "name" : "FaP"
+    },
+    {
+      "id" : -815914851805310043,
+      "name" : "SW23"
+    },
+    {
+      "id" : -815912652782053621,
+      "name" : "SW21"
+    },
+    {
+      "id" : -814923092316852946,
+      "name" : "SW31"
+    },
+    {
+      "id" : -814920893293596524,
+      "name" : "SW33"
     },
     {
       "id" : -586392939358031319,
@@ -4204,10 +5511,6 @@
       "name" : "P12"
     },
     {
-      "id" : -415611573174532163,
-      "name" : "GBD"
-    },
-    {
       "id" : 0,
       "name" : "GND"
     },
@@ -4220,93 +5523,19 @@
       "name" : "VEE"
     }
   ],
+  "parameters" : [
+
+  ],
   "schematic" : {
     "size" : {
-      "height" : 152400,
-      "width" : 203200
+      "height" : 177800,
+      "width" : 228600
     },
     "symbols" : [
       {
         "at" : {
-          "x" : 140970,
-          "y" : 59690
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C1",
-        "rotation" : 1,
-        "value" : "4n7"
-      },
-      {
-        "at" : {
           "x" : 90170,
-          "y" : 139700
+          "y" : 154940
         },
         "body" : {
           "origin" : {
@@ -4365,8 +5594,8 @@
       },
       {
         "at" : {
-          "x" : 113030,
-          "y" : 139700
+          "x" : 163830,
+          "y" : 154940
         },
         "body" : {
           "origin" : {
@@ -4425,8 +5654,8 @@
       },
       {
         "at" : {
-          "x" : 95250,
-          "y" : 71120
+          "x" : 196850,
+          "y" : 93980
         },
         "body" : {
           "origin" : {
@@ -4484,8 +5713,8 @@
       },
       {
         "at" : {
-          "x" : 105410,
-          "y" : 71120
+          "x" : 207010,
+          "y" : 93980
         },
         "body" : {
           "origin" : {
@@ -4544,8 +5773,8 @@
       },
       {
         "at" : {
-          "x" : 95250,
-          "y" : 86360
+          "x" : 196850,
+          "y" : 109220
         },
         "body" : {
           "origin" : {
@@ -4604,8 +5833,8 @@
       },
       {
         "at" : {
-          "x" : 95250,
-          "y" : 81280
+          "x" : 196850,
+          "y" : 104140
         },
         "body" : {
           "origin" : {
@@ -4664,8 +5893,8 @@
       },
       {
         "at" : {
-          "x" : 58420,
-          "y" : 71120
+          "x" : 160020,
+          "y" : 93980
         },
         "body" : {
           "origin" : {
@@ -4723,8 +5952,8 @@
       },
       {
         "at" : {
-          "x" : 58420,
-          "y" : 81280
+          "x" : 160020,
+          "y" : 104140
         },
         "body" : {
           "origin" : {
@@ -4783,8 +6012,8 @@
       },
       {
         "at" : {
-          "x" : 58420,
-          "y" : 86360
+          "x" : 160020,
+          "y" : 109220
         },
         "body" : {
           "origin" : {
@@ -4843,8 +6072,8 @@
       },
       {
         "at" : {
-          "x" : 58420,
-          "y" : 91440
+          "x" : 160020,
+          "y" : 114300
         },
         "body" : {
           "origin" : {
@@ -4903,8 +6132,8 @@
       },
       {
         "at" : {
-          "x" : 68580,
-          "y" : 58420
+          "x" : 170180,
+          "y" : 55880
         },
         "body" : {
           "origin" : {
@@ -4964,8 +6193,8 @@
       },
       {
         "at" : {
-          "x" : 83820,
-          "y" : 58420
+          "x" : 185420,
+          "y" : 55880
         },
         "body" : {
           "origin" : {
@@ -5024,8 +6253,8 @@
       },
       {
         "at" : {
-          "x" : 92710,
-          "y" : 40640
+          "x" : 194310,
+          "y" : 38100
         },
         "body" : {
           "origin" : {
@@ -5083,8 +6312,8 @@
       },
       {
         "at" : {
-          "x" : 92710,
-          "y" : 45720
+          "x" : 194310,
+          "y" : 43180
         },
         "body" : {
           "origin" : {
@@ -5143,8 +6372,8 @@
       },
       {
         "at" : {
-          "x" : 92710,
-          "y" : 50800
+          "x" : 194310,
+          "y" : 48260
         },
         "body" : {
           "origin" : {
@@ -5203,8 +6432,8 @@
       },
       {
         "at" : {
-          "x" : 59690,
-          "y" : 40640
+          "x" : 161290,
+          "y" : 38100
         },
         "body" : {
           "origin" : {
@@ -5262,8 +6491,8 @@
       },
       {
         "at" : {
-          "x" : 59690,
-          "y" : 45720
+          "x" : 161290,
+          "y" : 43180
         },
         "body" : {
           "origin" : {
@@ -5322,8 +6551,8 @@
       },
       {
         "at" : {
-          "x" : 59690,
-          "y" : 50800
+          "x" : 161290,
+          "y" : 48260
         },
         "body" : {
           "origin" : {
@@ -5379,137 +6608,1227 @@
         "reference" : "R18",
         "rotation" : 0,
         "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 58420,
+          "y" : 91440
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "SIGI",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R19",
+        "rotation" : 0,
+        "value" : ""
+      },
+      {
+        "at" : {
+          "x" : 58420,
+          "y" : 96520
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "GND",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R20",
+        "rotation" : 0,
+        "value" : ""
+      },
+      {
+        "at" : {
+          "x" : 90170,
+          "y" : 24130
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "LP",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R21",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 62230,
+          "y" : 24130
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "_LPO",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R22",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 154940,
+          "y" : 129540
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "RISE",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R23",
+        "rotation" : 0,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 154940,
+          "y" : 134620
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "S23",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R24",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 154940,
+          "y" : 139700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "REF",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R25",
+        "rotation" : 0,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 200660,
+          "y" : 129540
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "FREQI",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R26",
+        "rotation" : 0,
+        "value" : "150K"
+      },
+      {
+        "at" : {
+          "x" : 200660,
+          "y" : 134620
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "S21",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R27",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 200660,
+          "y" : 139700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "RISEP",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R28",
+        "rotation" : 0,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 93980,
+          "y" : 129540
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "FREQI",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R29",
+        "rotation" : 0,
+        "value" : "150K"
+      },
+      {
+        "at" : {
+          "x" : 93980,
+          "y" : 134620
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "S31",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R30",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 93980,
+          "y" : 139700
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "FALLP",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R31",
+        "rotation" : 0,
+        "value" : "68K"
+      },
+      {
+        "at" : {
+          "x" : 93980,
+          "y" : 124460
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "netLabel" : "_FALL",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R32",
+        "rotation" : 0,
+        "value" : ""
+      },
+      {
+        "at" : {
+          "x" : 58420,
+          "y" : 129540
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "S33",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R33",
+        "rotation" : 0,
+        "value" : "100K"
+      },
+      {
+        "at" : {
+          "x" : 58420,
+          "y" : 134620
+        },
+        "body" : {
+          "origin" : {
+            "x" : -2540,
+            "y" : -889
+          },
+          "size" : {
+            "height" : 1778,
+            "width" : 5080
+          }
+        },
+        "glyph" : [
+          {
+            "rect" : {
+              "_0" : {
+                "origin" : {
+                  "x" : -2540,
+                  "y" : -889
+                },
+                "size" : {
+                  "height" : 1778,
+                  "width" : 5080
+                }
+              }
+            }
+          }
+        ],
+        "kind" : "resistor",
+        "mirrored" : false,
+        "pins" : [
+          {
+            "at" : {
+              "x" : -5080,
+              "y" : 0
+            },
+            "direction" : 2,
+            "length" : 2540,
+            "name" : "1",
+            "netLabel" : "REF",
+            "number" : "1"
+          },
+          {
+            "at" : {
+              "x" : 5080,
+              "y" : 0
+            },
+            "direction" : 0,
+            "length" : 2540,
+            "name" : "2",
+            "number" : "2"
+          }
+        ],
+        "reference" : "R34",
+        "rotation" : 0,
+        "value" : "68K"
       }
     ],
     "wires" : [
       {
         "end" : {
-          "x" : 140970,
-          "y" : 62230
+          "x" : 165100,
+          "y" : 93980
         },
         "start" : {
-          "x" : 149860,
-          "y" : 62230
+          "x" : 168910,
+          "y" : 93980
         }
       },
       {
         "end" : {
-          "x" : 146050,
-          "y" : 57150
+          "x" : 154940,
+          "y" : 99060
         },
         "start" : {
-          "x" : 140970,
-          "y" : 57150
+          "x" : 154940,
+          "y" : 93980
         }
       },
       {
         "end" : {
-          "x" : 146050,
-          "y" : 59690
+          "x" : 168910,
+          "y" : 99060
         },
         "start" : {
-          "x" : 146050,
-          "y" : 57150
+          "x" : 154940,
+          "y" : 99060
         }
       },
       {
         "end" : {
-          "x" : 146050,
-          "y" : 59690
+          "x" : 154940,
+          "y" : 104140
         },
         "start" : {
-          "x" : 149860,
-          "y" : 59690
+          "x" : 154940,
+          "y" : 99060
         }
       },
       {
         "end" : {
-          "x" : 130810,
+          "x" : 154940,
+          "y" : 109220
+        },
+        "start" : {
+          "x" : 154940,
+          "y" : 104140
+        }
+      },
+      {
+        "end" : {
+          "x" : 154940,
+          "y" : 114300
+        },
+        "start" : {
+          "x" : 154940,
+          "y" : 109220
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 96520
+        },
+        "start" : {
+          "x" : 186690,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 104140
+        },
+        "start" : {
+          "x" : 191770,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 104140
+        },
+        "start" : {
+          "x" : 191770,
+          "y" : 109220
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 93980
+        },
+        "start" : {
+          "x" : 186690,
+          "y" : 93980
+        }
+      },
+      {
+        "end" : {
+          "x" : 201930,
+          "y" : 99060
+        },
+        "start" : {
+          "x" : 201930,
+          "y" : 93980
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 99060
+        },
+        "start" : {
+          "x" : 201930,
+          "y" : 99060
+        }
+      },
+      {
+        "end" : {
+          "x" : 175260,
+          "y" : 55880
+        },
+        "start" : {
+          "x" : 180340,
+          "y" : 55880
+        }
+      },
+      {
+        "end" : {
+          "x" : 199390,
+          "y" : 40640
+        },
+        "start" : {
+          "x" : 199390,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 189230,
+          "y" : 40640
+        },
+        "start" : {
+          "x" : 199390,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 189230,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 189230,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 189230,
+          "y" : 43180
+        }
+      },
+      {
+        "end" : {
+          "x" : 199390,
           "y" : 48260
         },
         "start" : {
-          "x" : 149860,
+          "x" : 199390,
+          "y" : 43180
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 38100
+        },
+        "start" : {
+          "x" : 189230,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 156210,
           "y" : 48260
+        },
+        "start" : {
+          "x" : 156210,
+          "y" : 43180
         }
       },
       {
         "end" : {
-          "x" : 133350,
-          "y" : 50800
+          "x" : 168910,
+          "y" : 38100
         },
         "start" : {
-          "x" : 149860,
-          "y" : 50800
+          "x" : 166370,
+          "y" : 38100
         }
       },
       {
         "end" : {
-          "x" : 133350,
-          "y" : 62230
+          "x" : 156210,
+          "y" : 40640
         },
         "start" : {
-          "x" : 133350,
-          "y" : 50800
+          "x" : 156210,
+          "y" : 38100
         }
       },
       {
         "end" : {
-          "x" : 140970,
-          "y" : 62230
+          "x" : 166370,
+          "y" : 40640
         },
         "start" : {
-          "x" : 133350,
-          "y" : 62230
+          "x" : 156210,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 166370,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 166370,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 168910,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 166370,
+          "y" : 43180
         }
       },
       {
         "end" : {
           "x" : 63500,
-          "y" : 71120
+          "y" : 91440
         },
         "start" : {
           "x" : 67310,
-          "y" : 71120
-        }
-      },
-      {
-        "end" : {
-          "x" : 53340,
-          "y" : 76200
-        },
-        "start" : {
-          "x" : 53340,
-          "y" : 71120
-        }
-      },
-      {
-        "end" : {
-          "x" : 67310,
-          "y" : 76200
-        },
-        "start" : {
-          "x" : 53340,
-          "y" : 76200
-        }
-      },
-      {
-        "end" : {
-          "x" : 53340,
-          "y" : 81280
-        },
-        "start" : {
-          "x" : 53340,
-          "y" : 76200
-        }
-      },
-      {
-        "end" : {
-          "x" : 53340,
-          "y" : 86360
-        },
-        "start" : {
-          "x" : 53340,
-          "y" : 81280
+          "y" : 91440
         }
       },
       {
@@ -5519,197 +7838,157 @@
         },
         "start" : {
           "x" : 53340,
-          "y" : 86360
+          "y" : 96520
         }
       },
       {
         "end" : {
-          "x" : 90170,
-          "y" : 73660
+          "x" : 195434,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195434,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 195580,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 195434,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 195580,
+          "y" : 139700
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 160020,
+          "y" : 134620
+        },
+        "start" : {
+          "x" : 160020,
+          "y" : 139700
+        }
+      },
+      {
+        "end" : {
+          "x" : 160020,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 160020,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 168910,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 160020,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 88900,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 88754,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 88900,
+          "y" : 139700
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 88900,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 124460
+        }
+      },
+      {
+        "end" : {
+          "x" : 88754,
+          "y" : 129540
         },
         "start" : {
           "x" : 85090,
-          "y" : 73660
-        }
-      },
-      {
-        "end" : {
-          "x" : 90170,
-          "y" : 81280
-        },
-        "start" : {
-          "x" : 90170,
-          "y" : 73660
-        }
-      },
-      {
-        "end" : {
-          "x" : 90170,
-          "y" : 81280
-        },
-        "start" : {
-          "x" : 90170,
-          "y" : 86360
-        }
-      },
-      {
-        "end" : {
-          "x" : 90170,
-          "y" : 71120
-        },
-        "start" : {
-          "x" : 85090,
-          "y" : 71120
-        }
-      },
-      {
-        "end" : {
-          "x" : 100330,
-          "y" : 76200
-        },
-        "start" : {
-          "x" : 100330,
-          "y" : 71120
-        }
-      },
-      {
-        "end" : {
-          "x" : 85090,
-          "y" : 76200
-        },
-        "start" : {
-          "x" : 100330,
-          "y" : 76200
-        }
-      },
-      {
-        "end" : {
-          "x" : 73660,
-          "y" : 58420
-        },
-        "start" : {
-          "x" : 78740,
-          "y" : 58420
-        }
-      },
-      {
-        "end" : {
-          "x" : 97790,
-          "y" : 43180
-        },
-        "start" : {
-          "x" : 97790,
-          "y" : 40640
-        }
-      },
-      {
-        "end" : {
-          "x" : 87630,
-          "y" : 43180
-        },
-        "start" : {
-          "x" : 97790,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 87630,
-          "y" : 45720
-        },
-        "start" : {
-          "x" : 87630,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 85090,
-          "y" : 45720
-        },
-        "start" : {
-          "x" : 87630,
-          "y" : 45720
-        }
-      },
-      {
-        "end" : {
-          "x" : 97790,
-          "y" : 50800
-        },
-        "start" : {
-          "x" : 97790,
-          "y" : 45720
-        }
-      },
-      {
-        "end" : {
-          "x" : 85090,
-          "y" : 40640
-        },
-        "start" : {
-          "x" : 87630,
-          "y" : 40640
-        }
-      },
-      {
-        "end" : {
-          "x" : 54610,
-          "y" : 50800
-        },
-        "start" : {
-          "x" : 54610,
-          "y" : 45720
+          "y" : 129540
         }
       },
       {
         "end" : {
           "x" : 67310,
-          "y" : 40640
+          "y" : 129540
         },
         "start" : {
-          "x" : 64770,
-          "y" : 40640
+          "x" : 63500,
+          "y" : 129540
         }
       },
       {
         "end" : {
-          "x" : 54610,
-          "y" : 43180
+          "x" : 63500,
+          "y" : 129540
         },
         "start" : {
-          "x" : 54610,
-          "y" : 40640
-        }
-      },
-      {
-        "end" : {
-          "x" : 64770,
-          "y" : 43180
-        },
-        "start" : {
-          "x" : 54610,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 64770,
-          "y" : 45720
-        },
-        "start" : {
-          "x" : 64770,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 67310,
-          "y" : 45720
-        },
-        "start" : {
-          "x" : 64770,
-          "y" : 45720
+          "x" : 63500,
+          "y" : 134620
         }
       }
     ]

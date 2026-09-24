@@ -58,6 +58,62 @@
         ],
         "reference" : "R2",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 57150,
+            "y" : 24130
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "#R2"
       },
       {
@@ -117,6 +173,62 @@
         ],
         "reference" : "R1",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 19050,
+            "y" : 24130
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "#R1"
       },
       {
@@ -176,6 +288,80 @@
         ],
         "reference" : "C3",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 57150,
+            "y" : 31750
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "47p"
       },
       {
@@ -235,6 +421,80 @@
         ],
         "reference" : "C4",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 19050,
+            "y" : 31750
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "47p"
       }
     ],
@@ -247,6 +507,10 @@
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 50800,
+      "width" : 76200
     },
     "size" : {
       "height" : 12700,
@@ -556,388 +820,6 @@
         },
         "net" : 25
       }
-    ]
-  },
-  "modules" : [
-    {
-      "filename" : "OP.xcb",
-      "id" : "06DF7641-017B-4957-8FE1-224EA848E991",
-      "interface" : [
-        {
-          "name" : "OUT1",
-          "number" : 1
-        },
-        {
-          "name" : "-IN1",
-          "number" : 2
-        },
-        {
-          "name" : "+IN1",
-          "number" : 3
-        },
-        {
-          "name" : "+IN2",
-          "number" : 4
-        },
-        {
-          "name" : "-IN2",
-          "number" : 5
-        },
-        {
-          "name" : "OUT2",
-          "number" : 6
-        }
-      ],
-      "layerCount" : 6,
-      "layoutAt" : {
-        "x" : 12700,
-        "y" : 6350
-      },
-      "layoutRotation" : 0,
-      "netLabels" : {
-        "1" : "#1 OUT1",
-        "2" : "#2 IN1",
-        "3" : "GND",
-        "4" : "GND",
-        "5" : "#3 IN2",
-        "6" : "#4 OUT2"
-      },
-      "parameterValues" : {
-
-      },
-      "parameters" : [
-
-      ],
-      "reference" : "M1",
-      "schematicAt" : {
-        "x" : 38100,
-        "y" : 24130
-      },
-      "schematicRotation" : 0,
-      "size" : {
-        "height" : 12700,
-        "width" : 25400
-      }
-    }
-  ],
-  "nets" : [
-    {
-      "id" : 0,
-      "name" : "GND"
-    },
-    {
-      "id" : 1,
-      "name" : "VCC"
-    },
-    {
-      "id" : 2,
-      "name" : "VEE"
-    },
-    {
-      "id" : 25,
-      "name" : "OUT1"
-    },
-    {
-      "id" : 26,
-      "name" : "IN1"
-    },
-    {
-      "id" : 27,
-      "name" : "IN2"
-    },
-    {
-      "id" : 28,
-      "name" : "OUT2"
-    }
-  ],
-  "parameters" : [
-    {
-      "defaultValue" : "100K",
-      "name" : "R1"
-    },
-    {
-      "defaultValue" : "100K",
-      "name" : "R2"
-    }
-  ],
-  "schematic" : {
-    "size" : {
-      "height" : 50800,
-      "width" : 76200
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 57150,
-          "y" : 24130
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R2",
-        "rotation" : 0,
-        "value" : "#R2"
-      },
-      {
-        "at" : {
-          "x" : 19050,
-          "y" : 24130
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R1",
-        "rotation" : 0,
-        "value" : "#R1"
-      },
-      {
-        "at" : {
-          "x" : 57150,
-          "y" : 31750
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C3",
-        "rotation" : 0,
-        "value" : "47p"
-      },
-      {
-        "at" : {
-          "x" : 19050,
-          "y" : 31750
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C4",
-        "rotation" : 0,
-        "value" : "47p"
-      }
     ],
     "wires" : [
       {
@@ -1091,5 +973,107 @@
         }
       }
     ]
-  }
+  },
+  "modules" : [
+    {
+      "filename" : "OP.xcb",
+      "id" : "06DF7641-017B-4957-8FE1-224EA848E991",
+      "interface" : [
+        {
+          "name" : "OUT1",
+          "number" : 1
+        },
+        {
+          "name" : "-IN1",
+          "number" : 2
+        },
+        {
+          "name" : "+IN1",
+          "number" : 3
+        },
+        {
+          "name" : "+IN2",
+          "number" : 4
+        },
+        {
+          "name" : "-IN2",
+          "number" : 5
+        },
+        {
+          "name" : "OUT2",
+          "number" : 6
+        }
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 12700,
+        "y" : 6350
+      },
+      "layoutRotation" : 0,
+      "netLabels" : {
+        "1" : "#1 OUT1",
+        "2" : "#2 IN1",
+        "3" : "GND",
+        "4" : "GND",
+        "5" : "#3 IN2",
+        "6" : "#4 OUT2"
+      },
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M1",
+      "schematicAt" : {
+        "x" : 38100,
+        "y" : 24130
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 12700,
+        "width" : 25400
+      }
+    }
+  ],
+  "nets" : [
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    },
+    {
+      "id" : 25,
+      "name" : "OUT1"
+    },
+    {
+      "id" : 26,
+      "name" : "IN1"
+    },
+    {
+      "id" : 27,
+      "name" : "IN2"
+    },
+    {
+      "id" : 28,
+      "name" : "OUT2"
+    }
+  ],
+  "parameters" : [
+    {
+      "defaultValue" : "100K",
+      "name" : "R1"
+    },
+    {
+      "defaultValue" : "100K",
+      "name" : "R2"
+    }
+  ]
 }

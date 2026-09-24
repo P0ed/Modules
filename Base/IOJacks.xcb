@@ -11,8 +11,54 @@
         "inBOM" : false,
         "reference" : "J9",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 76200,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#9 J9",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -24,8 +70,54 @@
         "inBOM" : false,
         "reference" : "J10",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 50800,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#10 J10",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -37,8 +129,54 @@
         "inBOM" : false,
         "reference" : "J5",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 101600,
+            "y" : 50800
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#5 J5",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -50,8 +188,54 @@
         "inBOM" : false,
         "reference" : "J6",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 76200,
+            "y" : 50800
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#6 J6",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -63,8 +247,54 @@
         "inBOM" : false,
         "reference" : "J7",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 50800,
+            "y" : 50800
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#7 J7",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -76,8 +306,54 @@
         "inBOM" : false,
         "reference" : "J8",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 50800
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#8 J8",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -89,8 +365,54 @@
         "inBOM" : false,
         "reference" : "J1",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 101600,
+            "y" : 76200
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#1 J1",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -102,8 +424,54 @@
         "inBOM" : false,
         "reference" : "J2",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 76200,
+            "y" : 76200
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#2 J2",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -115,8 +483,54 @@
         "inBOM" : false,
         "reference" : "J3",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 50800,
+            "y" : 76200
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#3 J3",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       },
       {
         "at" : {
@@ -128,8 +542,54 @@
         "inBOM" : false,
         "reference" : "J4",
         "rotation" : 0,
-        "value" : "Pomona 1581",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 76200
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -2540
+            },
+            "size" : {
+              "height" : 5080,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -2540
+                  },
+                  "size" : {
+                    "height" : 5080,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "JACK",
+              "netLabel" : "#4 J4",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Pomona 1581"
       }
     ],
     "holes" : [
@@ -137,9 +597,14 @@
     ],
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 101600,
+      "width" : 127000
     },
     "size" : {
       "height" : 76200,
@@ -151,6 +616,9 @@
 
     ],
     "vias" : [
+
+    ],
+    "wires" : [
 
     ]
   },
@@ -211,525 +679,7 @@
       "name" : "J1"
     }
   ],
-  "schematic" : {
-    "size" : {
-      "height" : 101600,
-      "width" : 127000
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 76200,
-          "y" : 25400
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#9 J9",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J9",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 50800,
-          "y" : 25400
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#10 J10",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J10",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 101600,
-          "y" : 50800
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#5 J5",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J5",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 76200,
-          "y" : 50800
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#6 J6",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J6",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 50800,
-          "y" : 50800
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#7 J7",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J7",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 50800
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#8 J8",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J8",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 101600,
-          "y" : 76200
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#1 J1",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J1",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 76200,
-          "y" : 76200
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#2 J2",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J2",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 50800,
-          "y" : 76200
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#3 J3",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J3",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      },
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 76200
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -2540
-          },
-          "size" : {
-            "height" : 5080,
-            "width" : 12700
-          }
-        },
-        "component" : "Pomona 1581",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -2540
-                },
-                "size" : {
-                  "height" : 5080,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "JACK",
-            "netLabel" : "#4 J4",
-            "number" : "1"
-          }
-        ],
-        "reference" : "J4",
-        "rotation" : 0,
-        "value" : "Pomona 1581"
-      }
-    ],
-    "wires" : [
+  "parameters" : [
 
-    ]
-  }
+  ]
 }

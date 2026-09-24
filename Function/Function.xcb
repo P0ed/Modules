@@ -58,6 +58,63 @@
         ],
         "reference" : "R2",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 90170,
+            "y" : 154940
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "P32",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "1K5"
       },
       {
@@ -117,6 +174,63 @@
         ],
         "reference" : "R3",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 163830,
+            "y" : 154940
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "P22",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "1K5"
       },
       {
@@ -176,6 +290,62 @@
         ],
         "reference" : "R5",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 196850,
+            "y" : 93980
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "150K"
       },
       {
@@ -235,6 +405,63 @@
         ],
         "reference" : "R6",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 207010,
+            "y" : 93980
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "LP",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "4K7"
       },
       {
@@ -294,6 +521,63 @@
         ],
         "reference" : "R7",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 196850,
+            "y" : 109220
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "150K"
       },
       {
@@ -353,6 +637,63 @@
         ],
         "reference" : "R8",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 196850,
+            "y" : 104140
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "REF",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 2
+        },
         "value" : "4K7"
       },
       {
@@ -412,6 +753,62 @@
         ],
         "reference" : "R9",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 160020,
+            "y" : 93980
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -471,6 +868,63 @@
         ],
         "reference" : "R10",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 160020,
+            "y" : 104140
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "ATK",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -530,6 +984,63 @@
         ],
         "reference" : "R11",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 160020,
+            "y" : 109220
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "68K"
       },
       {
@@ -589,6 +1100,63 @@
         ],
         "reference" : "R12",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 160020,
+            "y" : 114300
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "VCC",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "6M8"
       },
       {
@@ -648,6 +1216,64 @@
         ],
         "reference" : "R1",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 170180,
+            "y" : 55880
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "REF",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "R2V5",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "150K"
       },
       {
@@ -707,6 +1333,63 @@
         ],
         "reference" : "R4",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 185420,
+            "y" : 55880
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "150K"
       },
       {
@@ -766,6 +1449,62 @@
         ],
         "reference" : "R13",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 194310,
+            "y" : 38100
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "680K"
       },
       {
@@ -825,6 +1564,63 @@
         ],
         "reference" : "R14",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 194310,
+            "y" : 43180
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "HOLDI",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "10K"
       },
       {
@@ -884,6 +1680,63 @@
         ],
         "reference" : "R15",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 194310,
+            "y" : 48260
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "GND",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -943,6 +1796,62 @@
         ],
         "reference" : "R16",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 161290,
+            "y" : 38100
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "680K"
       },
       {
@@ -1002,6 +1911,63 @@
         ],
         "reference" : "R17",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 161290,
+            "y" : 43180
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "TRIGI",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "10K"
       },
       {
@@ -1061,6 +2027,63 @@
         ],
         "reference" : "R18",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 161290,
+            "y" : 48260
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -1120,6 +2143,63 @@
         ],
         "reference" : "R19",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 58420,
+            "y" : 91440
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "SIGI",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : ""
       },
       {
@@ -1179,6 +2259,63 @@
         ],
         "reference" : "R20",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 58420,
+            "y" : 96520
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : ""
       },
       {
@@ -1238,6 +2375,63 @@
         ],
         "reference" : "R21",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 90170,
+            "y" : 24130
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "LP",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -1297,6 +2491,63 @@
         ],
         "reference" : "R22",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 62230,
+            "y" : 24130
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "_LPO",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -1356,6 +2607,63 @@
         ],
         "reference" : "R23",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 154940,
+            "y" : 129540
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "RISE",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "68K"
       },
       {
@@ -1415,6 +2723,63 @@
         ],
         "reference" : "R24",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 154940,
+            "y" : 134620
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "S23",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -1474,6 +2839,63 @@
         ],
         "reference" : "R25",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 154940,
+            "y" : 139700
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "REF",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "68K"
       },
       {
@@ -1533,6 +2955,63 @@
         ],
         "reference" : "R26",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 200660,
+            "y" : 129540
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "FREQI",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "150K"
       },
       {
@@ -1592,6 +3071,63 @@
         ],
         "reference" : "R27",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 200660,
+            "y" : 134620
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "S21",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -1651,6 +3187,63 @@
         ],
         "reference" : "R28",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 200660,
+            "y" : 139700
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "RISEP",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "68K"
       },
       {
@@ -1710,6 +3303,63 @@
         ],
         "reference" : "R29",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 93980,
+            "y" : 129540
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "FREQI",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "150K"
       },
       {
@@ -1769,6 +3419,63 @@
         ],
         "reference" : "R30",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 93980,
+            "y" : 134620
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "S31",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -1828,6 +3535,63 @@
         ],
         "reference" : "R31",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 93980,
+            "y" : 139700
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "FALLP",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "68K"
       },
       {
@@ -1887,6 +3651,63 @@
         ],
         "reference" : "R32",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 93980,
+            "y" : 124460
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "_FALL",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : ""
       },
       {
@@ -1946,6 +3767,63 @@
         ],
         "reference" : "R33",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 58420,
+            "y" : 129540
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "S33",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "100K"
       },
       {
@@ -2005,6 +3883,63 @@
         ],
         "reference" : "R34",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 58420,
+            "y" : 134620
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "REF",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "68K"
       }
     ],
@@ -2017,6 +3952,10 @@
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 177800,
+      "width" : 228600
     },
     "size" : {
       "height" : 152400,
@@ -4212,6 +6151,428 @@
         },
         "net" : -3392336587056349709
       }
+    ],
+    "wires" : [
+      {
+        "end" : {
+          "x" : 165100,
+          "y" : 93980
+        },
+        "start" : {
+          "x" : 168910,
+          "y" : 93980
+        }
+      },
+      {
+        "end" : {
+          "x" : 154940,
+          "y" : 99060
+        },
+        "start" : {
+          "x" : 154940,
+          "y" : 93980
+        }
+      },
+      {
+        "end" : {
+          "x" : 168910,
+          "y" : 99060
+        },
+        "start" : {
+          "x" : 154940,
+          "y" : 99060
+        }
+      },
+      {
+        "end" : {
+          "x" : 154940,
+          "y" : 104140
+        },
+        "start" : {
+          "x" : 154940,
+          "y" : 99060
+        }
+      },
+      {
+        "end" : {
+          "x" : 154940,
+          "y" : 109220
+        },
+        "start" : {
+          "x" : 154940,
+          "y" : 104140
+        }
+      },
+      {
+        "end" : {
+          "x" : 154940,
+          "y" : 114300
+        },
+        "start" : {
+          "x" : 154940,
+          "y" : 109220
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 96520
+        },
+        "start" : {
+          "x" : 186690,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 104140
+        },
+        "start" : {
+          "x" : 191770,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 104140
+        },
+        "start" : {
+          "x" : 191770,
+          "y" : 109220
+        }
+      },
+      {
+        "end" : {
+          "x" : 191770,
+          "y" : 93980
+        },
+        "start" : {
+          "x" : 186690,
+          "y" : 93980
+        }
+      },
+      {
+        "end" : {
+          "x" : 201930,
+          "y" : 99060
+        },
+        "start" : {
+          "x" : 201930,
+          "y" : 93980
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 99060
+        },
+        "start" : {
+          "x" : 201930,
+          "y" : 99060
+        }
+      },
+      {
+        "end" : {
+          "x" : 175260,
+          "y" : 55880
+        },
+        "start" : {
+          "x" : 180340,
+          "y" : 55880
+        }
+      },
+      {
+        "end" : {
+          "x" : 199390,
+          "y" : 40640
+        },
+        "start" : {
+          "x" : 199390,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 189230,
+          "y" : 40640
+        },
+        "start" : {
+          "x" : 199390,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 189230,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 189230,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 189230,
+          "y" : 43180
+        }
+      },
+      {
+        "end" : {
+          "x" : 199390,
+          "y" : 48260
+        },
+        "start" : {
+          "x" : 199390,
+          "y" : 43180
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 38100
+        },
+        "start" : {
+          "x" : 189230,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 156210,
+          "y" : 48260
+        },
+        "start" : {
+          "x" : 156210,
+          "y" : 43180
+        }
+      },
+      {
+        "end" : {
+          "x" : 168910,
+          "y" : 38100
+        },
+        "start" : {
+          "x" : 166370,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 156210,
+          "y" : 40640
+        },
+        "start" : {
+          "x" : 156210,
+          "y" : 38100
+        }
+      },
+      {
+        "end" : {
+          "x" : 166370,
+          "y" : 40640
+        },
+        "start" : {
+          "x" : 156210,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 166370,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 166370,
+          "y" : 40640
+        }
+      },
+      {
+        "end" : {
+          "x" : 168910,
+          "y" : 43180
+        },
+        "start" : {
+          "x" : 166370,
+          "y" : 43180
+        }
+      },
+      {
+        "end" : {
+          "x" : 63500,
+          "y" : 91440
+        },
+        "start" : {
+          "x" : 67310,
+          "y" : 91440
+        }
+      },
+      {
+        "end" : {
+          "x" : 53340,
+          "y" : 91440
+        },
+        "start" : {
+          "x" : 53340,
+          "y" : 96520
+        }
+      },
+      {
+        "end" : {
+          "x" : 195434,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 186690,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195434,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 195580,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 195434,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 195580,
+          "y" : 139700
+        },
+        "start" : {
+          "x" : 195580,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 160020,
+          "y" : 134620
+        },
+        "start" : {
+          "x" : 160020,
+          "y" : 139700
+        }
+      },
+      {
+        "end" : {
+          "x" : 160020,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 160020,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 168910,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 160020,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 88900,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 88754,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 88900,
+          "y" : 139700
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 134620
+        }
+      },
+      {
+        "end" : {
+          "x" : 88900,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 88900,
+          "y" : 124460
+        }
+      },
+      {
+        "end" : {
+          "x" : 88754,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 85090,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 67310,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 63500,
+          "y" : 129540
+        }
+      },
+      {
+        "end" : {
+          "x" : 63500,
+          "y" : 129540
+        },
+        "start" : {
+          "x" : 63500,
+          "y" : 134620
+        }
+      }
     ]
   },
   "modules" : [
@@ -4982,10 +7343,7 @@
         "R1" : "22K"
       },
       "parameters" : [
-        {
-          "defaultValue" : "33K",
-          "name" : "R1"
-        }
+
       ],
       "reference" : "M16",
       "schematicAt" : {
@@ -5259,10 +7617,6 @@
       "name" : "_RISE"
     },
     {
-      "id" : -3782233339136407174,
-      "name" : "FP"
-    },
-    {
       "id" : -3779329528926869598,
       "name" : "A1"
     },
@@ -5291,16 +7645,8 @@
       "name" : "TRIGI"
     },
     {
-      "id" : -3512742711042887279,
-      "name" : "FALP"
-    },
-    {
       "id" : -3512720720810323059,
       "name" : "FALL"
-    },
-    {
-      "id" : -3502044462902475724,
-      "name" : "FAAP"
     },
     {
       "id" : -3404588399972760798,
@@ -5431,10 +7777,6 @@
       "name" : "N$R29.1\/R30.1\/R31.1"
     },
     {
-      "id" : -1955587952867382255,
-      "name" : "FalP"
-    },
-    {
       "id" : -1919842435609676513,
       "name" : "LPO"
     },
@@ -5453,30 +7795,6 @@
     {
       "id" : -1186436715780104401,
       "name" : "ENDH"
-    },
-    {
-      "id" : -1037061042833472343,
-      "name" : "FAP"
-    },
-    {
-      "id" : -1006450639110133303,
-      "name" : "FaP"
-    },
-    {
-      "id" : -815914851805310043,
-      "name" : "SW23"
-    },
-    {
-      "id" : -815912652782053621,
-      "name" : "SW21"
-    },
-    {
-      "id" : -814923092316852946,
-      "name" : "SW31"
-    },
-    {
-      "id" : -814920893293596524,
-      "name" : "SW33"
     },
     {
       "id" : -586392939358031319,
@@ -5525,2472 +7843,5 @@
   ],
   "parameters" : [
 
-  ],
-  "schematic" : {
-    "size" : {
-      "height" : 177800,
-      "width" : 228600
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 90170,
-          "y" : 154940
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "P32",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R2",
-        "rotation" : 0,
-        "value" : "1K5"
-      },
-      {
-        "at" : {
-          "x" : 163830,
-          "y" : 154940
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "P22",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R3",
-        "rotation" : 0,
-        "value" : "1K5"
-      },
-      {
-        "at" : {
-          "x" : 196850,
-          "y" : 93980
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R5",
-        "rotation" : 0,
-        "value" : "150K"
-      },
-      {
-        "at" : {
-          "x" : 207010,
-          "y" : 93980
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "LP",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R6",
-        "rotation" : 0,
-        "value" : "4K7"
-      },
-      {
-        "at" : {
-          "x" : 196850,
-          "y" : 109220
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R7",
-        "rotation" : 0,
-        "value" : "150K"
-      },
-      {
-        "at" : {
-          "x" : 196850,
-          "y" : 104140
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "REF",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R8",
-        "rotation" : 2,
-        "value" : "4K7"
-      },
-      {
-        "at" : {
-          "x" : 160020,
-          "y" : 93980
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R9",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 160020,
-          "y" : 104140
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "ATK",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R10",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 160020,
-          "y" : 109220
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R11",
-        "rotation" : 0,
-        "value" : "68K"
-      },
-      {
-        "at" : {
-          "x" : 160020,
-          "y" : 114300
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "VCC",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R12",
-        "rotation" : 0,
-        "value" : "6M8"
-      },
-      {
-        "at" : {
-          "x" : 170180,
-          "y" : 55880
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "REF",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "R2V5",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R1",
-        "rotation" : 0,
-        "value" : "150K"
-      },
-      {
-        "at" : {
-          "x" : 185420,
-          "y" : 55880
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R4",
-        "rotation" : 0,
-        "value" : "150K"
-      },
-      {
-        "at" : {
-          "x" : 194310,
-          "y" : 38100
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R13",
-        "rotation" : 0,
-        "value" : "680K"
-      },
-      {
-        "at" : {
-          "x" : 194310,
-          "y" : 43180
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "HOLDI",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R14",
-        "rotation" : 0,
-        "value" : "10K"
-      },
-      {
-        "at" : {
-          "x" : 194310,
-          "y" : 48260
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "GND",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R15",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 161290,
-          "y" : 38100
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R16",
-        "rotation" : 0,
-        "value" : "680K"
-      },
-      {
-        "at" : {
-          "x" : 161290,
-          "y" : 43180
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "TRIGI",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R17",
-        "rotation" : 0,
-        "value" : "10K"
-      },
-      {
-        "at" : {
-          "x" : 161290,
-          "y" : 48260
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R18",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 58420,
-          "y" : 91440
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "SIGI",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R19",
-        "rotation" : 0,
-        "value" : ""
-      },
-      {
-        "at" : {
-          "x" : 58420,
-          "y" : 96520
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R20",
-        "rotation" : 0,
-        "value" : ""
-      },
-      {
-        "at" : {
-          "x" : 90170,
-          "y" : 24130
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "LP",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R21",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 62230,
-          "y" : 24130
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "_LPO",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R22",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 154940,
-          "y" : 129540
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "RISE",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R23",
-        "rotation" : 0,
-        "value" : "68K"
-      },
-      {
-        "at" : {
-          "x" : 154940,
-          "y" : 134620
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "S23",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R24",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 154940,
-          "y" : 139700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "REF",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R25",
-        "rotation" : 0,
-        "value" : "68K"
-      },
-      {
-        "at" : {
-          "x" : 200660,
-          "y" : 129540
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "FREQI",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R26",
-        "rotation" : 0,
-        "value" : "150K"
-      },
-      {
-        "at" : {
-          "x" : 200660,
-          "y" : 134620
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "S21",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R27",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 200660,
-          "y" : 139700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "RISEP",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R28",
-        "rotation" : 0,
-        "value" : "68K"
-      },
-      {
-        "at" : {
-          "x" : 93980,
-          "y" : 129540
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "FREQI",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R29",
-        "rotation" : 0,
-        "value" : "150K"
-      },
-      {
-        "at" : {
-          "x" : 93980,
-          "y" : 134620
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "S31",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R30",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 93980,
-          "y" : 139700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "FALLP",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R31",
-        "rotation" : 0,
-        "value" : "68K"
-      },
-      {
-        "at" : {
-          "x" : 93980,
-          "y" : 124460
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "_FALL",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R32",
-        "rotation" : 0,
-        "value" : ""
-      },
-      {
-        "at" : {
-          "x" : 58420,
-          "y" : 129540
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "S33",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R33",
-        "rotation" : 0,
-        "value" : "100K"
-      },
-      {
-        "at" : {
-          "x" : 58420,
-          "y" : 134620
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "REF",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R34",
-        "rotation" : 0,
-        "value" : "68K"
-      }
-    ],
-    "wires" : [
-      {
-        "end" : {
-          "x" : 165100,
-          "y" : 93980
-        },
-        "start" : {
-          "x" : 168910,
-          "y" : 93980
-        }
-      },
-      {
-        "end" : {
-          "x" : 154940,
-          "y" : 99060
-        },
-        "start" : {
-          "x" : 154940,
-          "y" : 93980
-        }
-      },
-      {
-        "end" : {
-          "x" : 168910,
-          "y" : 99060
-        },
-        "start" : {
-          "x" : 154940,
-          "y" : 99060
-        }
-      },
-      {
-        "end" : {
-          "x" : 154940,
-          "y" : 104140
-        },
-        "start" : {
-          "x" : 154940,
-          "y" : 99060
-        }
-      },
-      {
-        "end" : {
-          "x" : 154940,
-          "y" : 109220
-        },
-        "start" : {
-          "x" : 154940,
-          "y" : 104140
-        }
-      },
-      {
-        "end" : {
-          "x" : 154940,
-          "y" : 114300
-        },
-        "start" : {
-          "x" : 154940,
-          "y" : 109220
-        }
-      },
-      {
-        "end" : {
-          "x" : 191770,
-          "y" : 96520
-        },
-        "start" : {
-          "x" : 186690,
-          "y" : 96520
-        }
-      },
-      {
-        "end" : {
-          "x" : 191770,
-          "y" : 104140
-        },
-        "start" : {
-          "x" : 191770,
-          "y" : 96520
-        }
-      },
-      {
-        "end" : {
-          "x" : 191770,
-          "y" : 104140
-        },
-        "start" : {
-          "x" : 191770,
-          "y" : 109220
-        }
-      },
-      {
-        "end" : {
-          "x" : 191770,
-          "y" : 93980
-        },
-        "start" : {
-          "x" : 186690,
-          "y" : 93980
-        }
-      },
-      {
-        "end" : {
-          "x" : 201930,
-          "y" : 99060
-        },
-        "start" : {
-          "x" : 201930,
-          "y" : 93980
-        }
-      },
-      {
-        "end" : {
-          "x" : 186690,
-          "y" : 99060
-        },
-        "start" : {
-          "x" : 201930,
-          "y" : 99060
-        }
-      },
-      {
-        "end" : {
-          "x" : 175260,
-          "y" : 55880
-        },
-        "start" : {
-          "x" : 180340,
-          "y" : 55880
-        }
-      },
-      {
-        "end" : {
-          "x" : 199390,
-          "y" : 40640
-        },
-        "start" : {
-          "x" : 199390,
-          "y" : 38100
-        }
-      },
-      {
-        "end" : {
-          "x" : 189230,
-          "y" : 40640
-        },
-        "start" : {
-          "x" : 199390,
-          "y" : 40640
-        }
-      },
-      {
-        "end" : {
-          "x" : 189230,
-          "y" : 43180
-        },
-        "start" : {
-          "x" : 189230,
-          "y" : 40640
-        }
-      },
-      {
-        "end" : {
-          "x" : 186690,
-          "y" : 43180
-        },
-        "start" : {
-          "x" : 189230,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 199390,
-          "y" : 48260
-        },
-        "start" : {
-          "x" : 199390,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 186690,
-          "y" : 38100
-        },
-        "start" : {
-          "x" : 189230,
-          "y" : 38100
-        }
-      },
-      {
-        "end" : {
-          "x" : 156210,
-          "y" : 48260
-        },
-        "start" : {
-          "x" : 156210,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 168910,
-          "y" : 38100
-        },
-        "start" : {
-          "x" : 166370,
-          "y" : 38100
-        }
-      },
-      {
-        "end" : {
-          "x" : 156210,
-          "y" : 40640
-        },
-        "start" : {
-          "x" : 156210,
-          "y" : 38100
-        }
-      },
-      {
-        "end" : {
-          "x" : 166370,
-          "y" : 40640
-        },
-        "start" : {
-          "x" : 156210,
-          "y" : 40640
-        }
-      },
-      {
-        "end" : {
-          "x" : 166370,
-          "y" : 43180
-        },
-        "start" : {
-          "x" : 166370,
-          "y" : 40640
-        }
-      },
-      {
-        "end" : {
-          "x" : 168910,
-          "y" : 43180
-        },
-        "start" : {
-          "x" : 166370,
-          "y" : 43180
-        }
-      },
-      {
-        "end" : {
-          "x" : 63500,
-          "y" : 91440
-        },
-        "start" : {
-          "x" : 67310,
-          "y" : 91440
-        }
-      },
-      {
-        "end" : {
-          "x" : 53340,
-          "y" : 91440
-        },
-        "start" : {
-          "x" : 53340,
-          "y" : 96520
-        }
-      },
-      {
-        "end" : {
-          "x" : 195434,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 195580,
-          "y" : 129540
-        }
-      },
-      {
-        "end" : {
-          "x" : 186690,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 195434,
-          "y" : 129540
-        }
-      },
-      {
-        "end" : {
-          "x" : 195580,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 195580,
-          "y" : 134620
-        }
-      },
-      {
-        "end" : {
-          "x" : 195434,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 195580,
-          "y" : 129540
-        }
-      },
-      {
-        "end" : {
-          "x" : 195580,
-          "y" : 139700
-        },
-        "start" : {
-          "x" : 195580,
-          "y" : 134620
-        }
-      },
-      {
-        "end" : {
-          "x" : 160020,
-          "y" : 134620
-        },
-        "start" : {
-          "x" : 160020,
-          "y" : 139700
-        }
-      },
-      {
-        "end" : {
-          "x" : 160020,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 160020,
-          "y" : 134620
-        }
-      },
-      {
-        "end" : {
-          "x" : 168910,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 160020,
-          "y" : 129540
-        }
-      },
-      {
-        "end" : {
-          "x" : 88900,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 88900,
-          "y" : 134620
-        }
-      },
-      {
-        "end" : {
-          "x" : 88754,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 88900,
-          "y" : 129540
-        }
-      },
-      {
-        "end" : {
-          "x" : 88900,
-          "y" : 139700
-        },
-        "start" : {
-          "x" : 88900,
-          "y" : 134620
-        }
-      },
-      {
-        "end" : {
-          "x" : 88900,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 88900,
-          "y" : 124460
-        }
-      },
-      {
-        "end" : {
-          "x" : 88754,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 85090,
-          "y" : 129540
-        }
-      },
-      {
-        "end" : {
-          "x" : 67310,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 63500,
-          "y" : 129540
-        }
-      },
-      {
-        "end" : {
-          "x" : 63500,
-          "y" : 129540
-        },
-        "start" : {
-          "x" : 63500,
-          "y" : 134620
-        }
-      }
-    ]
-  }
+  ]
 }

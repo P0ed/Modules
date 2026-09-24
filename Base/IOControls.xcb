@@ -11,8 +11,76 @@
         "inBOM" : true,
         "reference" : "P1",
         "rotation" : 0,
-        "value" : "Bourns 51",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 127000,
+            "y" : 73660
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#1 P11",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#2 P12",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#3 P13",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
       },
       {
         "at" : {
@@ -24,8 +92,76 @@
         "inBOM" : true,
         "reference" : "P2",
         "rotation" : 0,
-        "value" : "Bourns 51",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 91440,
+            "y" : 73660
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#4 P21",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#5 P22",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#6 P23",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
       },
       {
         "at" : {
@@ -37,8 +173,76 @@
         "inBOM" : true,
         "reference" : "P3",
         "rotation" : 0,
-        "value" : "Bourns 51",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 60960,
+            "y" : 73660
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#7 P31",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#8 P32",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#9 P33",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
       },
       {
         "at" : {
@@ -50,8 +254,76 @@
         "inBOM" : true,
         "reference" : "P4",
         "rotation" : 0,
-        "value" : "Bourns 51",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 73660
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#10 P41",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#11 P42",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#12 P43",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
       },
       {
         "at" : {
@@ -63,8 +335,87 @@
         "inBOM" : true,
         "reference" : "D1",
         "rotation" : 0,
-        "value" : "HLMP-WL02",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 91440,
+            "y" : 21590
+          },
+          "body" : {
+            "origin" : {
+              "x" : -1270,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 2540
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -1270,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -1270,
+                    "y" : 1270
+                  },
+                  {
+                    "x" : 1270,
+                    "y" : 0
+                  }
+                ],
+                "closed" : true,
+                "filled" : true
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 1270,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 1270,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -3810,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "A",
+              "netLabel" : "#28 D12",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 3810,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "K",
+              "netLabel" : "#29 D11",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "HLMP-WL02"
       },
       {
         "at" : {
@@ -76,8 +427,87 @@
         "inBOM" : true,
         "reference" : "D2",
         "rotation" : 0,
-        "value" : "HLMP-WL02",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 60960,
+            "y" : 21590
+          },
+          "body" : {
+            "origin" : {
+              "x" : -1270,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 2540
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -1270,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -1270,
+                    "y" : 1270
+                  },
+                  {
+                    "x" : 1270,
+                    "y" : 0
+                  }
+                ],
+                "closed" : true,
+                "filled" : true
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 1270,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 1270,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -3810,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "A",
+              "netLabel" : "#31 D22",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 3810,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "K",
+              "netLabel" : "#32 D21",
+              "number" : "1"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "HLMP-WL02"
       },
       {
         "at" : {
@@ -89,8 +519,76 @@
         "inBOM" : true,
         "reference" : "SW1",
         "rotation" : 0,
-        "value" : "NKK MN12",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 127000,
+            "y" : 48260
+          },
+          "body" : {
+            "origin" : {
+              "x" : -7620,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 15240
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -7620,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 15240
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "THROW 1",
+              "netLabel" : "#13 S11",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "COM",
+              "netLabel" : "#14 S12",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "THROW 2",
+              "netLabel" : "#15 S13",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "NKK MN12"
       },
       {
         "at" : {
@@ -102,8 +600,76 @@
         "inBOM" : true,
         "reference" : "SW2",
         "rotation" : 0,
-        "value" : "NKK MN12",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 91440,
+            "y" : 48260
+          },
+          "body" : {
+            "origin" : {
+              "x" : -7620,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 15240
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -7620,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 15240
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "THROW 1",
+              "netLabel" : "#16 S21",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "COM",
+              "netLabel" : "#17 S22",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "THROW 2",
+              "netLabel" : "#18 S23",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "NKK MN12"
       },
       {
         "at" : {
@@ -115,8 +681,76 @@
         "inBOM" : true,
         "reference" : "SW3",
         "rotation" : 0,
-        "value" : "NKK MN12",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 60960,
+            "y" : 48260
+          },
+          "body" : {
+            "origin" : {
+              "x" : -7620,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 15240
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -7620,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 15240
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "THROW 1",
+              "netLabel" : "#19 S31",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "COM",
+              "netLabel" : "#20 S32",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "THROW 2",
+              "netLabel" : "#21 S33",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "NKK MN12"
       },
       {
         "at" : {
@@ -128,8 +762,76 @@
         "inBOM" : true,
         "reference" : "SW4",
         "rotation" : 0,
-        "value" : "NKK MN12",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 48260
+          },
+          "body" : {
+            "origin" : {
+              "x" : -7620,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 15240
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -7620,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 15240
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "THROW 1",
+              "netLabel" : "#22 S41",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "COM",
+              "netLabel" : "#23 S42",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "THROW 2",
+              "netLabel" : "#24 S43",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "NKK MN12"
       },
       {
         "at" : {
@@ -141,8 +843,76 @@
         "inBOM" : true,
         "reference" : "SW5",
         "rotation" : 0,
-        "value" : "NKK MN12",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 127000,
+            "y" : 22860
+          },
+          "body" : {
+            "origin" : {
+              "x" : -7620,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 15240
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -7620,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 15240
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "THROW 1",
+              "netLabel" : "#25 S51",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "COM",
+              "netLabel" : "#26 S52",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "THROW 2",
+              "netLabel" : "#27 S53",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "NKK MN12"
       },
       {
         "at" : {
@@ -154,8 +924,76 @@
         "inBOM" : true,
         "reference" : "SW6",
         "rotation" : 0,
-        "value" : "NKK MN12",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 22860
+          },
+          "body" : {
+            "origin" : {
+              "x" : -7620,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 15240
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -7620,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 15240
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "THROW 1",
+              "netLabel" : "#34 S61",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "COM",
+              "netLabel" : "#35 S62",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "THROW 2",
+              "netLabel" : "#36 S63",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "NKK MN12"
       }
     ],
     "holes" : [
@@ -163,9 +1001,14 @@
     ],
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 101600,
+      "width" : 152400
     },
     "size" : {
       "height" : 76200,
@@ -177,6 +1020,9 @@
 
     ],
     "vias" : [
+
+    ],
+    "wires" : [
 
     ]
   },
@@ -333,913 +1179,7 @@
       "name" : "S63"
     }
   ],
-  "schematic" : {
-    "size" : {
-      "height" : 101600,
-      "width" : 152400
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 127000,
-          "y" : 73660
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 12700
-          }
-        },
-        "component" : "Bourns 51",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "CCW",
-            "netLabel" : "#1 P11",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "WIPER",
-            "netLabel" : "#2 P12",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "CW",
-            "netLabel" : "#3 P13",
-            "number" : "3"
-          }
-        ],
-        "reference" : "P1",
-        "rotation" : 0,
-        "value" : "Bourns 51"
-      },
-      {
-        "at" : {
-          "x" : 91440,
-          "y" : 73660
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 12700
-          }
-        },
-        "component" : "Bourns 51",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "CCW",
-            "netLabel" : "#4 P21",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "WIPER",
-            "netLabel" : "#5 P22",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "CW",
-            "netLabel" : "#6 P23",
-            "number" : "3"
-          }
-        ],
-        "reference" : "P2",
-        "rotation" : 0,
-        "value" : "Bourns 51"
-      },
-      {
-        "at" : {
-          "x" : 60960,
-          "y" : 73660
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 12700
-          }
-        },
-        "component" : "Bourns 51",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "CCW",
-            "netLabel" : "#7 P31",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "WIPER",
-            "netLabel" : "#8 P32",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "CW",
-            "netLabel" : "#9 P33",
-            "number" : "3"
-          }
-        ],
-        "reference" : "P3",
-        "rotation" : 0,
-        "value" : "Bourns 51"
-      },
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 73660
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 12700
-          }
-        },
-        "component" : "Bourns 51",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "CCW",
-            "netLabel" : "#10 P41",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "WIPER",
-            "netLabel" : "#11 P42",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "CW",
-            "netLabel" : "#12 P43",
-            "number" : "3"
-          }
-        ],
-        "reference" : "P4",
-        "rotation" : 0,
-        "value" : "Bourns 51"
-      },
-      {
-        "at" : {
-          "x" : 91440,
-          "y" : 21590
-        },
-        "body" : {
-          "origin" : {
-            "x" : -1270,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 2540
-          }
-        },
-        "component" : "HLMP-WL02",
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -1270,
-                  "y" : -1270
-                },
-                {
-                  "x" : -1270,
-                  "y" : 1270
-                },
-                {
-                  "x" : 1270,
-                  "y" : 0
-                }
-              ],
-              "closed" : true,
-              "filled" : true
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 1270,
-                  "y" : -1270
-                },
-                {
-                  "x" : 1270,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "diode",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -3810,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "A",
-            "netLabel" : "#28 D12",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 3810,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "K",
-            "netLabel" : "#29 D11",
-            "number" : "1"
-          }
-        ],
-        "reference" : "D1",
-        "rotation" : 0,
-        "value" : "HLMP-WL02"
-      },
-      {
-        "at" : {
-          "x" : 60960,
-          "y" : 21590
-        },
-        "body" : {
-          "origin" : {
-            "x" : -1270,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 2540
-          }
-        },
-        "component" : "HLMP-WL02",
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -1270,
-                  "y" : -1270
-                },
-                {
-                  "x" : -1270,
-                  "y" : 1270
-                },
-                {
-                  "x" : 1270,
-                  "y" : 0
-                }
-              ],
-              "closed" : true,
-              "filled" : true
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 1270,
-                  "y" : -1270
-                },
-                {
-                  "x" : 1270,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "diode",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -3810,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "A",
-            "netLabel" : "#31 D22",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 3810,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "K",
-            "netLabel" : "#32 D21",
-            "number" : "1"
-          }
-        ],
-        "reference" : "D2",
-        "rotation" : 0,
-        "value" : "HLMP-WL02"
-      },
-      {
-        "at" : {
-          "x" : 127000,
-          "y" : 48260
-        },
-        "body" : {
-          "origin" : {
-            "x" : -7620,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 15240
-          }
-        },
-        "component" : "NKK MN12",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -7620,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 15240
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "THROW 1",
-            "netLabel" : "#13 S11",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "COM",
-            "netLabel" : "#14 S12",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "THROW 2",
-            "netLabel" : "#15 S13",
-            "number" : "3"
-          }
-        ],
-        "reference" : "SW1",
-        "rotation" : 0,
-        "value" : "NKK MN12"
-      },
-      {
-        "at" : {
-          "x" : 91440,
-          "y" : 48260
-        },
-        "body" : {
-          "origin" : {
-            "x" : -7620,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 15240
-          }
-        },
-        "component" : "NKK MN12",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -7620,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 15240
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "THROW 1",
-            "netLabel" : "#16 S21",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "COM",
-            "netLabel" : "#17 S22",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "THROW 2",
-            "netLabel" : "#18 S23",
-            "number" : "3"
-          }
-        ],
-        "reference" : "SW2",
-        "rotation" : 0,
-        "value" : "NKK MN12"
-      },
-      {
-        "at" : {
-          "x" : 60960,
-          "y" : 48260
-        },
-        "body" : {
-          "origin" : {
-            "x" : -7620,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 15240
-          }
-        },
-        "component" : "NKK MN12",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -7620,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 15240
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "THROW 1",
-            "netLabel" : "#19 S31",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "COM",
-            "netLabel" : "#20 S32",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "THROW 2",
-            "netLabel" : "#21 S33",
-            "number" : "3"
-          }
-        ],
-        "reference" : "SW3",
-        "rotation" : 0,
-        "value" : "NKK MN12"
-      },
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 48260
-        },
-        "body" : {
-          "origin" : {
-            "x" : -7620,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 15240
-          }
-        },
-        "component" : "NKK MN12",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -7620,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 15240
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "THROW 1",
-            "netLabel" : "#22 S41",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "COM",
-            "netLabel" : "#23 S42",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "THROW 2",
-            "netLabel" : "#24 S43",
-            "number" : "3"
-          }
-        ],
-        "reference" : "SW4",
-        "rotation" : 0,
-        "value" : "NKK MN12"
-      },
-      {
-        "at" : {
-          "x" : 127000,
-          "y" : 22860
-        },
-        "body" : {
-          "origin" : {
-            "x" : -7620,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 15240
-          }
-        },
-        "component" : "NKK MN12",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -7620,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 15240
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "THROW 1",
-            "netLabel" : "#25 S51",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "COM",
-            "netLabel" : "#26 S52",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "THROW 2",
-            "netLabel" : "#27 S53",
-            "number" : "3"
-          }
-        ],
-        "reference" : "SW5",
-        "rotation" : 0,
-        "value" : "NKK MN12"
-      },
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 22860
-        },
-        "body" : {
-          "origin" : {
-            "x" : -7620,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 15240
-          }
-        },
-        "component" : "NKK MN12",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -7620,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 15240
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "THROW 1",
-            "netLabel" : "#34 S61",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "COM",
-            "netLabel" : "#35 S62",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "THROW 2",
-            "netLabel" : "#36 S63",
-            "number" : "3"
-          }
-        ],
-        "reference" : "SW6",
-        "rotation" : 0,
-        "value" : "NKK MN12"
-      }
-    ],
-    "wires" : [
+  "parameters" : [
 
-    ]
-  }
+  ]
 }

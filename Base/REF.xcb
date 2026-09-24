@@ -11,8 +11,75 @@
         "inBOM" : true,
         "reference" : "U1",
         "rotation" : 0,
-        "value" : "ADR5045",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "V+",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "V-",
+              "netLabel" : "GND",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "T",
+              "netLabel" : "NC",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "ADR5045"
       },
       {
         "at" : {
@@ -71,22 +138,80 @@
         ],
         "reference" : "R1",
         "rotation" : 0,
-        "value" : "33K",
-        "valueParameter" : true
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 17780
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "#1 REF",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "VCC",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "33K"
       }
     ],
     "holes" : [
 
     ],
-    "origin" : {
-      "x" : 12700,
-      "y" : 12700
-    },
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 50800,
+      "width" : 50800
     },
     "size" : {
       "height" : 25400,
@@ -147,173 +272,6 @@
         },
         "net" : 0
       }
-    ]
-  },
-  "modules" : [
-
-  ],
-  "nets" : [
-    {
-      "id" : 0,
-      "name" : "GND"
-    },
-    {
-      "id" : 1,
-      "name" : "VCC"
-    },
-    {
-      "id" : 2,
-      "name" : "VEE"
-    },
-    {
-      "id" : 8,
-      "name" : "REF"
-    },
-    {
-      "id" : 12,
-      "name" : "NC"
-    }
-  ],
-  "schematic" : {
-    "size" : {
-      "height" : 50800,
-      "width" : 50800
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 25400
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 12700
-          }
-        },
-        "component" : "ADR5045",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "V+",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "V-",
-            "netLabel" : "GND",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "T",
-            "netLabel" : "NC",
-            "number" : "3"
-          }
-        ],
-        "reference" : "U1",
-        "rotation" : 0,
-        "value" : "ADR5045"
-      },
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 17780
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "#1 REF",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "VCC",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R1",
-        "rotation" : 0,
-        "value" : "33K",
-        "valueParameter" : true
-      }
     ],
     "wires" : [
       {
@@ -347,5 +305,33 @@
         }
       }
     ]
-  }
+  },
+  "modules" : [
+
+  ],
+  "nets" : [
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    },
+    {
+      "id" : 8,
+      "name" : "REF"
+    },
+    {
+      "id" : 12,
+      "name" : "NC"
+    }
+  ],
+  "parameters" : [
+
+  ]
 }

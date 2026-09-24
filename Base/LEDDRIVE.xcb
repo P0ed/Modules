@@ -58,6 +58,63 @@
         ],
         "reference" : "R1",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 11430,
+            "y" : 12700
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "GND",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "#R1"
       },
       {
@@ -117,6 +174,63 @@
         ],
         "reference" : "R2",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 39370,
+            "y" : 12700
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "#R2"
       }
     ],
@@ -129,6 +243,10 @@
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 25400,
+      "width" : 50800
     },
     "size" : {
       "height" : 25400,
@@ -201,6 +319,9 @@
         },
         "net" : 0
       }
+    ],
+    "wires" : [
+
     ]
   },
   "modules" : [
@@ -312,136 +433,5 @@
       "defaultValue" : "4K7",
       "name" : "R2"
     }
-  ],
-  "schematic" : {
-    "size" : {
-      "height" : 25400,
-      "width" : 50800
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 11430,
-          "y" : 12700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "GND",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R1",
-        "rotation" : 0,
-        "value" : "#R1"
-      },
-      {
-        "at" : {
-          "x" : 39370,
-          "y" : 12700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -2540,
-            "y" : -889
-          },
-          "size" : {
-            "height" : 1778,
-            "width" : 5080
-          }
-        },
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -2540,
-                  "y" : -889
-                },
-                "size" : {
-                  "height" : 1778,
-                  "width" : 5080
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "resistor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -5080,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 5080,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "R2",
-        "rotation" : 0,
-        "value" : "#R2"
-      }
-    ],
-    "wires" : [
-
-    ]
-  }
+  ]
 }

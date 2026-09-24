@@ -8,9 +8,14 @@
     ],
     "rules" : {
       "clearance" : 400,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 25400,
+      "width" : 25400
     },
     "size" : {
       "height" : 152400,
@@ -18,8 +23,15 @@
     },
     "solderMask" : false,
     "stack" : 6,
-    "traces" : [],
-    "vias" : []
+    "traces" : [
+
+    ],
+    "vias" : [
+
+    ],
+    "wires" : [
+
+    ]
   },
   "modules" : [
     {
@@ -110,17 +122,21 @@
       }
     }
   ],
-  "nets" : [],
-  "schematic" : {
-    "size" : {
-      "height" : 25400,
-      "width" : 25400
+  "nets" : [
+    {
+      "id" : -4167931178676924015,
+      "name" : "GND"
     },
-    "symbols" : [
+    {
+      "id" : -935081121389881150,
+      "name" : "VCC"
+    },
+    {
+      "id" : -933161374087403194,
+      "name" : "VEE"
+    }
+  ],
+  "parameters" : [
 
-    ],
-    "wires" : [
-
-    ]
-  }
+  ]
 }

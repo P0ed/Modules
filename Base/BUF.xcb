@@ -8,9 +8,14 @@
     ],
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 50800,
+      "width" : 76200
     },
     "size" : {
       "height" : 12700,
@@ -169,6 +174,28 @@
         },
         "net" : 1
       }
+    ],
+    "wires" : [
+      {
+        "end" : {
+          "x" : 46990,
+          "y" : 24130
+        },
+        "start" : {
+          "x" : 46990,
+          "y" : 21590
+        }
+      },
+      {
+        "end" : {
+          "x" : 29210,
+          "y" : 24130
+        },
+        "start" : {
+          "x" : 29210,
+          "y" : 21590
+        }
+      }
     ]
   },
   "modules" : [
@@ -261,35 +288,7 @@
       "name" : "IN1"
     }
   ],
-  "schematic" : {
-    "size" : {
-      "height" : 50800,
-      "width" : 76200
-    },
-    "symbols" : [
+  "parameters" : [
 
-    ],
-    "wires" : [
-      {
-        "end" : {
-          "x" : 46990,
-          "y" : 24130
-        },
-        "start" : {
-          "x" : 46990,
-          "y" : 21590
-        }
-      },
-      {
-        "end" : {
-          "x" : 29210,
-          "y" : 24130
-        },
-        "start" : {
-          "x" : 29210,
-          "y" : 21590
-        }
-      }
-    ]
-  }
+  ]
 }

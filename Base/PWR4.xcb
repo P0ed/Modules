@@ -11,6 +11,86 @@
         "inBOM" : false,
         "reference" : "J1",
         "rotation" : 3,
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "VEE",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : 1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "3",
+              "netLabel" : "GND",
+              "number" : "3"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "4",
+              "netLabel" : "VCC",
+              "number" : "4"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "MTA-156-4"
       },
       {
@@ -70,6 +150,80 @@
         ],
         "reference" : "C1",
         "rotation" : 2,
+        "symbol" : {
+          "at" : {
+            "x" : 40640,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 1
+        },
         "value" : "2u2"
       },
       {
@@ -129,21 +283,96 @@
         ],
         "reference" : "C2",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 10160,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 1
+        },
         "value" : "2u2"
       }
     ],
     "holes" : [
 
     ],
-    "origin" : {
-      "x" : 25400,
-      "y" : 25400
-    },
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 50800,
+      "width" : 50800
     },
     "size" : {
       "height" : 50800,
@@ -299,269 +528,6 @@
         },
         "net" : 2
       }
-    ]
-  },
-  "modules" : [
-
-  ],
-  "nets" : [
-    {
-      "id" : 0,
-      "name" : "GND"
-    },
-    {
-      "id" : 1,
-      "name" : "VCC"
-    },
-    {
-      "id" : 2,
-      "name" : "VEE"
-    }
-  ],
-  "schematic" : {
-    "size" : {
-      "height" : 50800,
-      "width" : 50800
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 25400
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -3810
-          },
-          "size" : {
-            "height" : 7620,
-            "width" : 12700
-          }
-        },
-        "component" : "MTA-156-4",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -3810
-                },
-                "size" : {
-                  "height" : 7620,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "1",
-            "netLabel" : "VEE",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : 1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "3",
-            "netLabel" : "GND",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "4",
-            "netLabel" : "VCC",
-            "number" : "4"
-          }
-        ],
-        "reference" : "J1",
-        "rotation" : 0,
-        "value" : "MTA-156-4"
-      },
-      {
-        "at" : {
-          "x" : 40640,
-          "y" : 25400
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C1",
-        "rotation" : 1,
-        "value" : "2u2"
-      },
-      {
-        "at" : {
-          "x" : 10160,
-          "y" : 25400
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C2",
-        "rotation" : 1,
-        "value" : "2u2"
-      }
     ],
     "wires" : [
       {
@@ -695,5 +661,25 @@
         }
       }
     ]
-  }
+  },
+  "modules" : [
+
+  ],
+  "nets" : [
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    }
+  ],
+  "parameters" : [
+
+  ]
 }

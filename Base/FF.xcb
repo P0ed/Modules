@@ -11,6 +11,196 @@
         "inBOM" : true,
         "reference" : "U1",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -7620,
+              "y" : -10160
+            },
+            "size" : {
+              "height" : 20320,
+              "width" : 15240
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -7620,
+                    "y" : -10160
+                  },
+                  "size" : {
+                    "height" : 20320,
+                    "width" : 15240
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -7620
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "Q1",
+              "netLabel" : "#1 Q1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -5080
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "\/Q1",
+              "netLabel" : "#2 !Q1",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : -2540
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CLOCK1",
+              "netLabel" : "#3 CLK1",
+              "number" : "3"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "RESET1",
+              "netLabel" : "#4 RST1",
+              "number" : "4"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 2540
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "D1",
+              "netLabel" : "#5 D1",
+              "number" : "5"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 5080
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "SET1",
+              "netLabel" : "#6 SET1",
+              "number" : "6"
+            },
+            {
+              "at" : {
+                "x" : -10160,
+                "y" : 7620
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "VSS",
+              "netLabel" : "GND",
+              "number" : "7"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : 7620
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "SET2",
+              "netLabel" : "#7 SET2",
+              "number" : "8"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : 5080
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "D2",
+              "netLabel" : "#8 D2",
+              "number" : "9"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : 2540
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "RESET2",
+              "netLabel" : "#9 RST2",
+              "number" : "10"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CLOCK2",
+              "netLabel" : "#10 CLK2",
+              "number" : "11"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -2540
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "\/Q2",
+              "netLabel" : "#11 !Q2",
+              "number" : "12"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -5080
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "Q2",
+              "netLabel" : "#12 Q2",
+              "number" : "13"
+            },
+            {
+              "at" : {
+                "x" : 10160,
+                "y" : -7620
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "VDD",
+              "netLabel" : "VCC",
+              "number" : "14"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "CD4013"
       },
       {
@@ -70,21 +260,97 @@
         ],
         "reference" : "C1",
         "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 43180,
+            "y" : 17780
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
         "value" : "2u2"
       }
     ],
     "holes" : [
 
     ],
-    "origin" : {
-      "x" : 12700,
-      "y" : 12700
-    },
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 50800,
+      "width" : 50800
     },
     "size" : {
       "height" : 25400,
@@ -164,6 +430,18 @@
         },
         "net" : 0
       }
+    ],
+    "wires" : [
+      {
+        "end" : {
+          "x" : 35560,
+          "y" : 17780
+        },
+        "start" : {
+          "x" : 40640,
+          "y" : 17780
+        }
+      }
     ]
   },
   "modules" : [
@@ -181,138 +459,6 @@
     {
       "id" : 2,
       "name" : "VEE"
-    },
-    {
-      "id" : 3,
-      "name" : "NET"
-    },
-    {
-      "id" : 4,
-      "name" : "#"
-    },
-    {
-      "id" : 5,
-      "name" : "#Q"
-    },
-    {
-      "id" : 6,
-      "name" : "#Q1"
-    },
-    {
-      "id" : 7,
-      "name" : "#!"
-    },
-    {
-      "id" : 8,
-      "name" : "#!Q"
-    },
-    {
-      "id" : 9,
-      "name" : "#!Q1"
-    },
-    {
-      "id" : 10,
-      "name" : "!"
-    },
-    {
-      "id" : 11,
-      "name" : "#C"
-    },
-    {
-      "id" : 12,
-      "name" : "#CL"
-    },
-    {
-      "id" : 13,
-      "name" : "#CLK"
-    },
-    {
-      "id" : 14,
-      "name" : "#E"
-    },
-    {
-      "id" : 15,
-      "name" : "#R"
-    },
-    {
-      "id" : 16,
-      "name" : "#RS"
-    },
-    {
-      "id" : 17,
-      "name" : "#RST"
-    },
-    {
-      "id" : 18,
-      "name" : "#D"
-    },
-    {
-      "id" : 19,
-      "name" : "#D1"
-    },
-    {
-      "id" : 20,
-      "name" : "#S"
-    },
-    {
-      "id" : 21,
-      "name" : "#SE"
-    },
-    {
-      "id" : 22,
-      "name" : "#SET"
-    },
-    {
-      "id" : 23,
-      "name" : "#SET1"
-    },
-    {
-      "id" : 24,
-      "name" : "#D2"
-    },
-    {
-      "id" : 25,
-      "name" : "#SET2"
-    },
-    {
-      "id" : 26,
-      "name" : "#RST2"
-    },
-    {
-      "id" : 27,
-      "name" : "#RST1"
-    },
-    {
-      "id" : 28,
-      "name" : "#CLK1"
-    },
-    {
-      "id" : 29,
-      "name" : "Q"
-    },
-    {
-      "id" : 30,
-      "name" : "#Q3"
-    },
-    {
-      "id" : 31,
-      "name" : "#Q2"
-    },
-    {
-      "id" : 32,
-      "name" : "#!Q2"
-    },
-    {
-      "id" : 33,
-      "name" : "#CLL"
-    },
-    {
-      "id" : 34,
-      "name" : "#CLLK"
-    },
-    {
-      "id" : 35,
-      "name" : "#CLK2"
     },
     {
       "id" : 36,
@@ -363,296 +509,7 @@
       "name" : "Q2"
     }
   ],
-  "schematic" : {
-    "size" : {
-      "height" : 50800,
-      "width" : 50800
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 25400,
-          "y" : 25400
-        },
-        "body" : {
-          "origin" : {
-            "x" : -7620,
-            "y" : -10160
-          },
-          "size" : {
-            "height" : 20320,
-            "width" : 15240
-          }
-        },
-        "component" : "CD4013",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -7620,
-                  "y" : -10160
-                },
-                "size" : {
-                  "height" : 20320,
-                  "width" : 15240
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -7620
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "Q1",
-            "netLabel" : "#1 Q1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -5080
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "\/Q1",
-            "netLabel" : "#2 !Q1",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : -2540
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "CLOCK1",
-            "netLabel" : "#3 CLK1",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "RESET1",
-            "netLabel" : "#4 RST1",
-            "number" : "4"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 2540
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "D1",
-            "netLabel" : "#5 D1",
-            "number" : "5"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 5080
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "SET1",
-            "netLabel" : "#6 SET1",
-            "number" : "6"
-          },
-          {
-            "at" : {
-              "x" : -10160,
-              "y" : 7620
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "VSS",
-            "netLabel" : "GND",
-            "number" : "7"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : 7620
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "SET2",
-            "netLabel" : "#7 SET2",
-            "number" : "8"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : 5080
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "D2",
-            "netLabel" : "#8 D2",
-            "number" : "9"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : 2540
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "RESET2",
-            "netLabel" : "#9 RST2",
-            "number" : "10"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "CLOCK2",
-            "netLabel" : "#10 CLK2",
-            "number" : "11"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -2540
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "\/Q2",
-            "netLabel" : "#11 !Q2",
-            "number" : "12"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -5080
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "Q2",
-            "netLabel" : "#12 Q2",
-            "number" : "13"
-          },
-          {
-            "at" : {
-              "x" : 10160,
-              "y" : -7620
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "VDD",
-            "netLabel" : "VCC",
-            "number" : "14"
-          }
-        ],
-        "reference" : "U1",
-        "rotation" : 0,
-        "value" : "CD4013"
-      },
-      {
-        "at" : {
-          "x" : 43180,
-          "y" : 17780
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C1",
-        "rotation" : 0,
-        "value" : "2u2"
-      }
-    ],
-    "wires" : [
-      {
-        "end" : {
-          "x" : 35560,
-          "y" : 17780
-        },
-        "start" : {
-          "x" : 40640,
-          "y" : 17780
-        }
-      }
-    ]
-  }
+  "parameters" : [
+
+  ]
 }

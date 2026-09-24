@@ -11,8 +11,131 @@
         "inBOM" : true,
         "reference" : "U1",
         "rotation" : 0,
-        "value" : "ADG419",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 12700,
+            "y" : 12700
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -6350
+            },
+            "size" : {
+              "height" : 12700,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -6350
+                  },
+                  "size" : {
+                    "height" : 12700,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -3810
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "D",
+              "netLabel" : "#1 D",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "S1",
+              "netLabel" : "#2 S1",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "GND",
+              "netLabel" : "GND",
+              "number" : "3"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 3810
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "VDD",
+              "netLabel" : "VCC",
+              "number" : "4"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : 3810
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "VL",
+              "netLabel" : "VCC",
+              "number" : "5"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : 1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "IN",
+              "netLabel" : "#3 IN",
+              "number" : "6"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "VSS",
+              "netLabel" : "VEE",
+              "number" : "7"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -3810
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "S2",
+              "netLabel" : "#4 S2",
+              "number" : "8"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "ADG419"
       },
       {
         "at" : {
@@ -71,8 +194,83 @@
         ],
         "reference" : "C1",
         "rotation" : 2,
-        "value" : "",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 12700,
+            "y" : 2540
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "netLabel" : "VCC",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : ""
       },
       {
         "at" : {
@@ -131,8 +329,83 @@
         ],
         "reference" : "C2",
         "rotation" : 0,
-        "value" : "",
-        "valueParameter" : false
+        "symbol" : {
+          "at" : {
+            "x" : 12700,
+            "y" : 24130
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "netLabel" : "VEE",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : ""
       }
     ],
     "holes" : [
@@ -140,9 +413,14 @@
     ],
     "rules" : {
       "clearance" : 300,
+      "minTraceLength" : 100,
       "traceWidth" : 400,
       "viaDrill" : 500,
       "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 25400,
+      "width" : 25400
     },
     "size" : {
       "height" : 25400,
@@ -303,6 +581,9 @@
         },
         "net" : 1
       }
+    ],
+    "wires" : [
+
     ]
   },
   "modules" : [
@@ -338,301 +619,7 @@
       "name" : "IN"
     }
   ],
-  "schematic" : {
-    "size" : {
-      "height" : 25400,
-      "width" : 25400
-    },
-    "symbols" : [
-      {
-        "at" : {
-          "x" : 12700,
-          "y" : 12700
-        },
-        "body" : {
-          "origin" : {
-            "x" : -6350,
-            "y" : -6350
-          },
-          "size" : {
-            "height" : 12700,
-            "width" : 12700
-          }
-        },
-        "component" : "ADG419",
-        "glyph" : [
-          {
-            "rect" : {
-              "_0" : {
-                "origin" : {
-                  "x" : -6350,
-                  "y" : -6350
-                },
-                "size" : {
-                  "height" : 12700,
-                  "width" : 12700
-                }
-              }
-            }
-          }
-        ],
-        "kind" : "ic",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -3810
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "D",
-            "netLabel" : "#1 D",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : -1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "S1",
-            "netLabel" : "#2 S1",
-            "number" : "2"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 1270
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "GND",
-            "netLabel" : "GND",
-            "number" : "3"
-          },
-          {
-            "at" : {
-              "x" : -8890,
-              "y" : 3810
-            },
-            "direction" : 2,
-            "length" : 2540,
-            "name" : "VDD",
-            "netLabel" : "VCC",
-            "number" : "4"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : 3810
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "VL",
-            "netLabel" : "VCC",
-            "number" : "5"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : 1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "IN",
-            "netLabel" : "#3 IN",
-            "number" : "6"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -1270
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "VSS",
-            "netLabel" : "VEE",
-            "number" : "7"
-          },
-          {
-            "at" : {
-              "x" : 8890,
-              "y" : -3810
-            },
-            "direction" : 0,
-            "length" : 2540,
-            "name" : "S2",
-            "netLabel" : "#4 S2",
-            "number" : "8"
-          }
-        ],
-        "reference" : "U1",
-        "rotation" : 0,
-        "value" : "ADG419"
-      },
-      {
-        "at" : {
-          "x" : 12700,
-          "y" : 2540
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "netLabel" : "VCC",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C1",
-        "rotation" : 0,
-        "value" : ""
-      },
-      {
-        "at" : {
-          "x" : 12700,
-          "y" : 24130
-        },
-        "body" : {
-          "origin" : {
-            "x" : -635,
-            "y" : -1270
-          },
-          "size" : {
-            "height" : 2540,
-            "width" : 1270
-          }
-        },
-        "glyph" : [
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : -635,
-                  "y" : -1270
-                },
-                {
-                  "x" : -635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          },
-          {
-            "path" : {
-              "_0" : [
-                {
-                  "x" : 635,
-                  "y" : -1270
-                },
-                {
-                  "x" : 635,
-                  "y" : 1270
-                }
-              ],
-              "closed" : false,
-              "filled" : false
-            }
-          }
-        ],
-        "kind" : "capacitor",
-        "mirrored" : false,
-        "pins" : [
-          {
-            "at" : {
-              "x" : -2540,
-              "y" : 0
-            },
-            "direction" : 2,
-            "length" : 1905,
-            "name" : "1",
-            "netLabel" : "VEE",
-            "number" : "1"
-          },
-          {
-            "at" : {
-              "x" : 2540,
-              "y" : 0
-            },
-            "direction" : 0,
-            "length" : 1905,
-            "name" : "2",
-            "netLabel" : "GND",
-            "number" : "2"
-          }
-        ],
-        "reference" : "C2",
-        "rotation" : 0,
-        "value" : ""
-      }
-    ],
-    "wires" : [
+  "parameters" : [
 
-    ]
-  }
+  ]
 }

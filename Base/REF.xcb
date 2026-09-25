@@ -196,7 +196,7 @@
           ],
           "rotation" : 0
         },
-        "value" : "33K"
+        "value" : "#RLIM"
       }
     ],
     "holes" : [
@@ -332,6 +332,9 @@
     }
   ],
   "parameters" : [
-
+    {
+      "defaultValue" : "22K",
+      "name" : "RLIM"
+    }
   ]
 }

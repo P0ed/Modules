@@ -1,0 +1,427 @@
+{
+  "board" : {
+    "footprints" : [
+      {
+        "at" : {
+          "x" : 88900,
+          "y" : 12700
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P1",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 127000,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#1 P11",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#2 P12",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#3 P13",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 63500,
+          "y" : 12700
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P2",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 91440,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#4 P21",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#5 P22",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#6 P23",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 38100,
+          "y" : 12700
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P3",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 60960,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#7 P31",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#8 P32",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#9 P33",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
+      },
+      {
+        "at" : {
+          "x" : 12700,
+          "y" : 12700
+        },
+        "component" : "Bourns 51",
+        "flipped" : true,
+        "inBOM" : true,
+        "reference" : "P4",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 25400,
+            "y" : 25400
+          },
+          "body" : {
+            "origin" : {
+              "x" : -6350,
+              "y" : -3810
+            },
+            "size" : {
+              "height" : 7620,
+              "width" : 12700
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -6350,
+                    "y" : -3810
+                  },
+                  "size" : {
+                    "height" : 7620,
+                    "width" : 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : -1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "CCW",
+              "netLabel" : "#10 P41",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : -8890,
+                "y" : 1270
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "WIPER",
+              "netLabel" : "#11 P42",
+              "number" : "2"
+            },
+            {
+              "at" : {
+                "x" : 8890,
+                "y" : -1270
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "CW",
+              "netLabel" : "#12 P43",
+              "number" : "3"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "Bourns 51"
+      }
+    ],
+    "holes" : [
+
+    ],
+    "rules" : {
+      "clearance" : 300,
+      "minTraceLength" : 100,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 50800,
+      "width" : 152400
+    },
+    "size" : {
+      "height" : 25400,
+      "width" : 101600
+    },
+    "solderMask" : false,
+    "stack" : 6,
+    "traces" : [
+
+    ],
+    "vias" : [
+
+    ],
+    "wires" : [
+
+    ]
+  },
+  "modules" : [
+
+  ],
+  "nets" : [
+    {
+      "id" : 0,
+      "name" : "GND"
+    },
+    {
+      "id" : 1,
+      "name" : "VCC"
+    },
+    {
+      "id" : 2,
+      "name" : "VEE"
+    },
+    {
+      "id" : 24,
+      "name" : "P11"
+    },
+    {
+      "id" : 25,
+      "name" : "P12"
+    },
+    {
+      "id" : 26,
+      "name" : "P13"
+    },
+    {
+      "id" : 27,
+      "name" : "P21"
+    },
+    {
+      "id" : 28,
+      "name" : "P22"
+    },
+    {
+      "id" : 29,
+      "name" : "P23"
+    },
+    {
+      "id" : 30,
+      "name" : "P31"
+    },
+    {
+      "id" : 31,
+      "name" : "P32"
+    },
+    {
+      "id" : 32,
+      "name" : "P33"
+    },
+    {
+      "id" : 33,
+      "name" : "P41"
+    },
+    {
+      "id" : 34,
+      "name" : "P42"
+    },
+    {
+      "id" : 35,
+      "name" : "P43"
+    }
+  ],
+  "parameters" : [
+
+  ]
+}

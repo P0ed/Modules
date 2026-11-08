@@ -2,6 +2,7 @@
 
 - Design using only 1206 passives and `Base` ICs
 - Do not rotate ICs, passives and included modules
+- Do not use via in pad
 - Move components away from banana footprints, as I might bolt them with nuts and will need the space for a wrench
 - Keep the summing nodes short, place the resistors near the Op-amp's `-` pin of `Base/MIX.xcb`
 - If space allows, keep distance between traces even though DRC might allow it

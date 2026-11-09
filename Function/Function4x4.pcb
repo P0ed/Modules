@@ -35,7 +35,7 @@
   },
   "modules" : [
     {
-      "filename" : "PWR4.xcb",
+      "filename" : "PWR4.pcb",
       "id" : "9606EEDB-10FD-4EF3-AB79-5829545A7274",
       "interface" : [
 
@@ -64,7 +64,7 @@
       }
     },
     {
-      "filename" : "PWR4.xcb",
+      "filename" : "PWR4.pcb",
       "id" : "D4192A98-8F7A-4719-BB05-4AF40B01541B",
       "interface" : [
 
@@ -93,7 +93,7 @@
       }
     },
     {
-      "filename" : "Function.xcb",
+      "filename" : "Function.pcb",
       "id" : "B4197AAC-3BDE-4262-98F2-2DDA4B482038",
       "interface" : [
 

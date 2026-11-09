@@ -186,7 +186,7 @@
   },
   "modules" : [
     {
-      "filename" : "OP.xcb",
+      "filename" : "OP.pcb",
       "id" : "E5EBE809-A760-4994-8404-4E79B3EEA335",
       "interface" : [
         {

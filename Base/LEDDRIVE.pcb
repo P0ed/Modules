@@ -398,7 +398,7 @@
   },
   "modules" : [
     {
-      "filename" : "OPSS.xcb",
+      "filename" : "OPSS.pcb",
       "id" : "94A7AD99-BE53-4061-860C-7B7DCACF706A",
       "interface" : [
         {

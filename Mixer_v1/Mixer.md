@@ -1,6 +1,6 @@
 # MIX4 mixer
 
-`Mixer.xcb` is a 101.6 × 152.4 mm board for `../5Y-Mission/Panels/MIX4.panel`. Coordinates below are millimetres, viewed from the rear/component side, with the origin at the board's upper-left corner. The panel is mirrored horizontally relative to this view. The board sits 3.175 mm inside either panel side and 12.7 mm below the panel top.
+`Mixer.pcb` is a 101.6 × 152.4 mm board for `../5Y-Mission/Panels/MIX4.panel`. Coordinates below are millimetres, viewed from the rear/component side, with the origin at the board's upper-left corner. The panel is mirrored horizontally relative to this view. The board sits 3.175 mm inside either panel side and 12.7 mm below the panel top.
 
 The six copper layers are SIG / GND / VCC / VEE / GND / SIG. Signal ICs and LED drivers are AD823A in SOIC-8. All fixed resistors and capacitors are 1206. Panel controls, LEDs, and connectors use their specified through-hole footprints. Imported Base modules remain dependencies; keep the `Base` directory with this design.
 

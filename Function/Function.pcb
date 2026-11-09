@@ -2030,7 +2030,7 @@
         "rotation" : 2,
         "symbol" : {
           "at" : {
-            "x" : 90170,
+            "x" : 93980,
             "y" : 24130
           },
           "body" : {
@@ -2146,7 +2146,7 @@
         "rotation" : 2,
         "symbol" : {
           "at" : {
-            "x" : 62230,
+            "x" : 58420,
             "y" : 24130
           },
           "body" : {
@@ -6833,7 +6833,7 @@
   },
   "modules" : [
     {
-      "filename" : "BUF.xcb",
+      "filename" : "BUF.pcb",
       "id" : "FA89A088-E893-4380-8D44-F513E4C72F1D",
       "interface" : [
         {
@@ -6882,7 +6882,7 @@
       }
     },
     {
-      "filename" : "BUF.xcb",
+      "filename" : "BUF.pcb",
       "id" : "4BBAD57D-89A2-4CF9-8E9C-4B9A4F54F9C0",
       "interface" : [
         {
@@ -6931,7 +6931,7 @@
       }
     },
     {
-      "filename" : "MIX.xcb",
+      "filename" : "MIX.pcb",
       "id" : "C0AC80E3-E960-4375-822E-E66764C6E7A7",
       "interface" : [
         {
@@ -6987,7 +6987,7 @@
       }
     },
     {
-      "filename" : "MIX.xcb",
+      "filename" : "MIX.pcb",
       "id" : "2A420C21-E32B-40E4-B01B-758860AA7AC6",
       "interface" : [
         {
@@ -7043,7 +7043,7 @@
       }
     },
     {
-      "filename" : "OPSS.xcb",
+      "filename" : "OPSS.pcb",
       "id" : "F6DDA399-7BE1-4A6D-9D4E-8F3A905F69CF",
       "interface" : [
         {
@@ -7100,11 +7100,11 @@
       }
     },
     {
-      "filename" : "OUT.xcb",
+      "filename" : "OUT.pcb",
       "id" : "F753C097-CE90-4CB7-A874-C28733C4E55B",
       "interface" : [
         {
-          "name" : "OUT1",
+          "name" : "JACK_OUT1",
           "number" : 1
         },
         {
@@ -7112,12 +7112,20 @@
           "number" : 2
         },
         {
-          "name" : "IN2",
+          "name" : "AMP_OUT1",
           "number" : 3
         },
         {
-          "name" : "OUT2",
+          "name" : "AMP_OUT2",
           "number" : 4
+        },
+        {
+          "name" : "IN2",
+          "number" : 5
+        },
+        {
+          "name" : "JACK_OUT2",
+          "number" : 6
         }
       ],
       "layerCount" : 6,
@@ -7128,7 +7136,7 @@
       "layoutRotation" : 0,
       "netLabels" : {
         "1" : "_ENDO",
-        "4" : "ENDO"
+        "6" : "ENDO"
       },
       "parameterValues" : {
 
@@ -7146,7 +7154,7 @@
       "reference" : "M7",
       "schematicAt" : {
         "x" : 177800,
-        "y" : 22860
+        "y" : 24130
       },
       "schematicRotation" : 0,
       "size" : {
@@ -7155,11 +7163,11 @@
       }
     },
     {
-      "filename" : "OUT.xcb",
+      "filename" : "OUT.pcb",
       "id" : "30ABBCF0-3DC3-459D-B93B-72557DB769CE",
       "interface" : [
         {
-          "name" : "OUT1",
+          "name" : "JACK_OUT1",
           "number" : 1
         },
         {
@@ -7167,12 +7175,20 @@
           "number" : 2
         },
         {
-          "name" : "IN2",
+          "name" : "AMP_OUT1",
           "number" : 3
         },
         {
-          "name" : "OUT2",
+          "name" : "AMP_OUT2",
           "number" : 4
+        },
+        {
+          "name" : "IN2",
+          "number" : 5
+        },
+        {
+          "name" : "JACK_OUT2",
+          "number" : 6
         }
       ],
       "layerCount" : 6,
@@ -7183,7 +7199,7 @@
       "layoutRotation" : 0,
       "netLabels" : {
         "1" : "LPO",
-        "4" : "_LPO"
+        "6" : "_LPO"
       },
       "parameterValues" : {
 
@@ -7201,7 +7217,7 @@
       "reference" : "M8",
       "schematicAt" : {
         "x" : 76200,
-        "y" : 22860
+        "y" : 24130
       },
       "schematicRotation" : 0,
       "size" : {
@@ -7210,7 +7226,7 @@
       }
     },
     {
-      "filename" : "FF.xcb",
+      "filename" : "FF.pcb",
       "id" : "34001675-8204-4FC2-B161-6A9B349E5F62",
       "interface" : [
         {
@@ -7298,7 +7314,7 @@
       }
     },
     {
-      "filename" : "IOControls.xcb",
+      "filename" : "IOControls.pcb",
       "id" : "C11B8F09-409E-4465-8F94-96C021A495F0",
       "interface" : [
         {
@@ -7450,7 +7466,7 @@
       }
     },
     {
-      "filename" : "IOJacks.xcb",
+      "filename" : "IOJacks.pcb",
       "id" : "84DB7E06-C88C-40AF-8183-94C930FBBEFF",
       "interface" : [
         {
@@ -7530,7 +7546,7 @@
       }
     },
     {
-      "filename" : "REF.xcb",
+      "filename" : "REF.pcb",
       "id" : "F4ACBBFF-221C-46EA-ACE8-DD8775573156",
       "interface" : [
         {
@@ -7568,7 +7584,7 @@
       }
     },
     {
-      "filename" : "LEDDRIVE.xcb",
+      "filename" : "LEDDRIVE.pcb",
       "id" : "6BD1B4AD-D60A-48FD-8C48-12E0AB87D2DC",
       "interface" : [
         {
@@ -7635,7 +7651,7 @@
       }
     },
     {
-      "filename" : "OPSS.xcb",
+      "filename" : "OPSS.pcb",
       "id" : "C876FF41-1789-4715-AC19-16D42D06EDC7",
       "interface" : [
         {
@@ -7753,7 +7769,7 @@
       }
     },
     {
-      "filename" : "BUF.xcb",
+      "filename" : "BUF.pcb",
       "id" : "65107040-8B84-4707-9562-D3F69FA64C44",
       "interface" : [
         {

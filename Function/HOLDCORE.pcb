@@ -1338,7 +1338,7 @@
   },
   "modules" : [
     {
-      "filename" : "OP.xcb",
+      "filename" : "OP.pcb",
       "id" : "03CFE082-CE82-49CD-887D-AAE15F26E61F",
       "interface" : [
         {
@@ -1396,7 +1396,7 @@
       }
     },
     {
-      "filename" : "DG.xcb",
+      "filename" : "DG.pcb",
       "id" : "F72B2410-226F-4BBD-BE5D-6ABC2CE7A083",
       "interface" : [
         {
@@ -1446,7 +1446,7 @@
       }
     },
     {
-      "filename" : "EXP.xcb",
+      "filename" : "EXP.pcb",
       "id" : "F5310803-137F-49B2-90D9-0EEA0061AD0E",
       "interface" : [
         {

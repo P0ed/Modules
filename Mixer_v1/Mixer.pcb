@@ -14779,7 +14779,7 @@
       "id" : "C9EF3849-84FE-412C-91E8-C94D74382D27",
       "interface" : [
         {
-          "name" : "OUT1",
+          "name" : "JACK_OUT1",
           "number" : 1
         },
         {
@@ -14787,12 +14787,20 @@
           "number" : 2
         },
         {
-          "name" : "IN2",
+          "name" : "AMP_OUT1",
           "number" : 3
         },
         {
-          "name" : "OUT2",
+          "name" : "AMP_OUT2",
           "number" : 4
+        },
+        {
+          "name" : "IN2",
+          "number" : 5
+        },
+        {
+          "name" : "JACK_OUT2",
+          "number" : 6
         }
       ],
       "layerCount" : 6,
@@ -14804,8 +14812,8 @@
       "netLabels" : {
         "1" : "SEND_BUS",
         "2" : "SEND_INV",
-        "3" : "MAIN_INV",
-        "4" : "MAIN_BUS"
+        "5" : "MAIN_INV",
+        "6" : "MAIN_BUS"
       },
       "parameterValues" : {
         "R1" : "20K",
@@ -14824,7 +14832,7 @@
       "reference" : "M_BUS",
       "schematicAt" : {
         "x" : 254000,
-        "y" : 149860
+        "y" : 151130
       },
       "schematicRotation" : 0,
       "size" : {
@@ -14837,7 +14845,7 @@
       "id" : "BFA6069A-56CE-418E-A3C6-D319EF86F01E",
       "interface" : [
         {
-          "name" : "OUT1",
+          "name" : "JACK_OUT1",
           "number" : 1
         },
         {
@@ -14845,12 +14853,20 @@
           "number" : 2
         },
         {
-          "name" : "IN2",
+          "name" : "AMP_OUT1",
           "number" : 3
         },
         {
-          "name" : "OUT2",
+          "name" : "AMP_OUT2",
           "number" : 4
+        },
+        {
+          "name" : "IN2",
+          "number" : 5
+        },
+        {
+          "name" : "JACK_OUT2",
+          "number" : 6
         }
       ],
       "layerCount" : 6,
@@ -14862,8 +14878,8 @@
       "netLabels" : {
         "1" : "SEND_N",
         "2" : "SEND_BAL_NEG_IN",
-        "3" : "SEND_BAL_POS_IN",
-        "4" : "SEND_P"
+        "5" : "SEND_BAL_POS_IN",
+        "6" : "SEND_P"
       },
       "parameterValues" : {
         "R1" : "3K3 0.1%",
@@ -14882,7 +14898,7 @@
       "reference" : "M_BAL_SEND",
       "schematicAt" : {
         "x" : 254000,
-        "y" : 22860
+        "y" : 24130
       },
       "schematicRotation" : 0,
       "size" : {
@@ -14895,7 +14911,7 @@
       "id" : "A9CAA48B-6073-474C-A607-0FFC79A2DE0D",
       "interface" : [
         {
-          "name" : "OUT1",
+          "name" : "JACK_OUT1",
           "number" : 1
         },
         {
@@ -14903,12 +14919,20 @@
           "number" : 2
         },
         {
-          "name" : "IN2",
+          "name" : "AMP_OUT1",
           "number" : 3
         },
         {
-          "name" : "OUT2",
+          "name" : "AMP_OUT2",
           "number" : 4
+        },
+        {
+          "name" : "IN2",
+          "number" : 5
+        },
+        {
+          "name" : "JACK_OUT2",
+          "number" : 6
         }
       ],
       "layerCount" : 6,
@@ -14920,8 +14944,8 @@
       "netLabels" : {
         "1" : "OUT_N",
         "2" : "OUT_BAL_NEG_IN",
-        "3" : "OUT_BAL_POS_IN",
-        "4" : "OUT_P"
+        "5" : "OUT_BAL_POS_IN",
+        "6" : "OUT_P"
       },
       "parameterValues" : {
         "R1" : "3K3 0.1%",
@@ -14940,7 +14964,7 @@
       "reference" : "M_BAL_OUT",
       "schematicAt" : {
         "x" : 254000,
-        "y" : 48260
+        "y" : 49530
       },
       "schematicRotation" : 0,
       "size" : {

@@ -4,7 +4,8 @@
 - Do not rotate ICs, passives and included modules
 - Do not use via in pad
 - Move components away from banana footprints, as I might bolt them with nuts and will need the space for a wrench
-- Keep the summing nodes short, place the resistors near the Op-amp's `-` pin of `Base/MIX.xcb`
+- Keep the summing nodes short, place the resistors near the Op-amp's `-` pin of `Base/MIX.pcb`
+- ICs must have 4K7 current limit resistors for input protection if voltage exceeds ±Vs or exposed to external connector. Outputs use 470R.
 - If space allows, keep distance between traces even though DRC might allow it
 - ~12mm to from the panel’s rear face to the PCB’s nearest surface to fit NKK switches (the tallest part) + 1.6mm PCB — the rest is used for components
 - Modules with LEMO connectors are standalone units (26mm deep) encosed with a case produced by `../Mill` tool

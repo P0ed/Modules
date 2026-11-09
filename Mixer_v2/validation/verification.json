@@ -1,0 +1,108 @@
+{
+  "analysis": {
+    "dcCases": 192,
+    "maxDCErrorVolts": 2.873157569904805e-05,
+    "returnCommonModeResidualVolts": [
+      2.7104996460767575e-16,
+      0.0,
+      2.7104996460767575e-16
+    ],
+    "balancedAC": [
+      {
+        "Hz": 1,
+        "differentialGain": 0.3299996155502913,
+        "legMismatch": 8.410790288182204e-17,
+        "phaseDeg": -5.58359907870531e-05
+      },
+      {
+        "Hz": 20,
+        "differentialGain": 0.32999961548776824,
+        "legMismatch": 8.410791292385598e-17,
+        "phaseDeg": -0.001116719815600011
+      },
+      {
+        "Hz": 100,
+        "differentialGain": 0.32999961398345645,
+        "legMismatch": 8.41079258403159e-17,
+        "phaseDeg": -0.005583599061031362
+      },
+      {
+        "Hz": 1000,
+        "differentialGain": 0.32999945885141446,
+        "legMismatch": 8.41083037711247e-17,
+        "phaseDeg": -0.055835973111399546
+      },
+      {
+        "Hz": 10000,
+        "differentialGain": 0.32998394675196346,
+        "legMismatch": 2.523365454905371e-16,
+        "phaseDeg": -0.5583422331965755
+      },
+      {
+        "Hz": 20000,
+        "differentialGain": 0.3299369537446579,
+        "legMismatch": 8.671290731775816e-17,
+        "phaseDeg": -1.1165784425126903
+      },
+      {
+        "Hz": 100000,
+        "differentialGain": 0.3284436977004711,
+        "legMismatch": 0.0,
+        "phaseDeg": -5.5660234380497045
+      }
+    ],
+    "balancedLoads": [
+      {
+        "ohms": 1000,
+        "differentialGain": 0.17010289461363295
+      },
+      {
+        "ohms": 10000,
+        "differentialGain": 0.3016449867919999
+      },
+      {
+        "ohms": 100000,
+        "differentialGain": 0.32692650639037835
+      }
+    ],
+    "model": "Finite DC gain 1e6; ideal output impedances; real passive RC networks. No op-amp bandwidth, clipping, noise, distortion, parasitics or LED nonlinearity."
+  },
+  "layout": {
+    "parts": 127,
+    "opAmps": 9,
+    "passives": 94,
+    "minimumBananaToolRadiusMm": 7.436588599620124,
+    "summingNodes": {
+      "SUM_SEND": {
+        "widthMm": 8.2,
+        "heightMm": 10.0,
+        "copperLengthMm": 17.966716446627537
+      },
+      "SUM_MAIN": {
+        "widthMm": 8.2,
+        "heightMm": 12.5,
+        "copperLengthMm": 19.528031021678295
+      }
+    },
+    "problems": [
+      [
+        "banana_tool_clearance",
+        "R_RET_P_GND",
+        "J_SEND_BAN",
+        8225.0
+      ],
+      [
+        "banana_tool_clearance",
+        "R_RET_FB",
+        "J_MAIN_BAN",
+        8225.0
+      ],
+      [
+        "banana_tool_clearance",
+        "M_AUX.C2",
+        "J_IN2",
+        7436.588599620124
+      ]
+    ]
+  }
+}

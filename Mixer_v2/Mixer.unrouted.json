@@ -1,0 +1,6087 @@
+{
+  "board": {
+    "footprints": [
+      {
+        "at": {
+          "x": 76200,
+          "y": 25400
+        },
+        "component": "MTA-156-3",
+        "flipped": false,
+        "inBOM": true,
+        "reference": "J_PWR",
+        "rotation": 1,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 360000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "VEE",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "GND",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "3",
+              "netLabel": "VCC",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "POWER: -12V / GND / +12V"
+      },
+      {
+        "at": {
+          "x": 25400,
+          "y": 25400
+        },
+        "component": "MTA-156-3",
+        "flipped": false,
+        "inBOM": true,
+        "reference": "J_RETURN",
+        "rotation": 1,
+        "symbol": {
+          "at": {
+            "x": 260000,
+            "y": 300000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "GND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "RET_P",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "3",
+              "netLabel": "RET_N",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "RETURN balanced: GND / + / -"
+      },
+      {
+        "at": {
+          "x": 25400,
+          "y": 50800
+        },
+        "component": "MTA-156-3",
+        "flipped": false,
+        "inBOM": true,
+        "reference": "J_OUT",
+        "rotation": 1,
+        "symbol": {
+          "at": {
+            "x": 610000,
+            "y": 105000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "GND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "OUT_P",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "3",
+              "netLabel": "OUT_N",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "OUT balanced 3.3Vpp differential"
+      },
+      {
+        "at": {
+          "x": 76200,
+          "y": 50800
+        },
+        "component": "MTA-156-3",
+        "flipped": false,
+        "inBOM": true,
+        "reference": "J_SEND",
+        "rotation": 1,
+        "symbol": {
+          "at": {
+            "x": 610000,
+            "y": 85000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "GND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "SEND_P",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "3",
+              "netLabel": "SEND_N",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "SEND balanced 3.3Vpp differential"
+      },
+      {
+        "at": {
+          "x": 88900,
+          "y": 38100
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_AUX_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 220000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "AUX_SEND",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "J AUX SEND"
+      },
+      {
+        "at": {
+          "x": 63500,
+          "y": 38100
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_SEND_BAN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 420000,
+            "y": 60000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "SEND_BUS",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "J SEND BAN"
+      },
+      {
+        "at": {
+          "x": 38100,
+          "y": 38100
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_MAIN_BAN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 455000,
+            "y": 60000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "MAIN_BUS",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "J MAIN BAN"
+      },
+      {
+        "at": {
+          "x": 12700,
+          "y": 38100
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_AUX_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 220000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "AUX_MAIN",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "J AUX MAIN"
+      },
+      {
+        "at": {
+          "x": 88900,
+          "y": 63500
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_IN1",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 30000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "CH1_IN",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "CHANNEL 1 INPUT"
+      },
+      {
+        "at": {
+          "x": 88900,
+          "y": 139700
+        },
+        "component": "Bourns 51",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "P1",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 30000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "CCW",
+              "netLabel": "GND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "WIPER",
+              "netLabel": "CH1_LEVEL",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "CW",
+              "netLabel": "CH1_IN",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K linear"
+      },
+      {
+        "at": {
+          "x": 63500,
+          "y": 63500
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_IN2",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 50000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "CH2_IN",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "CHANNEL 2 INPUT"
+      },
+      {
+        "at": {
+          "x": 63500,
+          "y": 139700
+        },
+        "component": "Bourns 51",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "P2",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 50000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "CCW",
+              "netLabel": "GND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "WIPER",
+              "netLabel": "CH2_LEVEL",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "CW",
+              "netLabel": "CH2_IN",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K linear"
+      },
+      {
+        "at": {
+          "x": 38100,
+          "y": 63500
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_IN3",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 70000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "CH3_IN",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "CHANNEL 3 INPUT"
+      },
+      {
+        "at": {
+          "x": 38100,
+          "y": 139700
+        },
+        "component": "Bourns 51",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "P3",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 70000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "CCW",
+              "netLabel": "GND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "WIPER",
+              "netLabel": "CH3_LEVEL",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "CW",
+              "netLabel": "CH3_IN",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K linear"
+      },
+      {
+        "at": {
+          "x": 12700,
+          "y": 63500
+        },
+        "component": "Pomona 1581",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "J_IN4",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 90000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -2540
+            },
+            "size": {
+              "height": 5080,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -2540
+                  },
+                  "size": {
+                    "height": 5080,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "JACK",
+              "netLabel": "CH4_IN",
+              "number": "1"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "CHANNEL 4 INPUT"
+      },
+      {
+        "at": {
+          "x": 12700,
+          "y": 139700
+        },
+        "component": "Bourns 51",
+        "flipped": true,
+        "inBOM": true,
+        "reference": "P4",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 90000
+          },
+          "body": {
+            "origin": {
+              "x": -6350,
+              "y": -3810
+            },
+            "size": {
+              "height": 7620,
+              "width": 12700
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -6350,
+                    "y": -3810
+                  },
+                  "size": {
+                    "height": 7620,
+                    "width": 12700
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -8890,
+                "y": -1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "CCW",
+              "netLabel": "GND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": -8890,
+                "y": 1270
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "WIPER",
+              "netLabel": "CH4_LEVEL",
+              "number": "2"
+            },
+            {
+              "at": {
+                "x": 8890,
+                "y": -1270
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "CW",
+              "netLabel": "CH4_IN",
+              "number": "3"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K linear"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 92500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH1_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 335000,
+            "y": 30000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH1_MAIN",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 92500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH1_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 300000,
+            "y": 30000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH1_SEND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "SUM_SEND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 95000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH2_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 335000,
+            "y": 50000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH2_MAIN",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 95000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH2_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 300000,
+            "y": 50000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH2_SEND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "SUM_SEND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 97500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH3_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 335000,
+            "y": 70000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH3_MAIN",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 97500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH3_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 300000,
+            "y": 70000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH3_SEND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "SUM_SEND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 100000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH4_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 335000,
+            "y": 90000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH4_MAIN",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 100000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_CH4_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 300000,
+            "y": 90000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH4_SEND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "SUM_SEND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 75500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_SEND_IN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 100000,
+            "y": 220000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_SEND_SAFE",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_SEND_MINUS",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "15K3"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 78000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_SEND_FB",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 135000,
+            "y": 220000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_SEND_MINUS",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_SEND_PHASE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 88900,
+          "y": 50800
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_SEND_PULL",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 240000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_SEND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "GND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 102500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_SEND_SUM",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 300000,
+            "y": 110000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_SEND_PHASE",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "SUM_SEND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 75500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_MAIN_IN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 240000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_MAIN_SAFE",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_MAIN_MINUS",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "15K3"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 78000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_MAIN_FB",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 100000,
+            "y": 240000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_MAIN_MINUS",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_MAIN_PHASE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 12700,
+          "y": 50800
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_MAIN_PULL",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 135000,
+            "y": 240000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "GND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 102500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_AUX_MAIN_SUM",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 335000,
+            "y": 110000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_MAIN_PHASE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 105000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_RETURN_SUM",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 300000,
+            "y": 130000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "RETURN_SERGE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 52000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_BUS_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 420000,
+            "y": 40000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_SEND_NEG",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "SEND_INV",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 52000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_BUS_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 455000,
+            "y": 40000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SUM_MAIN_NEG",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "MAIN_INV",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "20K"
+      },
+      {
+        "at": {
+          "x": 63500,
+          "y": 26000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_RET_P_IN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 295000,
+            "y": 300000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "RET_P_SAFE",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "RET_PLUS",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "28K3 0.1%"
+      },
+      {
+        "at": {
+          "x": 63500,
+          "y": 28500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_RET_P_GND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 330000,
+            "y": 300000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "RET_PLUS",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "GND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K 0.1%"
+      },
+      {
+        "at": {
+          "x": 38100,
+          "y": 26000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_RET_N_IN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 260000,
+            "y": 320000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "RET_N_SAFE",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "RET_MINUS",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "28K3 0.1%"
+      },
+      {
+        "at": {
+          "x": 38100,
+          "y": 28500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_RET_FB",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 295000,
+            "y": 320000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "RET_MINUS",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "RETURN_SERGE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "100K 0.1%"
+      },
+      {
+        "at": {
+          "x": 88900,
+          "y": 24000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "capacitor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "C_PWR_POS",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 360000
+          },
+          "body": {
+            "origin": {
+              "x": -635,
+              "y": -1270
+            },
+            "size": {
+              "height": 2540,
+              "width": 1270
+            }
+          },
+          "glyph": [
+            {
+              "path": {
+                "_0": [
+                  {
+                    "x": -635,
+                    "y": -1270
+                  },
+                  {
+                    "x": -635,
+                    "y": 1270
+                  }
+                ],
+                "closed": false,
+                "filled": false
+              }
+            },
+            {
+              "path": {
+                "_0": [
+                  {
+                    "x": 635,
+                    "y": -1270
+                  },
+                  {
+                    "x": 635,
+                    "y": 1270
+                  }
+                ],
+                "closed": false,
+                "filled": false
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -2540,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 1905,
+              "name": "1",
+              "netLabel": "VCC",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 2540,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 1905,
+              "name": "2",
+              "netLabel": "GND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "2u2 50V X7R"
+      },
+      {
+        "at": {
+          "x": 88900,
+          "y": 28000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "capacitor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "C_PWR_NEG",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 100000,
+            "y": 360000
+          },
+          "body": {
+            "origin": {
+              "x": -635,
+              "y": -1270
+            },
+            "size": {
+              "height": 2540,
+              "width": 1270
+            }
+          },
+          "glyph": [
+            {
+              "path": {
+                "_0": [
+                  {
+                    "x": -635,
+                    "y": -1270
+                  },
+                  {
+                    "x": -635,
+                    "y": 1270
+                  }
+                ],
+                "closed": false,
+                "filled": false
+              }
+            },
+            {
+              "path": {
+                "_0": [
+                  {
+                    "x": 635,
+                    "y": -1270
+                  },
+                  {
+                    "x": 635,
+                    "y": 1270
+                  }
+                ],
+                "closed": false,
+                "filled": false
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -2540,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 1905,
+              "name": "1",
+              "netLabel": "VEE",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 2540,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 1905,
+              "name": "2",
+              "netLabel": "GND",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "2u2 50V X7R"
+      },
+      {
+        "at": {
+          "x": 70000,
+          "y": 120500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_CH1",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 100000,
+            "y": 30000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH1_LEVEL",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH1_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 82400,
+          "y": 120500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_CH2",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 100000,
+            "y": 50000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH2_LEVEL",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH2_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 19200,
+          "y": 120500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_CH3",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 100000,
+            "y": 70000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH3_LEVEL",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH3_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 31600,
+          "y": 120500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_CH4",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 100000,
+            "y": 90000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "CH4_LEVEL",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "CH4_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 73000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_AUX_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 30000,
+            "y": 260000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_SEND",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_SEND_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 38500,
+          "y": 80500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_PHASE_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 160000,
+            "y": 280000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_SEND_SW",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_SEND_PLUS",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 44450,
+          "y": 81000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_LED_SEND",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 420000,
+            "y": 200000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "SEND_AMP",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "LED_SEND_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 73000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_AUX_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 65000,
+            "y": 260000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_MAIN",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_MAIN_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 63100,
+          "y": 80500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_PHASE_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 195000,
+            "y": 280000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "AUX_MAIN_SW",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "AUX_MAIN_PLUS",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 57150,
+          "y": 81000
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_LED_MAIN",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 455000,
+            "y": 200000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "MAIN_AMP",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "LED_MAIN_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7"
+      },
+      {
+        "at": {
+          "x": 38100,
+          "y": 22500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_RET_N",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 330000,
+            "y": 320000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "RET_N",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "RET_N_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7 0.1%"
+      },
+      {
+        "at": {
+          "x": 63500,
+          "y": 22500
+        },
+        "body": {
+          "origin": {
+            "x": -1600,
+            "y": -800
+          },
+          "size": {
+            "height": 1600,
+            "width": 3200
+          }
+        },
+        "device": "resistor",
+        "flipped": false,
+        "inBOM": true,
+        "package": {
+          "chip": {
+            "_0": "c1206"
+          }
+        },
+        "pads": [
+          {
+            "at": {
+              "x": -1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "1",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          },
+          {
+            "at": {
+              "x": 1500,
+              "y": 0
+            },
+            "drill": 0,
+            "layer": 0,
+            "name": "2",
+            "shape": 0,
+            "size": {
+              "height": 1750,
+              "width": 1150
+            }
+          }
+        ],
+        "reference": "R_PROT_RET_P",
+        "rotation": 0,
+        "symbol": {
+          "at": {
+            "x": 260000,
+            "y": 340000
+          },
+          "body": {
+            "origin": {
+              "x": -2540,
+              "y": -889
+            },
+            "size": {
+              "height": 1778,
+              "width": 5080
+            }
+          },
+          "glyph": [
+            {
+              "rect": {
+                "_0": {
+                  "origin": {
+                    "x": -2540,
+                    "y": -889
+                  },
+                  "size": {
+                    "height": 1778,
+                    "width": 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored": false,
+          "pins": [
+            {
+              "at": {
+                "x": -5080,
+                "y": 0
+              },
+              "direction": 2,
+              "length": 2540,
+              "name": "1",
+              "netLabel": "RET_P",
+              "number": "1"
+            },
+            {
+              "at": {
+                "x": 5080,
+                "y": 0
+              },
+              "direction": 0,
+              "length": 2540,
+              "name": "2",
+              "netLabel": "RET_P_SAFE",
+              "number": "2"
+            }
+          ],
+          "rotation": 0
+        },
+        "value": "4K7 0.1%"
+      }
+    ],
+    "holes": [
+      {
+        "at": {
+          "x": 12700,
+          "y": 12700
+        },
+        "diameter": 12500
+      },
+      {
+        "at": {
+          "x": 38100,
+          "y": 12700
+        },
+        "diameter": 12500
+      },
+      {
+        "at": {
+          "x": 63500,
+          "y": 12700
+        },
+        "diameter": 12500
+      },
+      {
+        "at": {
+          "x": 88900,
+          "y": 12700
+        },
+        "diameter": 12500
+      }
+    ],
+    "rules": {
+      "clearance": 300,
+      "minTraceLength": 100,
+      "traceWidth": 400,
+      "viaDrill": 500,
+      "viaPad": 900
+    },
+    "sheetSize": {
+      "width": 650000,
+      "height": 420000
+    },
+    "size": {
+      "height": 152400,
+      "width": 101600
+    },
+    "solderMask": true,
+    "stack": 6,
+    "traces": [],
+    "vias": [],
+    "wires": []
+  },
+  "modules": [
+    {
+      "filename": "BUF.pcb",
+      "id": "84E82C1F-3906-5553-ACAC-A96094F5C362",
+      "interface": [
+        {
+          "name": "OUT1",
+          "number": 1
+        },
+        {
+          "name": "IN1",
+          "number": 2
+        },
+        {
+          "name": "IN2",
+          "number": 3
+        },
+        {
+          "name": "OUT2",
+          "number": 4
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 76200,
+        "y": 126000
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "CH1_BUF",
+        "2": "CH1_SAFE",
+        "3": "CH2_SAFE",
+        "4": "CH2_BUF"
+      },
+      "parameterValues": {},
+      "parameters": [],
+      "reference": "M_BUF12",
+      "schematicAt": {
+        "x": 150000,
+        "y": 70000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 12700,
+        "width": 25400
+      }
+    },
+    {
+      "filename": "BUF.pcb",
+      "id": "539F1ADB-DD13-59F2-8D50-626DB38A8F66",
+      "interface": [
+        {
+          "name": "OUT1",
+          "number": 1
+        },
+        {
+          "name": "IN1",
+          "number": 2
+        },
+        {
+          "name": "IN2",
+          "number": 3
+        },
+        {
+          "name": "OUT2",
+          "number": 4
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 25400,
+        "y": 126000
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "CH3_BUF",
+        "2": "CH3_SAFE",
+        "3": "CH4_SAFE",
+        "4": "CH4_BUF"
+      },
+      "parameterValues": {},
+      "parameters": [],
+      "reference": "M_BUF34",
+      "schematicAt": {
+        "x": 150000,
+        "y": 145000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 12700,
+        "width": 25400
+      }
+    },
+    {
+      "filename": "IOControls.pcb",
+      "id": "008AB23A-7FCD-5931-B1C6-840CD5CC7D04",
+      "interface": [
+        {
+          "name": "S11",
+          "number": 1
+        },
+        {
+          "name": "S12",
+          "number": 2
+        },
+        {
+          "name": "S13",
+          "number": 3
+        },
+        {
+          "name": "S21",
+          "number": 4
+        },
+        {
+          "name": "S22",
+          "number": 5
+        },
+        {
+          "name": "S23",
+          "number": 6
+        },
+        {
+          "name": "S31",
+          "number": 7
+        },
+        {
+          "name": "S32",
+          "number": 8
+        },
+        {
+          "name": "S33",
+          "number": 9
+        },
+        {
+          "name": "S41",
+          "number": 10
+        },
+        {
+          "name": "S42",
+          "number": 11
+        },
+        {
+          "name": "S43",
+          "number": 12
+        },
+        {
+          "name": "S51",
+          "number": 13
+        },
+        {
+          "name": "S52",
+          "number": 14
+        },
+        {
+          "name": "S53",
+          "number": 15
+        },
+        {
+          "name": "D12",
+          "number": 16
+        },
+        {
+          "name": "D11",
+          "number": 17
+        },
+        {
+          "name": "D22",
+          "number": 19
+        },
+        {
+          "name": "D21",
+          "number": 20
+        },
+        {
+          "name": "S61",
+          "number": 22
+        },
+        {
+          "name": "S62",
+          "number": 23
+        },
+        {
+          "name": "S63",
+          "number": 24
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 50800,
+        "y": 101600
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "CH1_MAIN",
+        "10": "CH4_MAIN",
+        "11": "CH4_BUF",
+        "12": "CH4_SEND",
+        "13": "GND",
+        "14": "AUX_SEND_SW",
+        "15": "AUX_SEND",
+        "16": "LED_SEND_A",
+        "17": "LED_SEND_K",
+        "19": "LED_MAIN_A",
+        "2": "CH1_BUF",
+        "20": "LED_MAIN_K",
+        "22": "GND",
+        "23": "AUX_MAIN_SW",
+        "24": "AUX_MAIN",
+        "3": "CH1_SEND",
+        "4": "CH2_MAIN",
+        "5": "CH2_BUF",
+        "6": "CH2_SEND",
+        "7": "CH3_MAIN",
+        "8": "CH3_BUF",
+        "9": "CH3_SEND"
+      },
+      "parameterValues": {},
+      "parameters": [],
+      "reference": "M_CONTROLS",
+      "schematicAt": {
+        "x": 240000,
+        "y": 110000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 50800,
+        "width": 101600
+      }
+    },
+    {
+      "filename": "OP.pcb",
+      "id": "D73F7601-4783-5D5B-9F74-86BA2A685048",
+      "interface": [
+        {
+          "name": "OUT1",
+          "number": 1
+        },
+        {
+          "name": "-IN1",
+          "number": 2
+        },
+        {
+          "name": "+IN1",
+          "number": 3
+        },
+        {
+          "name": "+IN2",
+          "number": 4
+        },
+        {
+          "name": "-IN2",
+          "number": 5
+        },
+        {
+          "name": "OUT2",
+          "number": 6
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 50800,
+        "y": 74500
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "AUX_SEND_PHASE",
+        "2": "AUX_SEND_MINUS",
+        "3": "AUX_SEND_PLUS",
+        "4": "AUX_MAIN_PLUS",
+        "5": "AUX_MAIN_MINUS",
+        "6": "AUX_MAIN_PHASE"
+      },
+      "parameterValues": {},
+      "parameters": [],
+      "reference": "M_AUX",
+      "schematicAt": {
+        "x": 240000,
+        "y": 240000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 12700,
+        "width": 25400
+      }
+    },
+    {
+      "filename": "MIX.pcb",
+      "id": "1D11BE88-1894-5CD3-945A-09BD62F2BC9A",
+      "interface": [
+        {
+          "name": "OUT1",
+          "number": 1
+        },
+        {
+          "name": "IN1",
+          "number": 2
+        },
+        {
+          "name": "IN2",
+          "number": 3
+        },
+        {
+          "name": "OUT2",
+          "number": 4
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 50800,
+        "y": 101000
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "SUM_SEND_NEG",
+        "2": "SUM_SEND",
+        "3": "SUM_MAIN",
+        "4": "SUM_MAIN_NEG"
+      },
+      "parameterValues": {
+        "R1": "20K",
+        "R2": "20K"
+      },
+      "parameters": [
+        {
+          "defaultValue": "100K",
+          "name": "R1"
+        },
+        {
+          "defaultValue": "100K",
+          "name": "R2"
+        }
+      ],
+      "reference": "M_SUM",
+      "schematicAt": {
+        "x": 370000,
+        "y": 110000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 12700,
+        "width": 25400
+      }
+    },
+    {
+      "filename": "OUT.pcb",
+      "id": "E29B8B43-F529-5029-B766-589B67D6AE65",
+      "interface": [
+        {
+          "name": "JACK_OUT1",
+          "number": 1
+        },
+        {
+          "name": "IN1",
+          "number": 2
+        },
+        {
+          "name": "AMP_OUT1",
+          "number": 3
+        },
+        {
+          "name": "AMP_OUT2",
+          "number": 4
+        },
+        {
+          "name": "IN2",
+          "number": 5
+        },
+        {
+          "name": "JACK_OUT2",
+          "number": 6
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 50800,
+        "y": 52000
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "SEND_BUS",
+        "2": "SEND_INV",
+        "3": "SEND_AMP",
+        "4": "MAIN_AMP",
+        "5": "MAIN_INV",
+        "6": "MAIN_BUS"
+      },
+      "parameterValues": {
+        "R1": "20K",
+        "R2": "20K"
+      },
+      "parameters": [
+        {
+          "defaultValue": "100K",
+          "name": "R1"
+        },
+        {
+          "defaultValue": "100K",
+          "name": "R2"
+        }
+      ],
+      "reference": "M_BUS",
+      "schematicAt": {
+        "x": 460000,
+        "y": 110000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 12700,
+        "width": 25400
+      }
+    },
+    {
+      "filename": "OP.pcb",
+      "id": "0609DF27-5685-5804-AE3E-3A7A84A45262",
+      "interface": [
+        {
+          "name": "OUT1",
+          "number": 1
+        },
+        {
+          "name": "-IN1",
+          "number": 2
+        },
+        {
+          "name": "+IN1",
+          "number": 3
+        },
+        {
+          "name": "+IN2",
+          "number": 4
+        },
+        {
+          "name": "-IN2",
+          "number": 5
+        },
+        {
+          "name": "OUT2",
+          "number": 6
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 50800,
+        "y": 25400
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "RETURN_SERGE",
+        "2": "RET_MINUS",
+        "3": "RET_PLUS",
+        "4": "GND",
+        "5": "UNUSED_RETURN",
+        "6": "UNUSED_RETURN"
+      },
+      "parameterValues": {},
+      "parameters": [],
+      "reference": "M_RETURN",
+      "schematicAt": {
+        "x": 370000,
+        "y": 330000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 12700,
+        "width": 25400
+      }
+    },
+    {
+      "filename": "LEDDRIVE.pcb",
+      "id": "CA9E8DDD-9511-573D-9F46-811582FAA7DD",
+      "interface": [
+        {
+          "name": "A1",
+          "number": 1
+        },
+        {
+          "name": "K1",
+          "number": 2
+        },
+        {
+          "name": "V1",
+          "number": 3
+        },
+        {
+          "name": "V2",
+          "number": 4
+        },
+        {
+          "name": "K2",
+          "number": 5
+        },
+        {
+          "name": "A2",
+          "number": 6
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 50800,
+        "y": 86000
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "LED_SEND_A",
+        "2": "LED_SEND_K",
+        "3": "LED_SEND_SAFE",
+        "4": "LED_MAIN_SAFE",
+        "5": "LED_MAIN_K",
+        "6": "LED_MAIN_A"
+      },
+      "parameterValues": {
+        "R1": "4K7",
+        "R2": "4K7"
+      },
+      "parameters": [
+        {
+          "defaultValue": "4K7",
+          "name": "R1"
+        },
+        {
+          "defaultValue": "4K7",
+          "name": "R2"
+        }
+      ],
+      "reference": "M_LED_DRIVE",
+      "schematicAt": {
+        "x": 460000,
+        "y": 240000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "height": 25400,
+        "width": 25400
+      }
+    },
+    {
+      "filename": "Balanced.pcb",
+      "id": "981BCA18-A67E-5B4E-9BE3-5E8202F508C5",
+      "interface": [
+        {
+          "name": "IN",
+          "number": 1
+        },
+        {
+          "name": "P",
+          "number": 2
+        },
+        {
+          "name": "N",
+          "number": 3
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 76200,
+        "y": 98000
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "SEND_BUS",
+        "2": "SEND_P",
+        "3": "SEND_N"
+      },
+      "parameterValues": {},
+      "parameters": [],
+      "reference": "M_BAL_SEND",
+      "schematicAt": {
+        "x": 560000,
+        "y": 85000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "width": 25400,
+        "height": 28000
+      }
+    },
+    {
+      "filename": "Balanced.pcb",
+      "id": "6194078B-6F7C-56EF-B773-1D9E4E9FCE3C",
+      "interface": [
+        {
+          "name": "IN",
+          "number": 1
+        },
+        {
+          "name": "P",
+          "number": 2
+        },
+        {
+          "name": "N",
+          "number": 3
+        }
+      ],
+      "layerCount": 6,
+      "layoutAt": {
+        "x": 25400,
+        "y": 98000
+      },
+      "layoutRotation": 0,
+      "netLabels": {
+        "1": "MAIN_BUS",
+        "2": "OUT_P",
+        "3": "OUT_N"
+      },
+      "parameterValues": {},
+      "parameters": [],
+      "reference": "M_BAL_OUT",
+      "schematicAt": {
+        "x": 560000,
+        "y": 155000
+      },
+      "schematicRotation": 0,
+      "size": {
+        "width": 25400,
+        "height": 28000
+      }
+    }
+  ],
+  "nets": [],
+  "parameters": []
+}

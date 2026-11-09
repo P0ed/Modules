@@ -1,0 +1,2687 @@
+{
+  "board" : {
+    "footprints" : [
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 3000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -3771730804065817177,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2973466027594422975,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_P_IN",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 35000,
+            "y" : 25000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "#1 IN",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "P_PLUS",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "20K 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 5500
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2973466027594422975,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -4167931178676924015,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_P_GND",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 35000,
+            "y" : 45000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "P_PLUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "3K3 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 8000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "capacitor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2973466027594422975,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -4167931178676924015,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "C_P_DIV",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 35000,
+            "y" : 65000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "netLabel" : "P_PLUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "47p C0G"
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 14000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -4167931178676924015,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -279919076917640951,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_P_GAIN",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 35000,
+            "y" : 85000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "GND",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "P_MINUS",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "20K 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 21000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -279919076917640951,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1192148787355638565,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_P_FB",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 35000,
+            "y" : 105000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "P_MINUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "P_RAW",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "3K3 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 23500
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "capacitor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -279919076917640951,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1192148787355638565,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "C_P_FB",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 35000,
+            "y" : 125000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "netLabel" : "P_MINUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "netLabel" : "P_RAW",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "47p C0G"
+      },
+      {
+        "at" : {
+          "x" : 6350,
+          "y" : 26000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -1192148787355638565,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2523709868753384066,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_P_OUT",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 35000,
+            "y" : 145000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "P_RAW",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "#2 P",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "470 0.5W"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 3000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -4167931178676924015,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -1076226322593415297,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_N_BIAS",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 205000,
+            "y" : 25000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "GND",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "N_PLUS",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "20K 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 5500
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -1076226322593415297,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -4167931178676924015,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_N_GND",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 205000,
+            "y" : 45000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "N_PLUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "3K3 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 8000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "capacitor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -1076226322593415297,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -4167931178676924015,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "C_N_DIV",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 205000,
+            "y" : 65000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "netLabel" : "N_PLUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "netLabel" : "GND",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "47p C0G"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 15500
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2908749769241325961,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -3771730804065817177,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_N_IN",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 205000,
+            "y" : 85000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "N_MINUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "#1 IN",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "20K 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 21000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2908749769241325961,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2151257604640415463,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_N_FB",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 205000,
+            "y" : 105000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "N_MINUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "N_RAW",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "3K3 0.1%"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 23500
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "capacitor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2908749769241325961,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2151257604640415463,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "C_N_FB",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 205000,
+            "y" : 125000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -635,
+              "y" : -1270
+            },
+            "size" : {
+              "height" : 2540,
+              "width" : 1270
+            }
+          },
+          "glyph" : [
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : -635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : -635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            },
+            {
+              "path" : {
+                "_0" : [
+                  {
+                    "x" : 635,
+                    "y" : -1270
+                  },
+                  {
+                    "x" : 635,
+                    "y" : 1270
+                  }
+                ],
+                "closed" : false,
+                "filled" : false
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -2540,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 1905,
+              "name" : "1",
+              "netLabel" : "N_MINUS",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 2540,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 1905,
+              "name" : "2",
+              "netLabel" : "N_RAW",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "47p C0G"
+      },
+      {
+        "at" : {
+          "x" : 19050,
+          "y" : 26000
+        },
+        "body" : {
+          "origin" : {
+            "x" : -1600,
+            "y" : -800
+          },
+          "size" : {
+            "height" : 1600,
+            "width" : 3200
+          }
+        },
+        "device" : "resistor",
+        "flipped" : false,
+        "inBOM" : true,
+        "package" : {
+          "chip" : {
+            "_0" : "c1206"
+          }
+        },
+        "pads" : [
+          {
+            "at" : {
+              "x" : -1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "1",
+            "net" : -2151257604640415463,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          },
+          {
+            "at" : {
+              "x" : 1500,
+              "y" : 0
+            },
+            "drill" : 0,
+            "layer" : 0,
+            "name" : "2",
+            "net" : -2523685679497563424,
+            "shape" : 0,
+            "size" : {
+              "height" : 1750,
+              "width" : 1150
+            }
+          }
+        ],
+        "reference" : "R_N_OUT",
+        "rotation" : 0,
+        "symbol" : {
+          "at" : {
+            "x" : 205000,
+            "y" : 145000
+          },
+          "body" : {
+            "origin" : {
+              "x" : -2540,
+              "y" : -889
+            },
+            "size" : {
+              "height" : 1778,
+              "width" : 5080
+            }
+          },
+          "glyph" : [
+            {
+              "rect" : {
+                "_0" : {
+                  "origin" : {
+                    "x" : -2540,
+                    "y" : -889
+                  },
+                  "size" : {
+                    "height" : 1778,
+                    "width" : 5080
+                  }
+                }
+              }
+            }
+          ],
+          "mirrored" : false,
+          "pins" : [
+            {
+              "at" : {
+                "x" : -5080,
+                "y" : 0
+              },
+              "direction" : 2,
+              "length" : 2540,
+              "name" : "1",
+              "netLabel" : "N_RAW",
+              "number" : "1"
+            },
+            {
+              "at" : {
+                "x" : 5080,
+                "y" : 0
+              },
+              "direction" : 0,
+              "length" : 2540,
+              "name" : "2",
+              "netLabel" : "#3 N",
+              "number" : "2"
+            }
+          ],
+          "rotation" : 0
+        },
+        "value" : "470 0.5W"
+      }
+    ],
+    "holes" : [
+
+    ],
+    "rules" : {
+      "clearance" : 300,
+      "minTraceLength" : 100,
+      "traceWidth" : 400,
+      "viaDrill" : 500,
+      "viaPad" : 900
+    },
+    "sheetSize" : {
+      "height" : 180000,
+      "width" : 250000
+    },
+    "size" : {
+      "height" : 28000,
+      "width" : 25400
+    },
+    "solderMask" : true,
+    "stack" : 6,
+    "traces" : [
+      {
+        "end" : {
+          "x" : 4700,
+          "y" : 7800
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 4700,
+          "y" : 5700
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 17400,
+          "y" : 7800
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 17400,
+          "y" : 5700
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 7200,
+          "y" : 3200
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 5100,
+          "y" : 5300
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 7700,
+          "y" : 3200
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 7200,
+          "y" : 3200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 19900,
+          "y" : 3200
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 17800,
+          "y" : 5300
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 20400,
+          "y" : 3200
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 19900,
+          "y" : 3200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 17200,
+          "y" : 8200
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 17400,
+          "y" : 8200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 13900,
+          "y" : 11500
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 17200,
+          "y" : 8200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 13900,
+          "y" : 15200
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 13900,
+          "y" : 11500
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 14400,
+          "y" : 15700
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 13900,
+          "y" : 15200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 15100,
+          "y" : 15700
+        },
+        "layer" : 0,
+        "net" : -1076226322593415297,
+        "start" : {
+          "x" : 14400,
+          "y" : 15700
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 8000,
+          "y" : 11100
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 5100,
+          "y" : 8200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 11100,
+          "y" : 11100
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 8000,
+          "y" : 11100
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 11500,
+          "y" : 11500
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 11100,
+          "y" : 11100
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 11500,
+          "y" : 13900
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 11500,
+          "y" : 11500
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 11000,
+          "y" : 14400
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 11500,
+          "y" : 13900
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 10300,
+          "y" : 14400
+        },
+        "layer" : 0,
+        "net" : -2973466027594422975,
+        "start" : {
+          "x" : 11000,
+          "y" : 14400
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 20400,
+          "y" : 23300
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 20400,
+          "y" : 21200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 7700,
+          "y" : 23300
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 7700,
+          "y" : 21200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 18300,
+          "y" : 25800
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 20400,
+          "y" : 23700
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 17800,
+          "y" : 25800
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 18300,
+          "y" : 25800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 5600,
+          "y" : 25800
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 7700,
+          "y" : 23700
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 5100,
+          "y" : 25800
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 5600,
+          "y" : 25800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 2500,
+          "y" : 23600
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 4700,
+          "y" : 25800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 2500,
+          "y" : 15300
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 2500,
+          "y" : 23600
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 3300,
+          "y" : 14500
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 2500,
+          "y" : 15300
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 3300,
+          "y" : 12900
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 3300,
+          "y" : 14500
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 3900,
+          "y" : 12300
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 3300,
+          "y" : 12900
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 9900,
+          "y" : 12300
+        },
+        "layer" : 0,
+        "net" : -1192148787355638565,
+        "start" : {
+          "x" : 3900,
+          "y" : 12300
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 22700,
+          "y" : 18900
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 20800,
+          "y" : 20800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 22700,
+          "y" : 12100
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 22700,
+          "y" : 18900
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 22900,
+          "y" : 11900
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 22700,
+          "y" : 12100
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 22900,
+          "y" : 11000
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 22900,
+          "y" : 11900
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 21800,
+          "y" : 9900
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 22900,
+          "y" : 11000
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 19800,
+          "y" : 9900
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 21800,
+          "y" : 9900
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 19300,
+          "y" : 10400
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 19800,
+          "y" : 9900
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 19300,
+          "y" : 12100
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 19300,
+          "y" : 10400
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 18200,
+          "y" : 13200
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 19300,
+          "y" : 12100
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 15500,
+          "y" : 13200
+        },
+        "layer" : 0,
+        "net" : -2151257604640415463,
+        "start" : {
+          "x" : 18200,
+          "y" : 13200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 9450,
+          "y" : 5500
+        },
+        "layer" : 0,
+        "net" : -4167931178676924015,
+        "start" : {
+          "x" : 7850,
+          "y" : 5500
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 9450,
+          "y" : 8000
+        },
+        "layer" : 0,
+        "net" : -4167931178676924015,
+        "start" : {
+          "x" : 7850,
+          "y" : 8000
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 17550,
+          "y" : 3000
+        },
+        "layer" : 0,
+        "net" : -4167931178676924015,
+        "start" : {
+          "x" : 15950,
+          "y" : 3000
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 22150,
+          "y" : 5500
+        },
+        "layer" : 0,
+        "net" : -4167931178676924015,
+        "start" : {
+          "x" : 20550,
+          "y" : 5500
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 22150,
+          "y" : 8000
+        },
+        "layer" : 0,
+        "net" : -4167931178676924015,
+        "start" : {
+          "x" : 20550,
+          "y" : 8000
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 8300,
+          "y" : 13600
+        },
+        "layer" : 0,
+        "net" : -279919076917640951,
+        "start" : {
+          "x" : 8100,
+          "y" : 13800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 9900,
+          "y" : 13600
+        },
+        "layer" : 0,
+        "net" : -279919076917640951,
+        "start" : {
+          "x" : 8300,
+          "y" : 13600
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 16900,
+          "y" : 14800
+        },
+        "layer" : 0,
+        "net" : -2908749769241325961,
+        "start" : {
+          "x" : 17400,
+          "y" : 15300
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 15500,
+          "y" : 14800
+        },
+        "layer" : 0,
+        "net" : -2908749769241325961,
+        "start" : {
+          "x" : 16900,
+          "y" : 14800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 17400,
+          "y" : 23300
+        },
+        "layer" : 0,
+        "net" : -2908749769241325961,
+        "start" : {
+          "x" : 17400,
+          "y" : 21200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 4700,
+          "y" : 23300
+        },
+        "layer" : 0,
+        "net" : -279919076917640951,
+        "start" : {
+          "x" : 4700,
+          "y" : 21200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 17400,
+          "y" : 20800
+        },
+        "layer" : 0,
+        "net" : -2908749769241325961,
+        "start" : {
+          "x" : 17400,
+          "y" : 15700
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 6100,
+          "y" : 15800
+        },
+        "layer" : 0,
+        "net" : -279919076917640951,
+        "start" : {
+          "x" : 7700,
+          "y" : 14200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 6100,
+          "y" : 19800
+        },
+        "layer" : 0,
+        "net" : -279919076917640951,
+        "start" : {
+          "x" : 6100,
+          "y" : 15800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 5100,
+          "y" : 20800
+        },
+        "layer" : 0,
+        "net" : -279919076917640951,
+        "start" : {
+          "x" : 6100,
+          "y" : 19800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 4700,
+          "y" : 14200
+        },
+        "layer" : 0,
+        "net" : -4167931178676924015,
+        "start" : {
+          "x" : 4700,
+          "y" : 16300
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 4850,
+          "y" : 3000
+        },
+        "layer" : 0,
+        "net" : -3771730804065817177,
+        "start" : {
+          "x" : 3250,
+          "y" : 3000
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 20550,
+          "y" : 17400
+        },
+        "layer" : 0,
+        "net" : -3771730804065817177,
+        "start" : {
+          "x" : 20550,
+          "y" : 15500
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 7200,
+          "y" : 6800
+        },
+        "layer" : 5,
+        "net" : -3771730804065817177,
+        "start" : {
+          "x" : 3600,
+          "y" : 3200
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 9800,
+          "y" : 6800
+        },
+        "layer" : 5,
+        "net" : -3771730804065817177,
+        "start" : {
+          "x" : 7200,
+          "y" : 6800
+        },
+        "width" : 400
+      },
+      {
+        "end" : {
+          "x" : 20200,
+          "y" : 17200
+        },
+        "layer" : 5,
+        "net" : -3771730804065817177,
+        "start" : {
+          "x" : 9800,
+          "y" : 6800
+        },
+        "width" : 400
+      }
+    ],
+    "vias" : [
+      {
+        "at" : {
+          "x" : 9450,
+          "y" : 5500
+        },
+        "net" : -4167931178676924015
+      },
+      {
+        "at" : {
+          "x" : 9450,
+          "y" : 8000
+        },
+        "net" : -4167931178676924015
+      },
+      {
+        "at" : {
+          "x" : 15950,
+          "y" : 3000
+        },
+        "net" : -4167931178676924015
+      },
+      {
+        "at" : {
+          "x" : 22150,
+          "y" : 5500
+        },
+        "net" : -4167931178676924015
+      },
+      {
+        "at" : {
+          "x" : 22150,
+          "y" : 8000
+        },
+        "net" : -4167931178676924015
+      },
+      {
+        "at" : {
+          "x" : 3250,
+          "y" : 3000
+        },
+        "net" : -3771730804065817177
+      },
+      {
+        "at" : {
+          "x" : 20550,
+          "y" : 17400
+        },
+        "net" : -3771730804065817177
+      }
+    ],
+    "wires" : [
+
+    ]
+  },
+  "modules" : [
+    {
+      "filename" : "OP.pcb",
+      "id" : "6FE7DC73-55D4-5129-9377-01DD290B9D2C",
+      "interface" : [
+        {
+          "name" : "OUT1",
+          "number" : 1
+        },
+        {
+          "name" : "-IN1",
+          "number" : 2
+        },
+        {
+          "name" : "+IN1",
+          "number" : 3
+        },
+        {
+          "name" : "+IN2",
+          "number" : 4
+        },
+        {
+          "name" : "-IN2",
+          "number" : 5
+        },
+        {
+          "name" : "OUT2",
+          "number" : 6
+        }
+      ],
+      "layerCount" : 6,
+      "layoutAt" : {
+        "x" : 12700,
+        "y" : 14000
+      },
+      "layoutRotation" : 0,
+      "netLabels" : {
+        "1" : "P_RAW",
+        "2" : "P_MINUS",
+        "3" : "P_PLUS",
+        "4" : "N_PLUS",
+        "5" : "N_MINUS",
+        "6" : "N_RAW"
+      },
+      "parameterValues" : {
+
+      },
+      "parameters" : [
+
+      ],
+      "reference" : "M_OP",
+      "schematicAt" : {
+        "x" : 125000,
+        "y" : 85000
+      },
+      "schematicRotation" : 0,
+      "size" : {
+        "height" : 12700,
+        "width" : 25400
+      }
+    }
+  ],
+  "nets" : [
+    {
+      "id" : -4167931178676924015,
+      "name" : "GND"
+    },
+    {
+      "id" : -3771730804065817177,
+      "name" : "IN"
+    },
+    {
+      "id" : -2973466027594422975,
+      "name" : "P_PLUS"
+    },
+    {
+      "id" : -2908749769241325961,
+      "name" : "N_MINUS"
+    },
+    {
+      "id" : -2523709868753384066,
+      "name" : "P"
+    },
+    {
+      "id" : -2523685679497563424,
+      "name" : "N"
+    },
+    {
+      "id" : -2151257604640415463,
+      "name" : "N_RAW"
+    },
+    {
+      "id" : -1192148787355638565,
+      "name" : "P_RAW"
+    },
+    {
+      "id" : -1076226322593415297,
+      "name" : "N_PLUS"
+    },
+    {
+      "id" : -935081121389881150,
+      "name" : "VCC"
+    },
+    {
+      "id" : -933161374087403194,
+      "name" : "VEE"
+    },
+    {
+      "id" : -279919076917640951,
+      "name" : "P_MINUS"
+    }
+  ],
+  "parameters" : [
+
+  ]
+}
